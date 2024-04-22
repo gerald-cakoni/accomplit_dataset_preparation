@@ -41,7 +41,6 @@ def create_dataset(tsv_file, jsonl_file, columns_to_convert, column_mapping, cho
             reduced_record = {
                 'id': counter_id,
                 'text': record['text'],  # 'sentence' instead of 'text'
-                'choices': choices,
                 'label': record['label']
             }
             counter_id+=1

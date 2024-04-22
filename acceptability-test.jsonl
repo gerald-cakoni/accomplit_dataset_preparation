@@ -1,344 +1,344 @@
-{"id": 1, "text": "Anche senza supporto popolare lui proseguivano la lotta alla mafia.", "choices": ["Scarsa", "Buona", "Ottima", "Eccellente"], "label": 0}
-{"id": 2, "text": "Per produrre questi abiti io impiegavo solo stoffe di prima qualit.", "choices": ["Scarsa", "Buona", "Ottima", "Eccellente"], "label": 2}
-{"id": 3, "text": "Le musiciste hanno ascoltato il concerto.", "choices": ["Scarsa", "Buona", "Ottima", "Eccellente"], "label": 3}
-{"id": 4, "text": "Per concimare il terreno noi utilizzavo un prodotto biologico.", "choices": ["Scarsa", "Buona", "Ottima", "Eccellente"], "label": 0}
-{"id": 5, "text": "Le ragazze si arrabbiavano se loro limitavano le loro uscite durante la settimana.", "choices": ["Scarsa", "Buona", "Ottima", "Eccellente"], "label": 2}
-{"id": 6, "text": "Secondo te la causa della rivolta sono le foto del muro?", "choices": ["Scarsa", "Buona", "Ottima", "Eccellente"], "label": 2}
-{"id": 7, "text": "Hanno svaligiato i ladri la villa.", "choices": ["Scarsa", "Buona", "Ottima", "Eccellente"], "label": 1}
-{"id": 8, "text": "Hanno sorretto le fondamenta il palazzo.", "choices": ["Scarsa", "Buona", "Ottima", "Eccellente"], "label": 1}
-{"id": 9, "text": "Le devastazioni del territorio sono il motivo del malumore.", "choices": ["Scarsa", "Buona", "Ottima", "Eccellente"], "label": 3}
-{"id": 10, "text": "Sono precipitati gli scalatori.", "choices": ["Scarsa", "Buona", "Ottima", "Eccellente"], "label": 2}
-{"id": 11, "text": "Secondo te i negozianti hanno abbassato il prezzo?", "choices": ["Scarsa", "Buona", "Ottima", "Eccellente"], "label": 3}
-{"id": 12, "text": "Il motivo dello stupore sono le decorazioni della villa.", "choices": ["Scarsa", "Buona", "Ottima", "Eccellente"], "label": 2}
-{"id": 13, "text": "Cosa credi che il cuoco ha preparato la scorsa settimana?", "choices": ["Scarsa", "Buona", "Ottima", "Eccellente"], "label": 1}
-{"id": 14, "text": "Al ristorante di Giovanni normalmente loro ordinava del maiale.", "choices": ["Scarsa", "Buona", "Ottima", "Eccellente"], "label": 0}
-{"id": 15, "text": "Quando il cane dei vicini abbaiava noi chiamavamo sempre i carabinieri.", "choices": ["Scarsa", "Buona", "Ottima", "Eccellente"], "label": 3}
-{"id": 16, "text": "Quando il cane dei vicini abbaiava loro chiamavano sempre i carabinieri.", "choices": ["Scarsa", "Buona", "Ottima", "Eccellente"], "label": 3}
-{"id": 17, "text": "Ogni anno loro sprecavano tonnellate di carta per fare fotocopie.", "choices": ["Scarsa", "Buona", "Ottima", "Eccellente"], "label": 3}
-{"id": 18, "text": "Sono i critici che voi artisti avete impressionato al concorso internazionale.", "choices": ["Scarsa", "Buona", "Ottima", "Eccellente"], "label": 2}
-{"id": 19, "text": "Quale cameriere non sa chi ha preparato questo piatto la scorsa settimana?", "choices": ["Scarsa", "Buona", "Ottima", "Eccellente"], "label": 2}
-{"id": 20, "text": "Hanno letto i cuochi la ricetta.", "choices": ["Scarsa", "Buona", "Ottima", "Eccellente"], "label": 1}
-{"id": 21, "text": "Mentre il pubblico applaudiva io continuavo a gioire di tanto successo.", "choices": ["Scarsa", "Buona", "Ottima", "Eccellente"], "label": 3}
-{"id": 22, "text": "Hanno coltivato gli agricoltori il campo.", "choices": ["Scarsa", "Buona", "Ottima", "Eccellente"], "label": 1}
-{"id": 23, "text": "Hanno aperto i commessi il negozio.", "choices": ["Scarsa", "Buona", "Ottima", "Eccellente"], "label": 1}
-{"id": 24, "text": "Secondo te hanno pulito le casalinghe il bagno?", "choices": ["Scarsa", "Buona", "Ottima", "Eccellente"], "label": 1}
-{"id": 25, "text": "I lupi hanno ululato.", "choices": ["Scarsa", "Buona", "Ottima", "Eccellente"], "label": 3}
-{"id": 26, "text": "Le urbanizzazioni della capitale sono la sintesi della storia.", "choices": ["Scarsa", "Buona", "Ottima", "Eccellente"], "label": 2}
-{"id": 27, "text": "Mentre il pubblico applaudiva lui continuavano a gioire di tanto successo.", "choices": ["Scarsa", "Buona", "Ottima", "Eccellente"], "label": 0}
-{"id": 28, "text": "Gli ospiti hanno russato.", "choices": ["Scarsa", "Buona", "Ottima", "Eccellente"], "label": 3}
-{"id": 29, "text": "Durante la stagione fredda lui curavano sempre il raffreddore con i rimedi naturali.", "choices": ["Scarsa", "Buona", "Ottima", "Eccellente"], "label": 0}
-{"id": 30, "text": "Secondo te i ventilatori hanno rinfrescato la stanza?", "choices": ["Scarsa", "Buona", "Ottima", "Eccellente"], "label": 3}
-{"id": 31, "text": "Quando la crema era molto densa loro aggiungeva un po' di latte.", "choices": ["Scarsa", "Buona", "Ottima", "Eccellente"], "label": 0}
-{"id": 32, "text": "La motivazione dell'ammutinamento sono i cambi della rotta.", "choices": ["Scarsa", "Buona", "Ottima", "Eccellente"], "label": 2}
-{"id": 33, "text": "Hanno coperto le bende le ustioni.", "choices": ["Scarsa", "Buona", "Ottima", "Eccellente"], "label": 1}
-{"id": 34, "text": "Sono gli scrittori che gli editori hanno sollecitato alla fine della fiera.", "choices": ["Scarsa", "Buona", "Ottima", "Eccellente"], "label": 2}
-{"id": 35, "text": "Hanno pedalato i ciclisti.", "choices": ["Scarsa", "Buona", "Ottima", "Eccellente"], "label": 2}
-{"id": 36, "text": "Di solito io accettavo i lavori di traduzione solo con pagamento anticipato.", "choices": ["Scarsa", "Buona", "Ottima", "Eccellente"], "label": 3}
-{"id": 37, "text": "I festeggiamenti sono degenerati.", "choices": ["Scarsa", "Buona", "Ottima", "Eccellente"], "label": 3}
-{"id": 38, "text": "La salvezza dell'attivit sono le svendite della merce.", "choices": ["Scarsa", "Buona", "Ottima", "Eccellente"], "label": 1}
-{"id": 39, "text": "Le fortificazioni del palazzo sono il limite del latifondo.", "choices": ["Scarsa", "Buona", "Ottima", "Eccellente"], "label": 3}
-{"id": 40, "text": "Secondo te la protezione della fauna sono le recinzioni della propriet?", "choices": ["Scarsa", "Buona", "Ottima", "Eccellente"], "label": 1}
-{"id": 41, "text": "Quando il cane dei vicini abbaiava io chiamavamo sempre i carabinieri.", "choices": ["Scarsa", "Buona", "Ottima", "Eccellente"], "label": 1}
-{"id": 42, "text": "In ufficio erano tutti scontenti perch lui approvava il progetto del direttore.", "choices": ["Scarsa", "Buona", "Ottima", "Eccellente"], "label": 2}
-{"id": 43, "text": "Quando gli studenti erano troppo indisciplinati io richiedevamo la presenza del preside.", "choices": ["Scarsa", "Buona", "Ottima", "Eccellente"], "label": 0}
-{"id": 44, "text": "Secondo te sono marcite le cipolle?", "choices": ["Scarsa", "Buona", "Ottima", "Eccellente"], "label": 3}
-{"id": 45, "text": "L'origine della controversia sono le descrizioni del castello.", "choices": ["Scarsa", "Buona", "Ottima", "Eccellente"], "label": 2}
-{"id": 46, "text": "Secondo te le cipolle sono marcite?", "choices": ["Scarsa", "Buona", "Ottima", "Eccellente"], "label": 3}
-{"id": 47, "text": "I gatti entravano sempre in casa mentre loro serviva la cena.", "choices": ["Scarsa", "Buona", "Ottima", "Eccellente"], "label": 0}
-{"id": 48, "text": "Sono gli infermieri che voi primari avete chiamato in sala operatoria.", "choices": ["Scarsa", "Buona", "Ottima", "Eccellente"], "label": 2}
-{"id": 49, "text": "Tutte le domeniche durante la messa tu eseguivate un pezzo al pianoforte.", "choices": ["Scarsa", "Buona", "Ottima", "Eccellente"], "label": 0}
-{"id": 50, "text": "Tutte le domeniche durante la messa tu eseguivi un pezzo al pianoforte.", "choices": ["Scarsa", "Buona", "Ottima", "Eccellente"], "label": 3}
-{"id": 51, "text": "La testimonianza del malessere sono le dichiarazioni della protesta.", "choices": ["Scarsa", "Buona", "Ottima", "Eccellente"], "label": 1}
-{"id": 52, "text": "Prima della fine di ogni mese lui concludeva la lavorazione di tutti i capitoli.", "choices": ["Scarsa", "Buona", "Ottima", "Eccellente"], "label": 3}
-{"id": 53, "text": "Secondo te gli autobus sono partiti?", "choices": ["Scarsa", "Buona", "Ottima", "Eccellente"], "label": 3}
-{"id": 54, "text": "Secondo te hanno convissuto i fidanzati?", "choices": ["Scarsa", "Buona", "Ottima", "Eccellente"], "label": 2}
-{"id": 55, "text": "Mentre gli invitati giocavano a carte loro suonavano il pianoforte.", "choices": ["Scarsa", "Buona", "Ottima", "Eccellente"], "label": 3}
-{"id": 56, "text": "Siete voi custodi che voi postini avete interpellato per aprire la cassetta.", "choices": ["Scarsa", "Buona", "Ottima", "Eccellente"], "label": 1}
-{"id": 57, "text": "Il professore si arrabbiava quando tu modificavi il piano di lavoro.", "choices": ["Scarsa", "Buona", "Ottima", "Eccellente"], "label": 2}
-{"id": 58, "text": "Hanno abbassato i negozianti il prezzo.", "choices": ["Scarsa", "Buona", "Ottima", "Eccellente"], "label": 1}
-{"id": 59, "text": "Siete voi ballerini che i coreografi hanno ringraziato alla prima dello spettacolo.", "choices": ["Scarsa", "Buona", "Ottima", "Eccellente"], "label": 2}
-{"id": 60, "text": "La conclusione della festa sono i racconti del viaggio.", "choices": ["Scarsa", "Buona", "Ottima", "Eccellente"], "label": 2}
-{"id": 61, "text": "Hanno accordato gli specialisti lo strumento.", "choices": ["Scarsa", "Buona", "Ottima", "Eccellente"], "label": 1}
-{"id": 62, "text": "Quando il bambino non arrivava lui informavano i genitori.", "choices": ["Scarsa", "Buona", "Ottima", "Eccellente"], "label": 0}
-{"id": 63, "text": "Secondo te le interpretazioni del risultato sono la conferma dell'ipotesi?", "choices": ["Scarsa", "Buona", "Ottima", "Eccellente"], "label": 2}
-{"id": 64, "text": "Secondo te i treni sono deragliati?", "choices": ["Scarsa", "Buona", "Ottima", "Eccellente"], "label": 3}
-{"id": 65, "text": "Siete voi giornalisti che voi consiglieri avete accolto all'entrata del palazzo.", "choices": ["Scarsa", "Buona", "Ottima", "Eccellente"], "label": 1}
-{"id": 66, "text": "Prima che il presidente andasse in pensione loro otteneva dei vantaggi.", "choices": ["Scarsa", "Buona", "Ottima", "Eccellente"], "label": 0}
-{"id": 67, "text": "Lucia diceva che lui ingannava il nostro datore di lavoro.", "choices": ["Scarsa", "Buona", "Ottima", "Eccellente"], "label": 2}
-{"id": 68, "text": "Mentre il pubblico applaudiva noi continuavamo a gioire di tanto successo.", "choices": ["Scarsa", "Buona", "Ottima", "Eccellente"], "label": 3}
-{"id": 69, "text": "Secondo te gli adolescenti hanno apprezzato il videogioco?", "choices": ["Scarsa", "Buona", "Ottima", "Eccellente"], "label": 3}
-{"id": 70, "text": "Le trascrizioni dell'intercettazione sono la documentazione del crimine.", "choices": ["Scarsa", "Buona", "Ottima", "Eccellente"], "label": 3}
-{"id": 71, "text": "Secondo te i vicini sono scesi?", "choices": ["Scarsa", "Buona", "Ottima", "Eccellente"], "label": 3}
-{"id": 72, "text": "Sono scappati i nemici.", "choices": ["Scarsa", "Buona", "Ottima", "Eccellente"], "label": 3}
-{"id": 73, "text": "Sono lievitati i debiti.", "choices": ["Scarsa", "Buona", "Ottima", "Eccellente"], "label": 2}
-{"id": 74, "text": "La rovina del paese sono le motivazioni dello scandalo.", "choices": ["Scarsa", "Buona", "Ottima", "Eccellente"], "label": 1}
-{"id": 75, "text": "Secondo te la rovina del paese sono le motivazioni dello scandalo?", "choices": ["Scarsa", "Buona", "Ottima", "Eccellente"], "label": 1}
-{"id": 76, "text": "Secondo te sono partiti gli autobus?", "choices": ["Scarsa", "Buona", "Ottima", "Eccellente"], "label": 3}
-{"id": 77, "text": "Secondo te hanno starnutito i malati?", "choices": ["Scarsa", "Buona", "Ottima", "Eccellente"], "label": 2}
-{"id": 78, "text": "Siete voi ballerini che voi coreografi avete ringraziato alla prima dello spettacolo.", "choices": ["Scarsa", "Buona", "Ottima", "Eccellente"], "label": 0}
-{"id": 79, "text": "I fidanzati hanno convissuto.", "choices": ["Scarsa", "Buona", "Ottima", "Eccellente"], "label": 3}
-{"id": 80, "text": "I cuccioli sono nati.", "choices": ["Scarsa", "Buona", "Ottima", "Eccellente"], "label": 3}
-{"id": 81, "text": "Sono sopravvissute le sorelle.", "choices": ["Scarsa", "Buona", "Ottima", "Eccellente"], "label": 3}
-{"id": 82, "text": "Secondo te il motivo del malumore sono le devastazioni del territorio?", "choices": ["Scarsa", "Buona", "Ottima", "Eccellente"], "label": 2}
-{"id": 83, "text": "Prima di evadere un ordine tu contavate sempre i pezzi in ogni scatola.", "choices": ["Scarsa", "Buona", "Ottima", "Eccellente"], "label": 0}
-{"id": 84, "text": "Quale edificio ti chiedi chi ha costruito negli anni Sessanta?", "choices": ["Scarsa", "Buona", "Ottima", "Eccellente"], "label": 0}
-{"id": 85, "text": "Di solito nel secondo semestre noi seguivo il corso di storia.", "choices": ["Scarsa", "Buona", "Ottima", "Eccellente"], "label": 0}
-{"id": 86, "text": "I racconti del viaggio sono la conclusione della festa.", "choices": ["Scarsa", "Buona", "Ottima", "Eccellente"], "label": 3}
-{"id": 87, "text": "Quale piatto credi che ha preparato la scorsa settimana?", "choices": ["Scarsa", "Buona", "Ottima", "Eccellente"], "label": 1}
-{"id": 88, "text": "Siete voi geometri che voi costruttori avete accusato per il crollo del ponte.", "choices": ["Scarsa", "Buona", "Ottima", "Eccellente"], "label": 0}
-{"id": 89, "text": "Secondo te hanno scioperato gli operai?", "choices": ["Scarsa", "Buona", "Ottima", "Eccellente"], "label": 2}
-{"id": 90, "text": "Siete voi architetti che voi ingegneri avete consultato prima di iniziare i lavori.", "choices": ["Scarsa", "Buona", "Ottima", "Eccellente"], "label": 0}
-{"id": 91, "text": "Le ragazze si arrabbiavano se io limitavamo le loro uscite durante la settimana.", "choices": ["Scarsa", "Buona", "Ottima", "Eccellente"], "label": 0}
-{"id": 92, "text": "Sono i ministri che voi deputati avete insultato durante la sessione parlamentare.", "choices": ["Scarsa", "Buona", "Ottima", "Eccellente"], "label": 2}
-{"id": 93, "text": "Quale articolo credi che ha scritto in un pomeriggio?", "choices": ["Scarsa", "Buona", "Ottima", "Eccellente"], "label": 1}
-{"id": 94, "text": "Siete voi idraulici che gli elettricisti hanno visto nella casa in ristrutturazione.", "choices": ["Scarsa", "Buona", "Ottima", "Eccellente"], "label": 2}
-{"id": 95, "text": "La direttrice ha capito che loro firmava le giustificazioni delle assenze.", "choices": ["Scarsa", "Buona", "Ottima", "Eccellente"], "label": 0}
-{"id": 96, "text": "Quale collega sa quale giornalista ha scritto questo articolo in un pomeriggio?", "choices": ["Scarsa", "Buona", "Ottima", "Eccellente"], "label": 2}
-{"id": 97, "text": "Secondo te il simbolo della stagione sono le potature della vigna?", "choices": ["Scarsa", "Buona", "Ottima", "Eccellente"], "label": 2}
-{"id": 98, "text": "Secondo te le recite della preghiera sono la caratteristica del convento?", "choices": ["Scarsa", "Buona", "Ottima", "Eccellente"], "label": 2}
-{"id": 99, "text": "Secondo te hanno coperto le bende le ustioni?", "choices": ["Scarsa", "Buona", "Ottima", "Eccellente"], "label": 1}
-{"id": 100, "text": "Quando gli invitati erano in ritardo noi avvertivo sempre il ristorante.", "choices": ["Scarsa", "Buona", "Ottima", "Eccellente"], "label": 0}
-{"id": 101, "text": "Sono caduti i quadri.", "choices": ["Scarsa", "Buona", "Ottima", "Eccellente"], "label": 3}
-{"id": 102, "text": "Secondo te i gatti hanno miagolato?", "choices": ["Scarsa", "Buona", "Ottima", "Eccellente"], "label": 3}
-{"id": 103, "text": "Ogni volta che arrivava il direttore io cambiavo umore.", "choices": ["Scarsa", "Buona", "Ottima", "Eccellente"], "label": 3}
-{"id": 104, "text": "Sono ingrassati i maiali.", "choices": ["Scarsa", "Buona", "Ottima", "Eccellente"], "label": 2}
-{"id": 105, "text": "I mobili hanno riempito la stanza.", "choices": ["Scarsa", "Buona", "Ottima", "Eccellente"], "label": 3}
-{"id": 106, "text": "Secondo te i fuochi hanno scaldato l'accampamento?", "choices": ["Scarsa", "Buona", "Ottima", "Eccellente"], "label": 3}
-{"id": 107, "text": "Secondo te sono soddisfatti i clienti?", "choices": ["Scarsa", "Buona", "Ottima", "Eccellente"], "label": 3}
-{"id": 108, "text": "I ventilatori hanno rinfrescato la stanza.", "choices": ["Scarsa", "Buona", "Ottima", "Eccellente"], "label": 3}
-{"id": 109, "text": "Appena la mamma usciva di casa noi accendevamo il televisore in cucina.", "choices": ["Scarsa", "Buona", "Ottima", "Eccellente"], "label": 3}
-{"id": 110, "text": "Secondo te il limite del latifondo sono le fortificazioni del palazzo?", "choices": ["Scarsa", "Buona", "Ottima", "Eccellente"], "label": 2}
-{"id": 111, "text": "Siete voi giocatori che gli allenatori hanno incolpato per l'esito della partita.", "choices": ["Scarsa", "Buona", "Ottima", "Eccellente"], "label": 2}
-{"id": 112, "text": "In ufficio erano tutti scontenti perch noi approvavo il progetto del direttore.", "choices": ["Scarsa", "Buona", "Ottima", "Eccellente"], "label": 0}
-{"id": 113, "text": "Anche se il direttore non voleva loro accordavano il prestito al cliente.", "choices": ["Scarsa", "Buona", "Ottima", "Eccellente"], "label": 2}
-{"id": 114, "text": "Gli scalatori sono precipitati.", "choices": ["Scarsa", "Buona", "Ottima", "Eccellente"], "label": 3}
-{"id": 115, "text": "Le cipolle sono marcite.", "choices": ["Scarsa", "Buona", "Ottima", "Eccellente"], "label": 3}
-{"id": 116, "text": "Voci di corridoio dicono che noi evitavamo la segretaria del dipartimento.", "choices": ["Scarsa", "Buona", "Ottima", "Eccellente"], "label": 2}
-{"id": 117, "text": "Gli anziani hanno guardato la televisione.", "choices": ["Scarsa", "Buona", "Ottima", "Eccellente"], "label": 3}
-{"id": 118, "text": "Prima di chiudere la cucina del ristorante tu asciugavi tutti i piatti.", "choices": ["Scarsa", "Buona", "Ottima", "Eccellente"], "label": 3}
-{"id": 119, "text": "Da un po' di tempo loro consideravano il comunismo ormai morto.", "choices": ["Scarsa", "Buona", "Ottima", "Eccellente"], "label": 2}
-{"id": 120, "text": "Gli adolescenti hanno apprezzato il videogioco.", "choices": ["Scarsa", "Buona", "Ottima", "Eccellente"], "label": 3}
-{"id": 121, "text": "Se il treno non arrivava noi saltavamo la prima parte dello spettacolo.", "choices": ["Scarsa", "Buona", "Ottima", "Eccellente"], "label": 1}
-{"id": 122, "text": "Hanno muggito le mucche.", "choices": ["Scarsa", "Buona", "Ottima", "Eccellente"], "label": 2}
-{"id": 123, "text": "I cambi della rotta sono la motivazione dell'ammutinamento.", "choices": ["Scarsa", "Buona", "Ottima", "Eccellente"], "label": 2}
-{"id": 124, "text": "Se la banca non accordava il prestito loro rischiava il fallimento.", "choices": ["Scarsa", "Buona", "Ottima", "Eccellente"], "label": 0}
-{"id": 125, "text": "I tronchi hanno bloccato il sentiero.", "choices": ["Scarsa", "Buona", "Ottima", "Eccellente"], "label": 3}
-{"id": 126, "text": "Secondo te sono crollate le mura?", "choices": ["Scarsa", "Buona", "Ottima", "Eccellente"], "label": 2}
-{"id": 127, "text": "Siete voi macchinisti che i controllori hanno salutato alla stazione di Milano.", "choices": ["Scarsa", "Buona", "Ottima", "Eccellente"], "label": 2}
-{"id": 128, "text": "I commessi hanno aperto il negozio.", "choices": ["Scarsa", "Buona", "Ottima", "Eccellente"], "label": 3}
-{"id": 129, "text": "Secondo te le decorazioni della villa sono il motivo dello stupore?", "choices": ["Scarsa", "Buona", "Ottima", "Eccellente"], "label": 2}
-{"id": 130, "text": "Secondo te i prosciugamenti del canale sono la protezione della citt?", "choices": ["Scarsa", "Buona", "Ottima", "Eccellente"], "label": 2}
-{"id": 131, "text": "Secondo te l'identificazione della nazione sono le raffigurazioni della vittori", "choices": ["Scarsa", "Buona", "Ottima", "Eccellente"], "label": 1}
-{"id": 132, "text": "Secondo te l'origine della controversia sono le descrizioni del castello?", "choices": ["Scarsa", "Buona", "Ottima", "Eccellente"], "label": 1}
-{"id": 133, "text": "Sono scomparse le prove.", "choices": ["Scarsa", "Buona", "Ottima", "Eccellente"], "label": 3}
-{"id": 134, "text": "I camion hanno frenato.", "choices": ["Scarsa", "Buona", "Ottima", "Eccellente"], "label": 3}
-{"id": 135, "text": "Nel corso dell'anno voi prevedevi molte sconfitte per la Fiorentina.", "choices": ["Scarsa", "Buona", "Ottima", "Eccellente"], "label": 0}
-{"id": 136, "text": "Secondo te hanno telefonato le insegnanti?", "choices": ["Scarsa", "Buona", "Ottima", "Eccellente"], "label": 2}
-{"id": 137, "text": "Quale turista si chiede quale ingegnere ha costruito questo edificio negli anni Sessanta? ", "choices": ["Scarsa", "Buona", "Ottima", "Eccellente"], "label": 1}
-{"id": 138, "text": "Hanno scioperato gli operai.", "choices": ["Scarsa", "Buona", "Ottima", "Eccellente"], "label": 2}
-{"id": 139, "text": "Hanno ululato i lupi.", "choices": ["Scarsa", "Buona", "Ottima", "Eccellente"], "label": 2}
-{"id": 140, "text": "Siete voi cantanti che voi musicisti avete riconosciuto al concerto di beneficenza.", "choices": ["Scarsa", "Buona", "Ottima", "Eccellente"], "label": 1}
-{"id": 141, "text": "Quando il dipartimento concedeva dei fondi voi spendevi tutti i soldi in trasferte.", "choices": ["Scarsa", "Buona", "Ottima", "Eccellente"], "label": 0}
-{"id": 142, "text": "Durante il concorso lui selezionava sempre le ragazze pi belle.", "choices": ["Scarsa", "Buona", "Ottima", "Eccellente"], "label": 3}
-{"id": 143, "text": "Quale problema credi che ha risolto in un'ora?", "choices": ["Scarsa", "Buona", "Ottima", "Eccellente"], "label": 1}
-{"id": 144, "text": "Per contrastare la crescente criminalit voi difendevate la casa con un recinto.", "choices": ["Scarsa", "Buona", "Ottima", "Eccellente"], "label": 2}
-{"id": 145, "text": "Il falegname  arrivato mentre loro montavano la mensola.", "choices": ["Scarsa", "Buona", "Ottima", "Eccellente"], "label": 2}
-{"id": 146, "text": "Quando le cose si mettevano male voi esprimevi la rabbia piangendo.", "choices": ["Scarsa", "Buona", "Ottima", "Eccellente"], "label": 0}
-{"id": 147, "text": "Sono esondati i fiumi.", "choices": ["Scarsa", "Buona", "Ottima", "Eccellente"], "label": 3}
-{"id": 148, "text": "Secondo te hanno ululato i lupi?", "choices": ["Scarsa", "Buona", "Ottima", "Eccellente"], "label": 3}
-{"id": 149, "text": "Quando gli studenti erano troppo indisciplinati lui richiedeva la presenza del preside.", "choices": ["Scarsa", "Buona", "Ottima", "Eccellente"], "label": 2}
-{"id": 150, "text": "Con dell'olio rimasto noi friggevamo le melanzane.", "choices": ["Scarsa", "Buona", "Ottima", "Eccellente"], "label": 2}
-{"id": 151, "text": "Quale piatto non sai chi ha preparato la scorsa settimana?", "choices": ["Scarsa", "Buona", "Ottima", "Eccellente"], "label": 1}
-{"id": 152, "text": "I ladri hanno svaligiato la villa.", "choices": ["Scarsa", "Buona", "Ottima", "Eccellente"], "label": 3}
-{"id": 153, "text": "Se la banca non accordava il prestito loro rischiavano il fallimento.", "choices": ["Scarsa", "Buona", "Ottima", "Eccellente"], "label": 2}
-{"id": 154, "text": "Tutte le sere tu preparavi la cartella per la mattina.", "choices": ["Scarsa", "Buona", "Ottima", "Eccellente"], "label": 3}
-{"id": 155, "text": "Quando la crema era molto densa lui aggiungeva un po' di latte.", "choices": ["Scarsa", "Buona", "Ottima", "Eccellente"], "label": 3}
-{"id": 156, "text": "Hanno filtrato i vetri la luce.", "choices": ["Scarsa", "Buona", "Ottima", "Eccellente"], "label": 0}
-{"id": 157, "text": "Siete voi camerieri che i cassieri avete rimproverato dopo la chiusura del ristorante.", "choices": ["Scarsa", "Buona", "Ottima", "Eccellente"], "label": 0}
-{"id": 158, "text": "Anche se il direttore non voleva lui accordavano il prestito al cliente.", "choices": ["Scarsa", "Buona", "Ottima", "Eccellente"], "label": 0}
-{"id": 159, "text": "Secondo te hanno bestemmiato i ragazzi?", "choices": ["Scarsa", "Buona", "Ottima", "Eccellente"], "label": 2}
-{"id": 160, "text": "Secondo te sono scesi i vicini?", "choices": ["Scarsa", "Buona", "Ottima", "Eccellente"], "label": 2}
-{"id": 161, "text": "Secondo te la testimonianza del malessere sono le dichiarazioni della protesta?", "choices": ["Scarsa", "Buona", "Ottima", "Eccellente"], "label": 2}
-{"id": 162, "text": "Nel corso dell'anno lui prevedevano molte sconfitte per la Fiorentina.", "choices": ["Scarsa", "Buona", "Ottima", "Eccellente"], "label": 0}
-{"id": 163, "text": "Secondo te hanno registrato le telecamere l'evento?", "choices": ["Scarsa", "Buona", "Ottima", "Eccellente"], "label": 1}
-{"id": 164, "text": "Anche se il direttore non voleva loro accordava il prestito al cliente.", "choices": ["Scarsa", "Buona", "Ottima", "Eccellente"], "label": 0}
-{"id": 165, "text": "I maiali sono ingrassati.", "choices": ["Scarsa", "Buona", "Ottima", "Eccellente"], "label": 3}
-{"id": 166, "text": "Hanno pattinato le ragazze.", "choices": ["Scarsa", "Buona", "Ottima", "Eccellente"], "label": 1}
-{"id": 167, "text": "I relitti sono sprofondati.", "choices": ["Scarsa", "Buona", "Ottima", "Eccellente"], "label": 3}
-{"id": 168, "text": "Secondo te i commessi hanno aperto il negozio?", "choices": ["Scarsa", "Buona", "Ottima", "Eccellente"], "label": 3}
-{"id": 169, "text": "Hanno abbaiato i cani.", "choices": ["Scarsa", "Buona", "Ottima", "Eccellente"], "label": 2}
-{"id": 170, "text": "Prima di spegnere il computer noi salvavo tutto sul server.", "choices": ["Scarsa", "Buona", "Ottima", "Eccellente"], "label": 0}
-{"id": 171, "text": "Secondo te sono ammuffite le patate?", "choices": ["Scarsa", "Buona", "Ottima", "Eccellente"], "label": 2}
-{"id": 172, "text": "Secondo te i ciclisti hanno pedalato?", "choices": ["Scarsa", "Buona", "Ottima", "Eccellente"], "label": 3}
-{"id": 173, "text": "Siete voi attori che i registi hanno incoraggiato prima dello spettacolo.", "choices": ["Scarsa", "Buona", "Ottima", "Eccellente"], "label": 2}
-{"id": 174, "text": "I falegnami hanno costruito il tavolo.", "choices": ["Scarsa", "Buona", "Ottima", "Eccellente"], "label": 3}
-{"id": 175, "text": "Sono i politici che i sindacalisti hanno criticato alla manifestazione in piazza.", "choices": ["Scarsa", "Buona", "Ottima", "Eccellente"], "label": 2}
-{"id": 176, "text": "Secondo te le automobili hanno sbandato?", "choices": ["Scarsa", "Buona", "Ottima", "Eccellente"], "label": 3}
-{"id": 177, "text": "Le ragazze si arrabbiavano se lui limitava le loro uscite durante la settimana.", "choices": ["Scarsa", "Buona", "Ottima", "Eccellente"], "label": 3}
-{"id": 178, "text": "Sono i turisti che voi bagnini avete aiutato sulla spiaggia affollata.", "choices": ["Scarsa", "Buona", "Ottima", "Eccellente"], "label": 2}
-{"id": 179, "text": "I giocatori hanno barato.", "choices": ["Scarsa", "Buona", "Ottima", "Eccellente"], "label": 3}
-{"id": 180, "text": "Sono impazziti i giudici.", "choices": ["Scarsa", "Buona", "Ottima", "Eccellente"], "label": 2}
-{"id": 181, "text": "Tutti sanno che loro cantava i salmi in chiesa.", "choices": ["Scarsa", "Buona", "Ottima", "Eccellente"], "label": 0}
-{"id": 182, "text": "Secondo te sono bastate le provviste?", "choices": ["Scarsa", "Buona", "Ottima", "Eccellente"], "label": 3}
-{"id": 183, "text": "La causa della rivolta sono le foto del muro.", "choices": ["Scarsa", "Buona", "Ottima", "Eccellente"], "label": 2}
-{"id": 184, "text": "Secondo te hanno gareggiato le ginnaste?", "choices": ["Scarsa", "Buona", "Ottima", "Eccellente"], "label": 2}
-{"id": 185, "text": "Secondo te gli alpinisti hanno sciato?", "choices": ["Scarsa", "Buona", "Ottima", "Eccellente"], "label": 3}
-{"id": 186, "text": "Secondo te hanno ricoperto i pannelli il tetto?", "choices": ["Scarsa", "Buona", "Ottima", "Eccellente"], "label": 1}
-{"id": 187, "text": "Siete voi pagliacci che voi domatori avete preceduto all'ingresso in sala.", "choices": ["Scarsa", "Buona", "Ottima", "Eccellente"], "label": 0}
-{"id": 188, "text": "Quale articolo credi che il giornalista ha scritto in un pomeriggio?", "choices": ["Scarsa", "Buona", "Ottima", "Eccellente"], "label": 1}
-{"id": 189, "text": "Secondo te i tronchi hanno bloccato il sentiero?", "choices": ["Scarsa", "Buona", "Ottima", "Eccellente"], "label": 3}
-{"id": 190, "text": "I dipendenti scioperavano sempre se noi imponevamo turni di lavoro pi lunghi.", "choices": ["Scarsa", "Buona", "Ottima", "Eccellente"], "label": 2}
-{"id": 191, "text": "Se si verificava una perdita di acqua voi fermavate ogni volta il depuratore.", "choices": ["Scarsa", "Buona", "Ottima", "Eccellente"], "label": 2}
-{"id": 192, "text": "Cosa ti chiedi chi ha costruito negli anni Sessanta?", "choices": ["Scarsa", "Buona", "Ottima", "Eccellente"], "label": 0}
-{"id": 193, "text": "Secondo te gli uccelli hanno cinguettato?", "choices": ["Scarsa", "Buona", "Ottima", "Eccellente"], "label": 3}
-{"id": 194, "text": "Sono i marinai che i passeggeri hanno avvertito prima del naufragio.", "choices": ["Scarsa", "Buona", "Ottima", "Eccellente"], "label": 2}
-{"id": 195, "text": "Secondo te la conclusione dello sciopero sono le dichiarazioni dell'accordo?", "choices": ["Scarsa", "Buona", "Ottima", "Eccellente"], "label": 1}
-{"id": 196, "text": "Mentre il bambino dormiva lui pulivano la cucina.", "choices": ["Scarsa", "Buona", "Ottima", "Eccellente"], "label": 0}
-{"id": 197, "text": "Quando il bambino non arrivava loro informavano i genitori.", "choices": ["Scarsa", "Buona", "Ottima", "Eccellente"], "label": 2}
-{"id": 198, "text": "Secondo te le svendite della merce sono la salvezza dell'attivit?", "choices": ["Scarsa", "Buona", "Ottima", "Eccellente"], "label": 2}
-{"id": 199, "text": "Secondo te le stesure della costituzione sono il fondamento dello stato?", "choices": ["Scarsa", "Buona", "Ottima", "Eccellente"], "label": 2}
-{"id": 200, "text": "Anche senza supporto popolare loro proseguiva la lotta alla mafia.", "choices": ["Scarsa", "Buona", "Ottima", "Eccellente"], "label": 0}
-{"id": 201, "text": "Quale problema ti chiedi chi ha risolto in un'ora?", "choices": ["Scarsa", "Buona", "Ottima", "Eccellente"], "label": 0}
-{"id": 202, "text": "Qualcuno ha detto che lui scriveva una lettera a casa ogni sera.", "choices": ["Scarsa", "Buona", "Ottima", "Eccellente"], "label": 3}
-{"id": 203, "text": "Sono ammuffite le patate.", "choices": ["Scarsa", "Buona", "Ottima", "Eccellente"], "label": 3}
-{"id": 204, "text": "Per produrre questi abiti noi impiegavo solo stoffe di prima qualit.", "choices": ["Scarsa", "Buona", "Ottima", "Eccellente"], "label": 0}
-{"id": 205, "text": "Il limite del latifondo sono le fortificazioni del palazzo.", "choices": ["Scarsa", "Buona", "Ottima", "Eccellente"], "label": 2}
-{"id": 206, "text": "Mentre il bambino dormiva loro pulivano la cucina.", "choices": ["Scarsa", "Buona", "Ottima", "Eccellente"], "label": 3}
-{"id": 207, "text": "Secondo te sono arrivati gli ospiti?", "choices": ["Scarsa", "Buona", "Ottima", "Eccellente"], "label": 3}
-{"id": 208, "text": "Secondo te i negozianti hanno protestato?", "choices": ["Scarsa", "Buona", "Ottima", "Eccellente"], "label": 3}
-{"id": 209, "text": "Lucia diceva che voi ingannavi il nostro datore di lavoro.", "choices": ["Scarsa", "Buona", "Ottima", "Eccellente"], "label": 0}
-{"id": 210, "text": "Prima di chiudere la cucina del ristorante voi asciugavi tutti i piatti.", "choices": ["Scarsa", "Buona", "Ottima", "Eccellente"], "label": 0}
-{"id": 211, "text": "Hanno svolto i computer il calcolo.", "choices": ["Scarsa", "Buona", "Ottima", "Eccellente"], "label": 1}
-{"id": 212, "text": "Ci mostrarono il paziente che Maria voleva vederlo e il dottore visitarlo.", "choices": ["Scarsa", "Buona", "Ottima", "Eccellente"], "label": 1}
-{"id": 213, "text": "Questo candidato, il professore ha detto che lo studente avrebbe dovuto descrivere questo problema.", "choices": ["Scarsa", "Buona", "Ottima", "Eccellente"], "label": 1}
-{"id": 214, "text": "Chi  che lei dovrebbe descrivere questo problema?", "choices": ["Scarsa", "Buona", "Ottima", "Eccellente"], "label": 0}
-{"id": 215, "text": "Sapevo che Maria aveva chiamato e Marco medicato .", "choices": ["Scarsa", "Buona", "Ottima", "Eccellente"], "label": 1}
-{"id": 216, "text": "Quale problema lo studente dovrebbe descrivere?", "choices": ["Scarsa", "Buona", "Ottima", "Eccellente"], "label": 3}
-{"id": 217, "text": "Carlo conosceva bene la persona con cui fare qualcosa divertiva sempre Sara.", "choices": ["Scarsa", "Buona", "Ottima", "Eccellente"], "label": 1}
-{"id": 218, "text": "Maria sostiene di avere gi finito questo esercizio in tempo utile.", "choices": ["Scarsa", "Buona", "Ottima", "Eccellente"], "label": 3}
-{"id": 219, "text": "Ci mostrarono il paziente che Maria voleva vedere e Marco medicare.", "choices": ["Scarsa", "Buona", "Ottima", "Eccellente"], "label": 2}
-{"id": 220, "text": "Che cos' che lui ha detto che Carla avrebbe dovuto menzionare questo problema?", "choices": ["Scarsa", "Buona", "Ottima", "Eccellente"], "label": 1}
-{"id": 221, "text": "Maria ha saputo dove Carlo incontrer i dottori.", "choices": ["Scarsa", "Buona", "Ottima", "Eccellente"], "label": 3}
-{"id": 222, "text": "Conoscevo il paziente che l'infermiera voleva vederlo e Marco testarlo.", "choices": ["Scarsa", "Buona", "Ottima", "Eccellente"], "label": 0}
-{"id": 223, "text": "Chi  che lo studente dovrebbe considerare questo problema?", "choices": ["Scarsa", "Buona", "Ottima", "Eccellente"], "label": 1}
-{"id": 224, "text": "Sapevo che l'infermiera voleva registrarlo e Marco visitarlo.", "choices": ["Scarsa", "Buona", "Ottima", "Eccellente"], "label": 3}
-{"id": 225, "text": "Carla dovrebbe menzionare.", "choices": ["Scarsa", "Buona", "Ottima", "Eccellente"], "label": 2}
-{"id": 226, "text": "Sapevo chi l'infermiera voleva registrarlo e Marco visitare.", "choices": ["Scarsa", "Buona", "Ottima", "Eccellente"], "label": 1}
-{"id": 227, "text": "Ci dissero Chi l'infermiera aveva registrato un uomo e il dottore visitato l'anziano signore.", "choices": ["Scarsa", "Buona", "Ottima", "Eccellente"], "label": 0}
-{"id": 228, "text": "Maria si aspetta che qualcuno possa aver finito alcunch in cos poco tempo?", "choices": ["Scarsa", "Buona", "Ottima", "Eccellente"], "label": 2}
-{"id": 229, "text": "Chi  che il professore ha pensato che Carla avrebbe dovuto menzionare questo candidato?", "choices": ["Scarsa", "Buona", "Ottima", "Eccellente"], "label": 0}
-{"id": 230, "text": "Nessuno studente si aspetta che un altro studente abbia mai finito questo esercizio in tempo utile?", "choices": ["Scarsa", "Buona", "Ottima", "Eccellente"], "label": 2}
-{"id": 231, "text": "Ci mostrarono il paziente che Maria aveva visto un paziente e il dottore visitato un malato.", "choices": ["Scarsa", "Buona", "Ottima", "Eccellente"], "label": 1}
-{"id": 232, "text": "Nessuno studente sospetta che qualcuno abbia mai finito questo esercizio in tempo utile?", "choices": ["Scarsa", "Buona", "Ottima", "Eccellente"], "label": 2}
-{"id": 233, "text": "Sapevo che Maria voleva chiamarlo e Marco visitarlo.", "choices": ["Scarsa", "Buona", "Ottima", "Eccellente"], "label": 3}
-{"id": 234, "text": "Quale candidato Susanna ha pensato che lo studente avrebbe dovuto considerarlo?", "choices": ["Scarsa", "Buona", "Ottima", "Eccellente"], "label": 1}
-{"id": 235, "text": "Maria sostiene di avere mai finito questo esercizio in tempo utile .", "choices": ["Scarsa", "Buona", "Ottima", "Eccellente"], "label": 1}
-{"id": 236, "text": "Quale candidato Carla dovrebbe considerare?", "choices": ["Scarsa", "Buona", "Ottima", "Eccellente"], "label": 3}
-{"id": 237, "text": "Maria ti ha detto dove il ministro parler col diplomatico.", "choices": ["Scarsa", "Buona", "Ottima", "Eccellente"], "label": 2}
-{"id": 238, "text": "Carlo conosceva bene la persona che Anna sperava sempre di incontrare .", "choices": ["Scarsa", "Buona", "Ottima", "Eccellente"], "label": 3}
-{"id": 239, "text": "il professore ha detto che lo studente avrebbe dovuto descrivere questo problema.", "choices": ["Scarsa", "Buona", "Ottima", "Eccellente"], "label": 3}
-{"id": 240, "text": "Chi dici che l'infermiera voglia chiamarlo e il dottore visitarlo?", "choices": ["Scarsa", "Buona", "Ottima", "Eccellente"], "label": 1}
-{"id": 241, "text": "Ci dissero Chi Maria aveva chiamato un uomo e Marco visitato l'anziano signore.", "choices": ["Scarsa", "Buona", "Ottima", "Eccellente"], "label": 0}
-{"id": 242, "text": "Quale candidato Carla dovrebbe considerare questo candidato?", "choices": ["Scarsa", "Buona", "Ottima", "Eccellente"], "label": 0}
-{"id": 243, "text": "Quale problema il giornalista ha suggerito che Susanna aveva pensato che Carla avrebbe dovuto menzionarlo?", "choices": ["Scarsa", "Buona", "Ottima", "Eccellente"], "label": 1}
-{"id": 244, "text": "Maria ti ha detto quando il ministro parler col diplomatico.", "choices": ["Scarsa", "Buona", "Ottima", "Eccellente"], "label": 3}
-{"id": 245, "text": "Chi  che Susanna ha detto che lo studente avrebbe dovuto descrivere questo candidato?", "choices": ["Scarsa", "Buona", "Ottima", "Eccellente"], "label": 1}
-{"id": 246, "text": "Ci mostrarono il paziente che Maria voleva registrare e Marco testarlo.", "choices": ["Scarsa", "Buona", "Ottima", "Eccellente"], "label": 1}
-{"id": 247, "text": "Ci dissero quale paziente l'infermiera aveva chiamato un uomo e Marco medicato l'anziano signore.", "choices": ["Scarsa", "Buona", "Ottima", "Eccellente"], "label": 0}
-{"id": 248, "text": "Uno studente si aspetta che Francesco possa aver gi finito questo esercizio in tempo utile?", "choices": ["Scarsa", "Buona", "Ottima", "Eccellente"], "label": 2}
-{"id": 249, "text": "Nessuno studente sostiene di avere gi finito questo esercizio in tempo utile?", "choices": ["Scarsa", "Buona", "Ottima", "Eccellente"], "label": 2}
-{"id": 250, "text": "Carlo conosceva bene il professore che evitare sarebbe piaciuto a Anna.", "choices": ["Scarsa", "Buona", "Ottima", "Eccellente"], "label": 2}
-{"id": 251, "text": "Chi pensi che Maria voglia chiamarlo e Marco visitare?", "choices": ["Scarsa", "Buona", "Ottima", "Eccellente"], "label": 0}
-{"id": 252, "text": "Questo problema, il giornalista ha suggerito che Susanna aveva pensato che Carla avrebbe dovuto menzionarlo.", "choices": ["Scarsa", "Buona", "Ottima", "Eccellente"], "label": 1}
-{"id": 253, "text": "Chi  che Susanna ha detto che lo studente avrebbe dovuto descrivere questo problema?", "choices": ["Scarsa", "Buona", "Ottima", "Eccellente"], "label": 0}
-{"id": 254, "text": "Quale problema lui ha scritto che lei aveva detto che costui avrebbe dovuto descrivere questo candidato?", "choices": ["Scarsa", "Buona", "Ottima", "Eccellente"], "label": 1}
-{"id": 255, "text": "Ci dissero chi Maria voleva chiamarlo e Marco medicarlo .", "choices": ["Scarsa", "Buona", "Ottima", "Eccellente"], "label": 1}
-{"id": 256, "text": "Uno studente si aspetta che Francesco possa aver finito alcunch in cos poco tempo.", "choices": ["Scarsa", "Buona", "Ottima", "Eccellente"], "label": 1}
-{"id": 257, "text": "Chi pensi che Maria voglia chiamare e il dottore medicare?", "choices": ["Scarsa", "Buona", "Ottima", "Eccellente"], "label": 2}
-{"id": 258, "text": "Sapevo chi Maria aveva chiamato un uomo e Marco visitato l'anziano signore.", "choices": ["Scarsa", "Buona", "Ottima", "Eccellente"], "label": 0}
-{"id": 259, "text": "Sapevo chi Maria aveva chiamato e Marco visitato l'anziano signore .", "choices": ["Scarsa", "Buona", "Ottima", "Eccellente"], "label": 1}
-{"id": 260, "text": "Che cos' che lui ha detto che Carla avrebbe dovuto menzionare?", "choices": ["Scarsa", "Buona", "Ottima", "Eccellente"], "label": 2}
-{"id": 261, "text": "Conoscevo il paziente che l'infermiera voleva vederlo e Marco testare .", "choices": ["Scarsa", "Buona", "Ottima", "Eccellente"], "label": 1}
-{"id": 262, "text": "Questo, lei dovrebbe descrivere questo problema.", "choices": ["Scarsa", "Buona", "Ottima", "Eccellente"], "label": 2}
-{"id": 263, "text": "Uno studente si aspetta che Francesco possa aver finito nessun esercizio in tempo utile .", "choices": ["Scarsa", "Buona", "Ottima", "Eccellente"], "label": 1}
-{"id": 264, "text": "Nessuno studente si aspetta che un altro studente abbia finito alcunch in cos poco tempo .", "choices": ["Scarsa", "Buona", "Ottima", "Eccellente"], "label": 2}
-{"id": 265, "text": "Uno studente potrebbe aver gi finito questo esercizio in tempo utile.", "choices": ["Scarsa", "Buona", "Ottima", "Eccellente"], "label": 3}
-{"id": 266, "text": "Chi  che il professore ha pensato che Carla avrebbe dovuto menzionare?", "choices": ["Scarsa", "Buona", "Ottima", "Eccellente"], "label": 2}
-{"id": 267, "text": "Ho sentito quale provvedimento Maria ha saputo perch Carlo prender.", "choices": ["Scarsa", "Buona", "Ottima", "Eccellente"], "label": 0}
-{"id": 268, "text": "Quale problema lo studente dovrebbe descriverlo?", "choices": ["Scarsa", "Buona", "Ottima", "Eccellente"], "label": 0}
-{"id": 269, "text": "Questo candidato, lo studente dovrebbe descrivere.", "choices": ["Scarsa", "Buona", "Ottima", "Eccellente"], "label": 1}
-{"id": 270, "text": "Quale problema lo studente dovrebbe descrivere questo candidato?", "choices": ["Scarsa", "Buona", "Ottima", "Eccellente"], "label": 1}
-{"id": 271, "text": "Ci mostrarono il paziente che Maria voleva vedere e il dottore visitarlo.", "choices": ["Scarsa", "Buona", "Ottima", "Eccellente"], "label": 1}
-{"id": 272, "text": "Questo problema, il giornalista ha suggerito che Susanna aveva pensato che Carla avrebbe dovuto menzionare questo candidato.", "choices": ["Scarsa", "Buona", "Ottima", "Eccellente"], "label": 1}
-{"id": 273, "text": "Carlo conosceva bene il compagno di classe con cui fare qualcosa sarebbe piaciuto a Sara.", "choices": ["Scarsa", "Buona", "Ottima", "Eccellente"], "label": 1}
-{"id": 274, "text": "Nessuno studente sostiene di avere finito nessun esercizio in tempo utile?", "choices": ["Scarsa", "Buona", "Ottima", "Eccellente"], "label": 1}
-{"id": 275, "text": "Questo candidato, Giulio ha scritto che lei aveva detto che Carla avrebbe dovuto menzionare questo candidato.", "choices": ["Scarsa", "Buona", "Ottima", "Eccellente"], "label": 1}
-{"id": 276, "text": "Ho sentito cos' che Maria ti ha detto che Carlo far.", "choices": ["Scarsa", "Buona", "Ottima", "Eccellente"], "label": 2}
-{"id": 277, "text": "Che cos' che il giornalista ha scritto che Susanna aveva detto che lo studente avrebbe dovuto considerare?", "choices": ["Scarsa", "Buona", "Ottima", "Eccellente"], "label": 2}
-{"id": 278, "text": "Nessuno sostiene di avere finito nessun esercizio in tempo utile.", "choices": ["Scarsa", "Buona", "Ottima", "Eccellente"], "label": 1}
-{"id": 279, "text": "Nessuno studente sospetta che qualcuno abbia finito nessun esercizio in tempo utile.", "choices": ["Scarsa", "Buona", "Ottima", "Eccellente"], "label": 1}
-{"id": 280, "text": "quale paziente pensi che l'infermiera voglia registrare e Marco medicare?", "choices": ["Scarsa", "Buona", "Ottima", "Eccellente"], "label": 2}
-{"id": 281, "text": "Ci mostrarono il paziente che l'infermiera voleva registrarlo e Marco medicare.", "choices": ["Scarsa", "Buona", "Ottima", "Eccellente"], "label": 1}
-{"id": 282, "text": "Uno studente potrebbe aver finito nessun esercizio in tempo utile.", "choices": ["Scarsa", "Buona", "Ottima", "Eccellente"], "label": 1}
-{"id": 283, "text": "Ci mostrarono il paziente che Maria voleva vederlo e Marco medicarlo .", "choices": ["Scarsa", "Buona", "Ottima", "Eccellente"], "label": 1}
-{"id": 284, "text": "Ho sentito che Maria ha saputo dove il ministro dar il premio ai dottori .", "choices": ["Scarsa", "Buona", "Ottima", "Eccellente"], "label": 2}
-{"id": 285, "text": "Chi pensi che Maria abbia chiamato un uomo e il dottore medicato?", "choices": ["Scarsa", "Buona", "Ottima", "Eccellente"], "label": 1}
-{"id": 286, "text": "Questo candidato, Susanna ha detto che lei avrebbe dovuto descriverlo.", "choices": ["Scarsa", "Buona", "Ottima", "Eccellente"], "label": 2}
-{"id": 287, "text": "quale paziente dici che l'infermiera abbia chiamato un uomo e Marco medicato l'anziano signore?", "choices": ["Scarsa", "Buona", "Ottima", "Eccellente"], "label": 1}
-{"id": 288, "text": "Ci mostrarono il paziente che l'infermiera aveva registrato e Marco medicato .", "choices": ["Scarsa", "Buona", "Ottima", "Eccellente"], "label": 3}
-{"id": 289, "text": "il giornalista ha scritto che Susanna aveva detto che lo studente avrebbe dovuto considerare.", "choices": ["Scarsa", "Buona", "Ottima", "Eccellente"], "label": 1}
-{"id": 290, "text": "Questo, lui ha affermato che il professore aveva detto che lo studente avrebbe dovuto considerarlo.", "choices": ["Scarsa", "Buona", "Ottima", "Eccellente"], "label": 1}
-{"id": 291, "text": "Ho sentito a chi  che Maria ha saputo che il ministro dar il premio.", "choices": ["Scarsa", "Buona", "Ottima", "Eccellente"], "label": 1}
-{"id": 292, "text": "Nessuno sospetta che qualcuno abbia gi finito questo esercizio in tempo utile?", "choices": ["Scarsa", "Buona", "Ottima", "Eccellente"], "label": 1}
-{"id": 293, "text": "Ci dissero quale paziente l'infermiera aveva chiamato un uomo e Marco medicato l'anziano signore.", "choices": ["Scarsa", "Buona", "Ottima", "Eccellente"], "label": 1}
-{"id": 294, "text": "Chi  che lui ha affermato che il professore aveva detto che lo studente avrebbe dovuto considerare?", "choices": ["Scarsa", "Buona", "Ottima", "Eccellente"], "label": 1}
-{"id": 295, "text": "quale paziente dici che Maria voglia chiamarlo e il dottore visitarlo?", "choices": ["Scarsa", "Buona", "Ottima", "Eccellente"], "label": 0}
-{"id": 296, "text": "Ci mostrarono il paziente che Maria aveva visto e il dottore visitato un malato.", "choices": ["Scarsa", "Buona", "Ottima", "Eccellente"], "label": 0}
-{"id": 297, "text": "Ci mostrarono il paziente che Maria voleva registrarlo e Marco testarlo.", "choices": ["Scarsa", "Buona", "Ottima", "Eccellente"], "label": 0}
-{"id": 298, "text": "Sapevo quale paziente l'infermiera voleva chiamare e il dottore visitarlo .", "choices": ["Scarsa", "Buona", "Ottima", "Eccellente"], "label": 1}
-{"id": 299, "text": "Maria sostiene di avere finito alcunch in cos poco tempo.", "choices": ["Scarsa", "Buona", "Ottima", "Eccellente"], "label": 2}
-{"id": 300, "text": "Ci mostrarono l'anziano signore che l'infermiera voleva vedere e il dottore medicarlo.", "choices": ["Scarsa", "Buona", "Ottima", "Eccellente"], "label": 1}
-{"id": 301, "text": "Sapevo quale paziente l'infermiera aveva registrato un uomo e Marco visitato l'anziano signore.", "choices": ["Scarsa", "Buona", "Ottima", "Eccellente"], "label": 0}
-{"id": 302, "text": "Sapevo quale paziente l'infermiera aveva registrato e Marco visitato l'anziano signore.", "choices": ["Scarsa", "Buona", "Ottima", "Eccellente"], "label": 1}
-{"id": 303, "text": "Con chi  che Maria ti ha detto che il ministro parler?", "choices": ["Scarsa", "Buona", "Ottima", "Eccellente"], "label": 2}
-{"id": 304, "text": "Ho sentito che Maria ti ha detto quando Carlo far un sopralluogo.", "choices": ["Scarsa", "Buona", "Ottima", "Eccellente"], "label": 3}
-{"id": 305, "text": "Sapevo chi Maria voleva chiamare e il dottore medicare.", "choices": ["Scarsa", "Buona", "Ottima", "Eccellente"], "label": 2}
-{"id": 306, "text": "Carlo conosceva bene lo studente che Anna voleva sempre evitare.", "choices": ["Scarsa", "Buona", "Ottima", "Eccellente"], "label": 3}
-{"id": 307, "text": "Ci mostrarono il paziente che l'infermiera voleva registrarlo e Marco medicarlo.", "choices": ["Scarsa", "Buona", "Ottima", "Eccellente"], "label": 1}
-{"id": 308, "text": "il professore ha detto che lo studente avrebbe dovuto descrivere.", "choices": ["Scarsa", "Buona", "Ottima", "Eccellente"], "label": 1}
-{"id": 309, "text": "Sapevo che Maria voleva chiamarlo e Marco visitare .", "choices": ["Scarsa", "Buona", "Ottima", "Eccellente"], "label": 0}
-{"id": 310, "text": "Sapevo che Maria voleva chiamarlo e il dottore medicarlo.", "choices": ["Scarsa", "Buona", "Ottima", "Eccellente"], "label": 2}
-{"id": 311, "text": "Conoscevo il paziente che Maria aveva visto un paziente e Marco visitato .", "choices": ["Scarsa", "Buona", "Ottima", "Eccellente"], "label": 0}
-{"id": 312, "text": "Sapevo quale paziente l'infermiera voleva chiamare e il dottore visitare.", "choices": ["Scarsa", "Buona", "Ottima", "Eccellente"], "label": 2}
-{"id": 313, "text": "Nessuno sospetta che qualcuno possa aver finito alcunch in cos poco tempo?", "choices": ["Scarsa", "Buona", "Ottima", "Eccellente"], "label": 2}
-{"id": 314, "text": "Carlo conosceva bene la ragazza con cui Sara sperava sempre di discutere.", "choices": ["Scarsa", "Buona", "Ottima", "Eccellente"], "label": 3}
-{"id": 315, "text": "Che cos' che il professore ha pensato che lo studente avrebbe dovuto considerarlo?", "choices": ["Scarsa", "Buona", "Ottima", "Eccellente"], "label": 1}
-{"id": 316, "text": "Nessuno si aspetta che qualcuno abbia finito alcunch in cos poco tempo.", "choices": ["Scarsa", "Buona", "Ottima", "Eccellente"], "label": 2}
-{"id": 317, "text": "Quale candidato lui ha detto che lei avrebbe dovuto descrivere questo candidato?", "choices": ["Scarsa", "Buona", "Ottima", "Eccellente"], "label": 0}
-{"id": 318, "text": "Quale candidato lui ha detto che lei avrebbe dovuto descrivere?", "choices": ["Scarsa", "Buona", "Ottima", "Eccellente"], "label": 2}
-{"id": 319, "text": "Conoscevo il paziente che Maria aveva visto e Marco visitato.", "choices": ["Scarsa", "Buona", "Ottima", "Eccellente"], "label": 2}
-{"id": 320, "text": "lui ha pensato che lo studente avrebbe dovuto considerare .", "choices": ["Scarsa", "Buona", "Ottima", "Eccellente"], "label": 1}
-{"id": 321, "text": "Sapevo che Maria aveva chiamato un uomo e Marco medicato.", "choices": ["Scarsa", "Buona", "Ottima", "Eccellente"], "label": 1}
-{"id": 322, "text": "Sapevo chi l'infermiera voleva registrare e Marco visitarlo.", "choices": ["Scarsa", "Buona", "Ottima", "Eccellente"], "label": 1}
-{"id": 323, "text": "Che cos' che Giulio ha scritto che lei aveva detto che lo studente avrebbe dovuto descriverlo?", "choices": ["Scarsa", "Buona", "Ottima", "Eccellente"], "label": 1}
-{"id": 324, "text": "Ho sentito che Maria ha saputo che il ministro incontrer i dottori.", "choices": ["Scarsa", "Buona", "Ottima", "Eccellente"], "label": 3}
-{"id": 325, "text": "Chi  che lo studente dovrebbe considerarlo?", "choices": ["Scarsa", "Buona", "Ottima", "Eccellente"], "label": 0}
-{"id": 326, "text": "Ho sentito che Maria ha saputo perch il ministro incontrer i dottori.", "choices": ["Scarsa", "Buona", "Ottima", "Eccellente"], "label": 3}
-{"id": 327, "text": "Uno studente ha finito nessun esercizio in tempo utile.", "choices": ["Scarsa", "Buona", "Ottima", "Eccellente"], "label": 1}
-{"id": 328, "text": "Quale candidato Giulio ha scritto che lei aveva detto che Carla avrebbe dovuto menzionarlo?", "choices": ["Scarsa", "Buona", "Ottima", "Eccellente"], "label": 1}
-{"id": 329, "text": "Maria potrebbe aver mai finito questo esercizio in tempo utile?", "choices": ["Scarsa", "Buona", "Ottima", "Eccellente"], "label": 3}
-{"id": 330, "text": "Nessuno studente si aspetta che un altro studente abbia finito alcunch in cos poco tempo?", "choices": ["Scarsa", "Buona", "Ottima", "Eccellente"], "label": 2}
-{"id": 331, "text": "Ho sentito quale provvedimento Maria ha saputo che Carlo prender.", "choices": ["Scarsa", "Buona", "Ottima", "Eccellente"], "label": 2}
-{"id": 332, "text": "Chi pensi che Maria abbia chiamato e Marco visitato?", "choices": ["Scarsa", "Buona", "Ottima", "Eccellente"], "label": 3}
-{"id": 333, "text": "Uno studente potrebbe aver finito alcunch in cos poco tempo?", "choices": ["Scarsa", "Buona", "Ottima", "Eccellente"], "label": 2}
-{"id": 334, "text": "Conoscevo il paziente che l'infermiera aveva registrato un paziente e il dottore visitato.", "choices": ["Scarsa", "Buona", "Ottima", "Eccellente"], "label": 1}
-{"id": 335, "text": "Susanna ha detto che Carla avrebbe dovuto menzionare questo candidato .", "choices": ["Scarsa", "Buona", "Ottima", "Eccellente"], "label": 2}
-{"id": 336, "text": "Ci mostrarono il paziente che Maria aveva visto un paziente e Marco medicato .", "choices": ["Scarsa", "Buona", "Ottima", "Eccellente"], "label": 0}
-{"id": 337, "text": "Conoscevo il paziente che Maria voleva vederlo e Marco visitare.", "choices": ["Scarsa", "Buona", "Ottima", "Eccellente"], "label": 1}
-{"id": 338, "text": "Sapevo chi Maria aveva chiamato e il dottore medicato.", "choices": ["Scarsa", "Buona", "Ottima", "Eccellente"], "label": 2}
-{"id": 339, "text": "Nessuno sospetta che qualcuno possa aver mai finito questo esercizio in tempo utile?", "choices": ["Scarsa", "Buona", "Ottima", "Eccellente"], "label": 2}
-{"id": 340, "text": "Ci mostrarono il paziente che Maria aveva visto e il dottore visitato.", "choices": ["Scarsa", "Buona", "Ottima", "Eccellente"], "label": 3}
-{"id": 341, "text": "Chi pensi che Maria voglia chiamarlo e il dottore medicarlo?", "choices": ["Scarsa", "Buona", "Ottima", "Eccellente"], "label": 0}
-{"id": 342, "text": "Ci dissero chi l'infermiera voleva registrarlo e Marco medicare.", "choices": ["Scarsa", "Buona", "Ottima", "Eccellente"], "label": 1}
-{"id": 343, "text": "Ci mostrarono l'anziano signore che Maria voleva registrarlo e Marco visitarlo .", "choices": ["Scarsa", "Buona", "Ottima", "Eccellente"], "label": 1}
-{"id": 344, "text": "Carlo conosceva bene la ragazza con cui discutere sarebbe piaciuto a Sara .", "choices": ["Scarsa", "Buona", "Ottima", "Eccellente"], "label": 1}
+{"id": 1, "text": "Anche senza supporto popolare lui proseguivano la lotta alla mafia.", "label": 0}
+{"id": 2, "text": "Per produrre questi abiti io impiegavo solo stoffe di prima qualit.", "label": 2}
+{"id": 3, "text": "Le musiciste hanno ascoltato il concerto.", "label": 3}
+{"id": 4, "text": "Per concimare il terreno noi utilizzavo un prodotto biologico.", "label": 0}
+{"id": 5, "text": "Le ragazze si arrabbiavano se loro limitavano le loro uscite durante la settimana.", "label": 2}
+{"id": 6, "text": "Secondo te la causa della rivolta sono le foto del muro?", "label": 2}
+{"id": 7, "text": "Hanno svaligiato i ladri la villa.", "label": 1}
+{"id": 8, "text": "Hanno sorretto le fondamenta il palazzo.", "label": 1}
+{"id": 9, "text": "Le devastazioni del territorio sono il motivo del malumore.", "label": 3}
+{"id": 10, "text": "Sono precipitati gli scalatori.", "label": 2}
+{"id": 11, "text": "Secondo te i negozianti hanno abbassato il prezzo?", "label": 3}
+{"id": 12, "text": "Il motivo dello stupore sono le decorazioni della villa.", "label": 2}
+{"id": 13, "text": "Cosa credi che il cuoco ha preparato la scorsa settimana?", "label": 1}
+{"id": 14, "text": "Al ristorante di Giovanni normalmente loro ordinava del maiale.", "label": 0}
+{"id": 15, "text": "Quando il cane dei vicini abbaiava noi chiamavamo sempre i carabinieri.", "label": 3}
+{"id": 16, "text": "Quando il cane dei vicini abbaiava loro chiamavano sempre i carabinieri.", "label": 3}
+{"id": 17, "text": "Ogni anno loro sprecavano tonnellate di carta per fare fotocopie.", "label": 3}
+{"id": 18, "text": "Sono i critici che voi artisti avete impressionato al concorso internazionale.", "label": 2}
+{"id": 19, "text": "Quale cameriere non sa chi ha preparato questo piatto la scorsa settimana?", "label": 2}
+{"id": 20, "text": "Hanno letto i cuochi la ricetta.", "label": 1}
+{"id": 21, "text": "Mentre il pubblico applaudiva io continuavo a gioire di tanto successo.", "label": 3}
+{"id": 22, "text": "Hanno coltivato gli agricoltori il campo.", "label": 1}
+{"id": 23, "text": "Hanno aperto i commessi il negozio.", "label": 1}
+{"id": 24, "text": "Secondo te hanno pulito le casalinghe il bagno?", "label": 1}
+{"id": 25, "text": "I lupi hanno ululato.", "label": 3}
+{"id": 26, "text": "Le urbanizzazioni della capitale sono la sintesi della storia.", "label": 2}
+{"id": 27, "text": "Mentre il pubblico applaudiva lui continuavano a gioire di tanto successo.", "label": 0}
+{"id": 28, "text": "Gli ospiti hanno russato.", "label": 3}
+{"id": 29, "text": "Durante la stagione fredda lui curavano sempre il raffreddore con i rimedi naturali.", "label": 0}
+{"id": 30, "text": "Secondo te i ventilatori hanno rinfrescato la stanza?", "label": 3}
+{"id": 31, "text": "Quando la crema era molto densa loro aggiungeva un po' di latte.", "label": 0}
+{"id": 32, "text": "La motivazione dell'ammutinamento sono i cambi della rotta.", "label": 2}
+{"id": 33, "text": "Hanno coperto le bende le ustioni.", "label": 1}
+{"id": 34, "text": "Sono gli scrittori che gli editori hanno sollecitato alla fine della fiera.", "label": 2}
+{"id": 35, "text": "Hanno pedalato i ciclisti.", "label": 2}
+{"id": 36, "text": "Di solito io accettavo i lavori di traduzione solo con pagamento anticipato.", "label": 3}
+{"id": 37, "text": "I festeggiamenti sono degenerati.", "label": 3}
+{"id": 38, "text": "La salvezza dell'attivit sono le svendite della merce.", "label": 1}
+{"id": 39, "text": "Le fortificazioni del palazzo sono il limite del latifondo.", "label": 3}
+{"id": 40, "text": "Secondo te la protezione della fauna sono le recinzioni della propriet?", "label": 1}
+{"id": 41, "text": "Quando il cane dei vicini abbaiava io chiamavamo sempre i carabinieri.", "label": 1}
+{"id": 42, "text": "In ufficio erano tutti scontenti perch lui approvava il progetto del direttore.", "label": 2}
+{"id": 43, "text": "Quando gli studenti erano troppo indisciplinati io richiedevamo la presenza del preside.", "label": 0}
+{"id": 44, "text": "Secondo te sono marcite le cipolle?", "label": 3}
+{"id": 45, "text": "L'origine della controversia sono le descrizioni del castello.", "label": 2}
+{"id": 46, "text": "Secondo te le cipolle sono marcite?", "label": 3}
+{"id": 47, "text": "I gatti entravano sempre in casa mentre loro serviva la cena.", "label": 0}
+{"id": 48, "text": "Sono gli infermieri che voi primari avete chiamato in sala operatoria.", "label": 2}
+{"id": 49, "text": "Tutte le domeniche durante la messa tu eseguivate un pezzo al pianoforte.", "label": 0}
+{"id": 50, "text": "Tutte le domeniche durante la messa tu eseguivi un pezzo al pianoforte.", "label": 3}
+{"id": 51, "text": "La testimonianza del malessere sono le dichiarazioni della protesta.", "label": 1}
+{"id": 52, "text": "Prima della fine di ogni mese lui concludeva la lavorazione di tutti i capitoli.", "label": 3}
+{"id": 53, "text": "Secondo te gli autobus sono partiti?", "label": 3}
+{"id": 54, "text": "Secondo te hanno convissuto i fidanzati?", "label": 2}
+{"id": 55, "text": "Mentre gli invitati giocavano a carte loro suonavano il pianoforte.", "label": 3}
+{"id": 56, "text": "Siete voi custodi che voi postini avete interpellato per aprire la cassetta.", "label": 1}
+{"id": 57, "text": "Il professore si arrabbiava quando tu modificavi il piano di lavoro.", "label": 2}
+{"id": 58, "text": "Hanno abbassato i negozianti il prezzo.", "label": 1}
+{"id": 59, "text": "Siete voi ballerini che i coreografi hanno ringraziato alla prima dello spettacolo.", "label": 2}
+{"id": 60, "text": "La conclusione della festa sono i racconti del viaggio.", "label": 2}
+{"id": 61, "text": "Hanno accordato gli specialisti lo strumento.", "label": 1}
+{"id": 62, "text": "Quando il bambino non arrivava lui informavano i genitori.", "label": 0}
+{"id": 63, "text": "Secondo te le interpretazioni del risultato sono la conferma dell'ipotesi?", "label": 2}
+{"id": 64, "text": "Secondo te i treni sono deragliati?", "label": 3}
+{"id": 65, "text": "Siete voi giornalisti che voi consiglieri avete accolto all'entrata del palazzo.", "label": 1}
+{"id": 66, "text": "Prima che il presidente andasse in pensione loro otteneva dei vantaggi.", "label": 0}
+{"id": 67, "text": "Lucia diceva che lui ingannava il nostro datore di lavoro.", "label": 2}
+{"id": 68, "text": "Mentre il pubblico applaudiva noi continuavamo a gioire di tanto successo.", "label": 3}
+{"id": 69, "text": "Secondo te gli adolescenti hanno apprezzato il videogioco?", "label": 3}
+{"id": 70, "text": "Le trascrizioni dell'intercettazione sono la documentazione del crimine.", "label": 3}
+{"id": 71, "text": "Secondo te i vicini sono scesi?", "label": 3}
+{"id": 72, "text": "Sono scappati i nemici.", "label": 3}
+{"id": 73, "text": "Sono lievitati i debiti.", "label": 2}
+{"id": 74, "text": "La rovina del paese sono le motivazioni dello scandalo.", "label": 1}
+{"id": 75, "text": "Secondo te la rovina del paese sono le motivazioni dello scandalo?", "label": 1}
+{"id": 76, "text": "Secondo te sono partiti gli autobus?", "label": 3}
+{"id": 77, "text": "Secondo te hanno starnutito i malati?", "label": 2}
+{"id": 78, "text": "Siete voi ballerini che voi coreografi avete ringraziato alla prima dello spettacolo.", "label": 0}
+{"id": 79, "text": "I fidanzati hanno convissuto.", "label": 3}
+{"id": 80, "text": "I cuccioli sono nati.", "label": 3}
+{"id": 81, "text": "Sono sopravvissute le sorelle.", "label": 3}
+{"id": 82, "text": "Secondo te il motivo del malumore sono le devastazioni del territorio?", "label": 2}
+{"id": 83, "text": "Prima di evadere un ordine tu contavate sempre i pezzi in ogni scatola.", "label": 0}
+{"id": 84, "text": "Quale edificio ti chiedi chi ha costruito negli anni Sessanta?", "label": 0}
+{"id": 85, "text": "Di solito nel secondo semestre noi seguivo il corso di storia.", "label": 0}
+{"id": 86, "text": "I racconti del viaggio sono la conclusione della festa.", "label": 3}
+{"id": 87, "text": "Quale piatto credi che ha preparato la scorsa settimana?", "label": 1}
+{"id": 88, "text": "Siete voi geometri che voi costruttori avete accusato per il crollo del ponte.", "label": 0}
+{"id": 89, "text": "Secondo te hanno scioperato gli operai?", "label": 2}
+{"id": 90, "text": "Siete voi architetti che voi ingegneri avete consultato prima di iniziare i lavori.", "label": 0}
+{"id": 91, "text": "Le ragazze si arrabbiavano se io limitavamo le loro uscite durante la settimana.", "label": 0}
+{"id": 92, "text": "Sono i ministri che voi deputati avete insultato durante la sessione parlamentare.", "label": 2}
+{"id": 93, "text": "Quale articolo credi che ha scritto in un pomeriggio?", "label": 1}
+{"id": 94, "text": "Siete voi idraulici che gli elettricisti hanno visto nella casa in ristrutturazione.", "label": 2}
+{"id": 95, "text": "La direttrice ha capito che loro firmava le giustificazioni delle assenze.", "label": 0}
+{"id": 96, "text": "Quale collega sa quale giornalista ha scritto questo articolo in un pomeriggio?", "label": 2}
+{"id": 97, "text": "Secondo te il simbolo della stagione sono le potature della vigna?", "label": 2}
+{"id": 98, "text": "Secondo te le recite della preghiera sono la caratteristica del convento?", "label": 2}
+{"id": 99, "text": "Secondo te hanno coperto le bende le ustioni?", "label": 1}
+{"id": 100, "text": "Quando gli invitati erano in ritardo noi avvertivo sempre il ristorante.", "label": 0}
+{"id": 101, "text": "Sono caduti i quadri.", "label": 3}
+{"id": 102, "text": "Secondo te i gatti hanno miagolato?", "label": 3}
+{"id": 103, "text": "Ogni volta che arrivava il direttore io cambiavo umore.", "label": 3}
+{"id": 104, "text": "Sono ingrassati i maiali.", "label": 2}
+{"id": 105, "text": "I mobili hanno riempito la stanza.", "label": 3}
+{"id": 106, "text": "Secondo te i fuochi hanno scaldato l'accampamento?", "label": 3}
+{"id": 107, "text": "Secondo te sono soddisfatti i clienti?", "label": 3}
+{"id": 108, "text": "I ventilatori hanno rinfrescato la stanza.", "label": 3}
+{"id": 109, "text": "Appena la mamma usciva di casa noi accendevamo il televisore in cucina.", "label": 3}
+{"id": 110, "text": "Secondo te il limite del latifondo sono le fortificazioni del palazzo?", "label": 2}
+{"id": 111, "text": "Siete voi giocatori che gli allenatori hanno incolpato per l'esito della partita.", "label": 2}
+{"id": 112, "text": "In ufficio erano tutti scontenti perch noi approvavo il progetto del direttore.", "label": 0}
+{"id": 113, "text": "Anche se il direttore non voleva loro accordavano il prestito al cliente.", "label": 2}
+{"id": 114, "text": "Gli scalatori sono precipitati.", "label": 3}
+{"id": 115, "text": "Le cipolle sono marcite.", "label": 3}
+{"id": 116, "text": "Voci di corridoio dicono che noi evitavamo la segretaria del dipartimento.", "label": 2}
+{"id": 117, "text": "Gli anziani hanno guardato la televisione.", "label": 3}
+{"id": 118, "text": "Prima di chiudere la cucina del ristorante tu asciugavi tutti i piatti.", "label": 3}
+{"id": 119, "text": "Da un po' di tempo loro consideravano il comunismo ormai morto.", "label": 2}
+{"id": 120, "text": "Gli adolescenti hanno apprezzato il videogioco.", "label": 3}
+{"id": 121, "text": "Se il treno non arrivava noi saltavamo la prima parte dello spettacolo.", "label": 1}
+{"id": 122, "text": "Hanno muggito le mucche.", "label": 2}
+{"id": 123, "text": "I cambi della rotta sono la motivazione dell'ammutinamento.", "label": 2}
+{"id": 124, "text": "Se la banca non accordava il prestito loro rischiava il fallimento.", "label": 0}
+{"id": 125, "text": "I tronchi hanno bloccato il sentiero.", "label": 3}
+{"id": 126, "text": "Secondo te sono crollate le mura?", "label": 2}
+{"id": 127, "text": "Siete voi macchinisti che i controllori hanno salutato alla stazione di Milano.", "label": 2}
+{"id": 128, "text": "I commessi hanno aperto il negozio.", "label": 3}
+{"id": 129, "text": "Secondo te le decorazioni della villa sono il motivo dello stupore?", "label": 2}
+{"id": 130, "text": "Secondo te i prosciugamenti del canale sono la protezione della citt?", "label": 2}
+{"id": 131, "text": "Secondo te l'identificazione della nazione sono le raffigurazioni della vittori", "label": 1}
+{"id": 132, "text": "Secondo te l'origine della controversia sono le descrizioni del castello?", "label": 1}
+{"id": 133, "text": "Sono scomparse le prove.", "label": 3}
+{"id": 134, "text": "I camion hanno frenato.", "label": 3}
+{"id": 135, "text": "Nel corso dell'anno voi prevedevi molte sconfitte per la Fiorentina.", "label": 0}
+{"id": 136, "text": "Secondo te hanno telefonato le insegnanti?", "label": 2}
+{"id": 137, "text": "Quale turista si chiede quale ingegnere ha costruito questo edificio negli anni Sessanta? ", "label": 1}
+{"id": 138, "text": "Hanno scioperato gli operai.", "label": 2}
+{"id": 139, "text": "Hanno ululato i lupi.", "label": 2}
+{"id": 140, "text": "Siete voi cantanti che voi musicisti avete riconosciuto al concerto di beneficenza.", "label": 1}
+{"id": 141, "text": "Quando il dipartimento concedeva dei fondi voi spendevi tutti i soldi in trasferte.", "label": 0}
+{"id": 142, "text": "Durante il concorso lui selezionava sempre le ragazze pi belle.", "label": 3}
+{"id": 143, "text": "Quale problema credi che ha risolto in un'ora?", "label": 1}
+{"id": 144, "text": "Per contrastare la crescente criminalit voi difendevate la casa con un recinto.", "label": 2}
+{"id": 145, "text": "Il falegname  arrivato mentre loro montavano la mensola.", "label": 2}
+{"id": 146, "text": "Quando le cose si mettevano male voi esprimevi la rabbia piangendo.", "label": 0}
+{"id": 147, "text": "Sono esondati i fiumi.", "label": 3}
+{"id": 148, "text": "Secondo te hanno ululato i lupi?", "label": 3}
+{"id": 149, "text": "Quando gli studenti erano troppo indisciplinati lui richiedeva la presenza del preside.", "label": 2}
+{"id": 150, "text": "Con dell'olio rimasto noi friggevamo le melanzane.", "label": 2}
+{"id": 151, "text": "Quale piatto non sai chi ha preparato la scorsa settimana?", "label": 1}
+{"id": 152, "text": "I ladri hanno svaligiato la villa.", "label": 3}
+{"id": 153, "text": "Se la banca non accordava il prestito loro rischiavano il fallimento.", "label": 2}
+{"id": 154, "text": "Tutte le sere tu preparavi la cartella per la mattina.", "label": 3}
+{"id": 155, "text": "Quando la crema era molto densa lui aggiungeva un po' di latte.", "label": 3}
+{"id": 156, "text": "Hanno filtrato i vetri la luce.", "label": 0}
+{"id": 157, "text": "Siete voi camerieri che i cassieri avete rimproverato dopo la chiusura del ristorante.", "label": 0}
+{"id": 158, "text": "Anche se il direttore non voleva lui accordavano il prestito al cliente.", "label": 0}
+{"id": 159, "text": "Secondo te hanno bestemmiato i ragazzi?", "label": 2}
+{"id": 160, "text": "Secondo te sono scesi i vicini?", "label": 2}
+{"id": 161, "text": "Secondo te la testimonianza del malessere sono le dichiarazioni della protesta?", "label": 2}
+{"id": 162, "text": "Nel corso dell'anno lui prevedevano molte sconfitte per la Fiorentina.", "label": 0}
+{"id": 163, "text": "Secondo te hanno registrato le telecamere l'evento?", "label": 1}
+{"id": 164, "text": "Anche se il direttore non voleva loro accordava il prestito al cliente.", "label": 0}
+{"id": 165, "text": "I maiali sono ingrassati.", "label": 3}
+{"id": 166, "text": "Hanno pattinato le ragazze.", "label": 1}
+{"id": 167, "text": "I relitti sono sprofondati.", "label": 3}
+{"id": 168, "text": "Secondo te i commessi hanno aperto il negozio?", "label": 3}
+{"id": 169, "text": "Hanno abbaiato i cani.", "label": 2}
+{"id": 170, "text": "Prima di spegnere il computer noi salvavo tutto sul server.", "label": 0}
+{"id": 171, "text": "Secondo te sono ammuffite le patate?", "label": 2}
+{"id": 172, "text": "Secondo te i ciclisti hanno pedalato?", "label": 3}
+{"id": 173, "text": "Siete voi attori che i registi hanno incoraggiato prima dello spettacolo.", "label": 2}
+{"id": 174, "text": "I falegnami hanno costruito il tavolo.", "label": 3}
+{"id": 175, "text": "Sono i politici che i sindacalisti hanno criticato alla manifestazione in piazza.", "label": 2}
+{"id": 176, "text": "Secondo te le automobili hanno sbandato?", "label": 3}
+{"id": 177, "text": "Le ragazze si arrabbiavano se lui limitava le loro uscite durante la settimana.", "label": 3}
+{"id": 178, "text": "Sono i turisti che voi bagnini avete aiutato sulla spiaggia affollata.", "label": 2}
+{"id": 179, "text": "I giocatori hanno barato.", "label": 3}
+{"id": 180, "text": "Sono impazziti i giudici.", "label": 2}
+{"id": 181, "text": "Tutti sanno che loro cantava i salmi in chiesa.", "label": 0}
+{"id": 182, "text": "Secondo te sono bastate le provviste?", "label": 3}
+{"id": 183, "text": "La causa della rivolta sono le foto del muro.", "label": 2}
+{"id": 184, "text": "Secondo te hanno gareggiato le ginnaste?", "label": 2}
+{"id": 185, "text": "Secondo te gli alpinisti hanno sciato?", "label": 3}
+{"id": 186, "text": "Secondo te hanno ricoperto i pannelli il tetto?", "label": 1}
+{"id": 187, "text": "Siete voi pagliacci che voi domatori avete preceduto all'ingresso in sala.", "label": 0}
+{"id": 188, "text": "Quale articolo credi che il giornalista ha scritto in un pomeriggio?", "label": 1}
+{"id": 189, "text": "Secondo te i tronchi hanno bloccato il sentiero?", "label": 3}
+{"id": 190, "text": "I dipendenti scioperavano sempre se noi imponevamo turni di lavoro pi lunghi.", "label": 2}
+{"id": 191, "text": "Se si verificava una perdita di acqua voi fermavate ogni volta il depuratore.", "label": 2}
+{"id": 192, "text": "Cosa ti chiedi chi ha costruito negli anni Sessanta?", "label": 0}
+{"id": 193, "text": "Secondo te gli uccelli hanno cinguettato?", "label": 3}
+{"id": 194, "text": "Sono i marinai che i passeggeri hanno avvertito prima del naufragio.", "label": 2}
+{"id": 195, "text": "Secondo te la conclusione dello sciopero sono le dichiarazioni dell'accordo?", "label": 1}
+{"id": 196, "text": "Mentre il bambino dormiva lui pulivano la cucina.", "label": 0}
+{"id": 197, "text": "Quando il bambino non arrivava loro informavano i genitori.", "label": 2}
+{"id": 198, "text": "Secondo te le svendite della merce sono la salvezza dell'attivit?", "label": 2}
+{"id": 199, "text": "Secondo te le stesure della costituzione sono il fondamento dello stato?", "label": 2}
+{"id": 200, "text": "Anche senza supporto popolare loro proseguiva la lotta alla mafia.", "label": 0}
+{"id": 201, "text": "Quale problema ti chiedi chi ha risolto in un'ora?", "label": 0}
+{"id": 202, "text": "Qualcuno ha detto che lui scriveva una lettera a casa ogni sera.", "label": 3}
+{"id": 203, "text": "Sono ammuffite le patate.", "label": 3}
+{"id": 204, "text": "Per produrre questi abiti noi impiegavo solo stoffe di prima qualit.", "label": 0}
+{"id": 205, "text": "Il limite del latifondo sono le fortificazioni del palazzo.", "label": 2}
+{"id": 206, "text": "Mentre il bambino dormiva loro pulivano la cucina.", "label": 3}
+{"id": 207, "text": "Secondo te sono arrivati gli ospiti?", "label": 3}
+{"id": 208, "text": "Secondo te i negozianti hanno protestato?", "label": 3}
+{"id": 209, "text": "Lucia diceva che voi ingannavi il nostro datore di lavoro.", "label": 0}
+{"id": 210, "text": "Prima di chiudere la cucina del ristorante voi asciugavi tutti i piatti.", "label": 0}
+{"id": 211, "text": "Hanno svolto i computer il calcolo.", "label": 1}
+{"id": 212, "text": "Ci mostrarono il paziente che Maria voleva vederlo e il dottore visitarlo.", "label": 1}
+{"id": 213, "text": "Questo candidato, il professore ha detto che lo studente avrebbe dovuto descrivere questo problema.", "label": 1}
+{"id": 214, "text": "Chi  che lei dovrebbe descrivere questo problema?", "label": 0}
+{"id": 215, "text": "Sapevo che Maria aveva chiamato e Marco medicato .", "label": 1}
+{"id": 216, "text": "Quale problema lo studente dovrebbe descrivere?", "label": 3}
+{"id": 217, "text": "Carlo conosceva bene la persona con cui fare qualcosa divertiva sempre Sara.", "label": 1}
+{"id": 218, "text": "Maria sostiene di avere gi finito questo esercizio in tempo utile.", "label": 3}
+{"id": 219, "text": "Ci mostrarono il paziente che Maria voleva vedere e Marco medicare.", "label": 2}
+{"id": 220, "text": "Che cos' che lui ha detto che Carla avrebbe dovuto menzionare questo problema?", "label": 1}
+{"id": 221, "text": "Maria ha saputo dove Carlo incontrer i dottori.", "label": 3}
+{"id": 222, "text": "Conoscevo il paziente che l'infermiera voleva vederlo e Marco testarlo.", "label": 0}
+{"id": 223, "text": "Chi  che lo studente dovrebbe considerare questo problema?", "label": 1}
+{"id": 224, "text": "Sapevo che l'infermiera voleva registrarlo e Marco visitarlo.", "label": 3}
+{"id": 225, "text": "Carla dovrebbe menzionare.", "label": 2}
+{"id": 226, "text": "Sapevo chi l'infermiera voleva registrarlo e Marco visitare.", "label": 1}
+{"id": 227, "text": "Ci dissero Chi l'infermiera aveva registrato un uomo e il dottore visitato l'anziano signore.", "label": 0}
+{"id": 228, "text": "Maria si aspetta che qualcuno possa aver finito alcunch in cos poco tempo?", "label": 2}
+{"id": 229, "text": "Chi  che il professore ha pensato che Carla avrebbe dovuto menzionare questo candidato?", "label": 0}
+{"id": 230, "text": "Nessuno studente si aspetta che un altro studente abbia mai finito questo esercizio in tempo utile?", "label": 2}
+{"id": 231, "text": "Ci mostrarono il paziente che Maria aveva visto un paziente e il dottore visitato un malato.", "label": 1}
+{"id": 232, "text": "Nessuno studente sospetta che qualcuno abbia mai finito questo esercizio in tempo utile?", "label": 2}
+{"id": 233, "text": "Sapevo che Maria voleva chiamarlo e Marco visitarlo.", "label": 3}
+{"id": 234, "text": "Quale candidato Susanna ha pensato che lo studente avrebbe dovuto considerarlo?", "label": 1}
+{"id": 235, "text": "Maria sostiene di avere mai finito questo esercizio in tempo utile .", "label": 1}
+{"id": 236, "text": "Quale candidato Carla dovrebbe considerare?", "label": 3}
+{"id": 237, "text": "Maria ti ha detto dove il ministro parler col diplomatico.", "label": 2}
+{"id": 238, "text": "Carlo conosceva bene la persona che Anna sperava sempre di incontrare .", "label": 3}
+{"id": 239, "text": "il professore ha detto che lo studente avrebbe dovuto descrivere questo problema.", "label": 3}
+{"id": 240, "text": "Chi dici che l'infermiera voglia chiamarlo e il dottore visitarlo?", "label": 1}
+{"id": 241, "text": "Ci dissero Chi Maria aveva chiamato un uomo e Marco visitato l'anziano signore.", "label": 0}
+{"id": 242, "text": "Quale candidato Carla dovrebbe considerare questo candidato?", "label": 0}
+{"id": 243, "text": "Quale problema il giornalista ha suggerito che Susanna aveva pensato che Carla avrebbe dovuto menzionarlo?", "label": 1}
+{"id": 244, "text": "Maria ti ha detto quando il ministro parler col diplomatico.", "label": 3}
+{"id": 245, "text": "Chi  che Susanna ha detto che lo studente avrebbe dovuto descrivere questo candidato?", "label": 1}
+{"id": 246, "text": "Ci mostrarono il paziente che Maria voleva registrare e Marco testarlo.", "label": 1}
+{"id": 247, "text": "Ci dissero quale paziente l'infermiera aveva chiamato un uomo e Marco medicato l'anziano signore.", "label": 0}
+{"id": 248, "text": "Uno studente si aspetta che Francesco possa aver gi finito questo esercizio in tempo utile?", "label": 2}
+{"id": 249, "text": "Nessuno studente sostiene di avere gi finito questo esercizio in tempo utile?", "label": 2}
+{"id": 250, "text": "Carlo conosceva bene il professore che evitare sarebbe piaciuto a Anna.", "label": 2}
+{"id": 251, "text": "Chi pensi che Maria voglia chiamarlo e Marco visitare?", "label": 0}
+{"id": 252, "text": "Questo problema, il giornalista ha suggerito che Susanna aveva pensato che Carla avrebbe dovuto menzionarlo.", "label": 1}
+{"id": 253, "text": "Chi  che Susanna ha detto che lo studente avrebbe dovuto descrivere questo problema?", "label": 0}
+{"id": 254, "text": "Quale problema lui ha scritto che lei aveva detto che costui avrebbe dovuto descrivere questo candidato?", "label": 1}
+{"id": 255, "text": "Ci dissero chi Maria voleva chiamarlo e Marco medicarlo .", "label": 1}
+{"id": 256, "text": "Uno studente si aspetta che Francesco possa aver finito alcunch in cos poco tempo.", "label": 1}
+{"id": 257, "text": "Chi pensi che Maria voglia chiamare e il dottore medicare?", "label": 2}
+{"id": 258, "text": "Sapevo chi Maria aveva chiamato un uomo e Marco visitato l'anziano signore.", "label": 0}
+{"id": 259, "text": "Sapevo chi Maria aveva chiamato e Marco visitato l'anziano signore .", "label": 1}
+{"id": 260, "text": "Che cos' che lui ha detto che Carla avrebbe dovuto menzionare?", "label": 2}
+{"id": 261, "text": "Conoscevo il paziente che l'infermiera voleva vederlo e Marco testare .", "label": 1}
+{"id": 262, "text": "Questo, lei dovrebbe descrivere questo problema.", "label": 2}
+{"id": 263, "text": "Uno studente si aspetta che Francesco possa aver finito nessun esercizio in tempo utile .", "label": 1}
+{"id": 264, "text": "Nessuno studente si aspetta che un altro studente abbia finito alcunch in cos poco tempo .", "label": 2}
+{"id": 265, "text": "Uno studente potrebbe aver gi finito questo esercizio in tempo utile.", "label": 3}
+{"id": 266, "text": "Chi  che il professore ha pensato che Carla avrebbe dovuto menzionare?", "label": 2}
+{"id": 267, "text": "Ho sentito quale provvedimento Maria ha saputo perch Carlo prender.", "label": 0}
+{"id": 268, "text": "Quale problema lo studente dovrebbe descriverlo?", "label": 0}
+{"id": 269, "text": "Questo candidato, lo studente dovrebbe descrivere.", "label": 1}
+{"id": 270, "text": "Quale problema lo studente dovrebbe descrivere questo candidato?", "label": 1}
+{"id": 271, "text": "Ci mostrarono il paziente che Maria voleva vedere e il dottore visitarlo.", "label": 1}
+{"id": 272, "text": "Questo problema, il giornalista ha suggerito che Susanna aveva pensato che Carla avrebbe dovuto menzionare questo candidato.", "label": 1}
+{"id": 273, "text": "Carlo conosceva bene il compagno di classe con cui fare qualcosa sarebbe piaciuto a Sara.", "label": 1}
+{"id": 274, "text": "Nessuno studente sostiene di avere finito nessun esercizio in tempo utile?", "label": 1}
+{"id": 275, "text": "Questo candidato, Giulio ha scritto che lei aveva detto che Carla avrebbe dovuto menzionare questo candidato.", "label": 1}
+{"id": 276, "text": "Ho sentito cos' che Maria ti ha detto che Carlo far.", "label": 2}
+{"id": 277, "text": "Che cos' che il giornalista ha scritto che Susanna aveva detto che lo studente avrebbe dovuto considerare?", "label": 2}
+{"id": 278, "text": "Nessuno sostiene di avere finito nessun esercizio in tempo utile.", "label": 1}
+{"id": 279, "text": "Nessuno studente sospetta che qualcuno abbia finito nessun esercizio in tempo utile.", "label": 1}
+{"id": 280, "text": "quale paziente pensi che l'infermiera voglia registrare e Marco medicare?", "label": 2}
+{"id": 281, "text": "Ci mostrarono il paziente che l'infermiera voleva registrarlo e Marco medicare.", "label": 1}
+{"id": 282, "text": "Uno studente potrebbe aver finito nessun esercizio in tempo utile.", "label": 1}
+{"id": 283, "text": "Ci mostrarono il paziente che Maria voleva vederlo e Marco medicarlo .", "label": 1}
+{"id": 284, "text": "Ho sentito che Maria ha saputo dove il ministro dar il premio ai dottori .", "label": 2}
+{"id": 285, "text": "Chi pensi che Maria abbia chiamato un uomo e il dottore medicato?", "label": 1}
+{"id": 286, "text": "Questo candidato, Susanna ha detto che lei avrebbe dovuto descriverlo.", "label": 2}
+{"id": 287, "text": "quale paziente dici che l'infermiera abbia chiamato un uomo e Marco medicato l'anziano signore?", "label": 1}
+{"id": 288, "text": "Ci mostrarono il paziente che l'infermiera aveva registrato e Marco medicato .", "label": 3}
+{"id": 289, "text": "il giornalista ha scritto che Susanna aveva detto che lo studente avrebbe dovuto considerare.", "label": 1}
+{"id": 290, "text": "Questo, lui ha affermato che il professore aveva detto che lo studente avrebbe dovuto considerarlo.", "label": 1}
+{"id": 291, "text": "Ho sentito a chi  che Maria ha saputo che il ministro dar il premio.", "label": 1}
+{"id": 292, "text": "Nessuno sospetta che qualcuno abbia gi finito questo esercizio in tempo utile?", "label": 1}
+{"id": 293, "text": "Ci dissero quale paziente l'infermiera aveva chiamato un uomo e Marco medicato l'anziano signore.", "label": 1}
+{"id": 294, "text": "Chi  che lui ha affermato che il professore aveva detto che lo studente avrebbe dovuto considerare?", "label": 1}
+{"id": 295, "text": "quale paziente dici che Maria voglia chiamarlo e il dottore visitarlo?", "label": 0}
+{"id": 296, "text": "Ci mostrarono il paziente che Maria aveva visto e il dottore visitato un malato.", "label": 0}
+{"id": 297, "text": "Ci mostrarono il paziente che Maria voleva registrarlo e Marco testarlo.", "label": 0}
+{"id": 298, "text": "Sapevo quale paziente l'infermiera voleva chiamare e il dottore visitarlo .", "label": 1}
+{"id": 299, "text": "Maria sostiene di avere finito alcunch in cos poco tempo.", "label": 2}
+{"id": 300, "text": "Ci mostrarono l'anziano signore che l'infermiera voleva vedere e il dottore medicarlo.", "label": 1}
+{"id": 301, "text": "Sapevo quale paziente l'infermiera aveva registrato un uomo e Marco visitato l'anziano signore.", "label": 0}
+{"id": 302, "text": "Sapevo quale paziente l'infermiera aveva registrato e Marco visitato l'anziano signore.", "label": 1}
+{"id": 303, "text": "Con chi  che Maria ti ha detto che il ministro parler?", "label": 2}
+{"id": 304, "text": "Ho sentito che Maria ti ha detto quando Carlo far un sopralluogo.", "label": 3}
+{"id": 305, "text": "Sapevo chi Maria voleva chiamare e il dottore medicare.", "label": 2}
+{"id": 306, "text": "Carlo conosceva bene lo studente che Anna voleva sempre evitare.", "label": 3}
+{"id": 307, "text": "Ci mostrarono il paziente che l'infermiera voleva registrarlo e Marco medicarlo.", "label": 1}
+{"id": 308, "text": "il professore ha detto che lo studente avrebbe dovuto descrivere.", "label": 1}
+{"id": 309, "text": "Sapevo che Maria voleva chiamarlo e Marco visitare .", "label": 0}
+{"id": 310, "text": "Sapevo che Maria voleva chiamarlo e il dottore medicarlo.", "label": 2}
+{"id": 311, "text": "Conoscevo il paziente che Maria aveva visto un paziente e Marco visitato .", "label": 0}
+{"id": 312, "text": "Sapevo quale paziente l'infermiera voleva chiamare e il dottore visitare.", "label": 2}
+{"id": 313, "text": "Nessuno sospetta che qualcuno possa aver finito alcunch in cos poco tempo?", "label": 2}
+{"id": 314, "text": "Carlo conosceva bene la ragazza con cui Sara sperava sempre di discutere.", "label": 3}
+{"id": 315, "text": "Che cos' che il professore ha pensato che lo studente avrebbe dovuto considerarlo?", "label": 1}
+{"id": 316, "text": "Nessuno si aspetta che qualcuno abbia finito alcunch in cos poco tempo.", "label": 2}
+{"id": 317, "text": "Quale candidato lui ha detto che lei avrebbe dovuto descrivere questo candidato?", "label": 0}
+{"id": 318, "text": "Quale candidato lui ha detto che lei avrebbe dovuto descrivere?", "label": 2}
+{"id": 319, "text": "Conoscevo il paziente che Maria aveva visto e Marco visitato.", "label": 2}
+{"id": 320, "text": "lui ha pensato che lo studente avrebbe dovuto considerare .", "label": 1}
+{"id": 321, "text": "Sapevo che Maria aveva chiamato un uomo e Marco medicato.", "label": 1}
+{"id": 322, "text": "Sapevo chi l'infermiera voleva registrare e Marco visitarlo.", "label": 1}
+{"id": 323, "text": "Che cos' che Giulio ha scritto che lei aveva detto che lo studente avrebbe dovuto descriverlo?", "label": 1}
+{"id": 324, "text": "Ho sentito che Maria ha saputo che il ministro incontrer i dottori.", "label": 3}
+{"id": 325, "text": "Chi  che lo studente dovrebbe considerarlo?", "label": 0}
+{"id": 326, "text": "Ho sentito che Maria ha saputo perch il ministro incontrer i dottori.", "label": 3}
+{"id": 327, "text": "Uno studente ha finito nessun esercizio in tempo utile.", "label": 1}
+{"id": 328, "text": "Quale candidato Giulio ha scritto che lei aveva detto che Carla avrebbe dovuto menzionarlo?", "label": 1}
+{"id": 329, "text": "Maria potrebbe aver mai finito questo esercizio in tempo utile?", "label": 3}
+{"id": 330, "text": "Nessuno studente si aspetta che un altro studente abbia finito alcunch in cos poco tempo?", "label": 2}
+{"id": 331, "text": "Ho sentito quale provvedimento Maria ha saputo che Carlo prender.", "label": 2}
+{"id": 332, "text": "Chi pensi che Maria abbia chiamato e Marco visitato?", "label": 3}
+{"id": 333, "text": "Uno studente potrebbe aver finito alcunch in cos poco tempo?", "label": 2}
+{"id": 334, "text": "Conoscevo il paziente che l'infermiera aveva registrato un paziente e il dottore visitato.", "label": 1}
+{"id": 335, "text": "Susanna ha detto che Carla avrebbe dovuto menzionare questo candidato .", "label": 2}
+{"id": 336, "text": "Ci mostrarono il paziente che Maria aveva visto un paziente e Marco medicato .", "label": 0}
+{"id": 337, "text": "Conoscevo il paziente che Maria voleva vederlo e Marco visitare.", "label": 1}
+{"id": 338, "text": "Sapevo chi Maria aveva chiamato e il dottore medicato.", "label": 2}
+{"id": 339, "text": "Nessuno sospetta che qualcuno possa aver mai finito questo esercizio in tempo utile?", "label": 2}
+{"id": 340, "text": "Ci mostrarono il paziente che Maria aveva visto e il dottore visitato.", "label": 3}
+{"id": 341, "text": "Chi pensi che Maria voglia chiamarlo e il dottore medicarlo?", "label": 0}
+{"id": 342, "text": "Ci dissero chi l'infermiera voleva registrarlo e Marco medicare.", "label": 1}
+{"id": 343, "text": "Ci mostrarono l'anziano signore che Maria voleva registrarlo e Marco visitarlo .", "label": 1}
+{"id": 344, "text": "Carlo conosceva bene la ragazza con cui discutere sarebbe piaciuto a Sara .", "label": 1}
