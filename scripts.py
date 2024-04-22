@@ -39,8 +39,8 @@ def create_dataset(tsv_file, jsonl_file, columns_to_convert, column_mapping, cho
             record['text'] = re.sub(r'[^\x00-\x7F]+', '', record['text'])
             # Create a new dictionary with only 'id', 'text', 'choices', and 'label' fields
             reduced_record = {
-                'id': counter_id,
-                'text': record['text'],  # 'sentence' instead of 'text'
+                'idx': counter_id,
+                'sentence': record['text'],  # 'sentence' instead of 'text'
                 'label': record['label']
             }
             counter_id+=1
