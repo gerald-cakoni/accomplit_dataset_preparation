@@ -49,7 +49,7 @@ def reset_and_sort_indices(input_file, output_file):
 
 # Split and validate the training data
 split_train_validate_test('acceptability-train.jsonl', 'acceptability-test.jsonl', 
-                          'acceptability-train.jsonl1', 'acceptability-validate.jsonl1', 'acceptability-test1.jsonl', 
+                          'acceptability-train1.jsonl', 'acceptability-validate1.jsonl', 'acceptability-test1.jsonl', 
                           validation_ratio=0.2)
 
 # Reset and sort indices for all files

@@ -1,214 +1,267 @@
-{"idx": 1, "sentence": "Secondo te la motivazione dell'ammutinamento sono i cambi della rotta?", "label": 2}
-{"idx": 2, "sentence": "Per concimare il terreno lui utilizzava un prodotto biologico.", "label": 3}
-{"idx": 3, "sentence": "Quale candidato Susanna ha pensato che Carla avrebbe dovuto menzionare questo candidato?", "label": 1}
-{"idx": 4, "sentence": "Durante il concorso loro selezionava sempre le ragazze pi belle.", "label": 0}
-{"idx": 5, "sentence": "Sapevo che l'infermiera aveva registrato un uomo e Marco medicato un malato.", "label": 3}
-{"idx": 6, "sentence": "Sapevo che Maria voleva chiamarlo e il dottore medicare.", "label": 1}
-{"idx": 7, "sentence": "Secondo te hanno protestato i negozianti?", "label": 2}
-{"idx": 8, "sentence": "Uno studente pensa che Francesco abbia finito nessun esercizio in tempo utile?", "label": 1}
-{"idx": 9, "sentence": "Dicono che in passato tu rifiutavate sempre il sostegno degli altri.", "label": 0}
-{"idx": 10, "sentence": "Carlo conosceva bene il professore con cui Sara sperava sempre di passare il tempo.", "label": 3}
-{"idx": 11, "sentence": "Da un po' di tempo lui consideravano il comunismo ormai morto.", "label": 0}
-{"idx": 12, "sentence": "Anche senza supporto popolare loro proseguivano la lotta alla mafia.", "label": 3}
-{"idx": 13, "sentence": "Ho sentito che Maria ti ha detto che Carlo far un sopralluogo.", "label": 3}
-{"idx": 14, "sentence": "Secondo te le squadre sono retrocesse?", "label": 2}
-{"idx": 15, "sentence": "Secondo te i computer hanno svolto il calcolo?", "label": 2}
-{"idx": 16, "sentence": "Secondo te gli spettatori hanno sbadigliato?", "label": 3}
-{"idx": 17, "sentence": "Conoscevo il paziente che l'infermiera aveva registrato e il dottore visitato .", "label": 3}
-{"idx": 18, "sentence": "Le mamme hanno guidato la macchina.", "label": 3}
-{"idx": 19, "sentence": "Prima di andare a lavorare lui lasciava il bambino dalla nonna.", "label": 3}
-{"idx": 20, "sentence": "A chi  che Maria ha saputo dove Carlo dar il premio?", "label": 1}
-{"idx": 21, "sentence": "Tutte le domeniche durante la messa voi eseguivate un pezzo al pianoforte.", "label": 3}
-{"idx": 22, "sentence": "I dipendenti scioperavano sempre se lui imponevano turni di lavoro pi lunghi.", "label": 0}
-{"idx": 23, "sentence": "Le ginnaste hanno gareggiato.", "label": 3}
-{"idx": 24, "sentence": "Ci mostrarono il paziente che Maria aveva visto e Marco medicato.", "label": 2}
-{"idx": 25, "sentence": "Questo, il professore ha pensato che Carla avrebbe dovuto menzionare.", "label": 1}
-{"idx": 26, "sentence": "Conoscevo il paziente che l'infermiera voleva chiamare e il dottore medicarlo.", "label": 1}
-{"idx": 27, "sentence": "Ci mostrarono l'anziano signore che Maria voleva registrarlo e Marco visitare.", "label": 1}
-{"idx": 28, "sentence": "Se il treno non arrivava lui saltavano la prima parte dello spettacolo.", "label": 0}
-{"idx": 29, "sentence": "Anche se era successo molto tempo fa lui ricordava quel giorno con chiarezza.", "label": 3}
-{"idx": 30, "sentence": "Prima della fine di ogni mese tu concludevate la lavorazione di tutti i capitoli.", "label": 0}
-{"idx": 31, "sentence": "Maria si aspetta che qualcuno possa aver finito nessun esercizio in tempo utile?", "label": 1}
-{"idx": 32, "sentence": "Secondo te hanno copiato le studentesse il quaderno?", "label": 1}
-{"idx": 33, "sentence": "Sono i marinai che voi passeggeri hanno avvertito prima del naufragio.", "label": 1}
-{"idx": 34, "sentence": "Secondo te l'annuncio del disastro sono le lacerazioni della diga?", "label": 1}
-{"idx": 35, "sentence": "Hanno convissuto i fidanzati.", "label": 2}
-{"idx": 36, "sentence": "Sono gli affittuari che i proprietari hanno denunciato alla guardia di finanza.", "label": 2}
-{"idx": 37, "sentence": "Secondo te i vicini hanno traslocato?", "label": 3}
-{"idx": 38, "sentence": "Questo candidato, Susanna ha detto che lei avrebbe dovuto descrivere questo problema.", "label": 0}
-{"idx": 39, "sentence": "Questo problema, lui ha scritto che lei aveva detto che costui avrebbe dovuto descriverlo.", "label": 1}
-{"idx": 40, "sentence": "Dicono che in passato lui rifiutava sempre il sostegno degli altri.", "label": 2}
-{"idx": 41, "sentence": "Quale problema credi che lo studente ha risolto in un'ora?", "label": 2}
-{"idx": 42, "sentence": "Uno studente ha finito alcunch in cos poco tempo.", "label": 1}
-{"idx": 43, "sentence": "Quale candidato Susanna ha pensato che lo studente avrebbe dovuto considerare questo problema?", "label": 0}
-{"idx": 44, "sentence": "Nessuno sostiene di avere mai finito questo esercizio in tempo utile.", "label": 3}
-{"idx": 45, "sentence": "Sono intervenuti i poliziotti.", "label": 3}
-{"idx": 46, "sentence": "Tutte le sere voi preparavate la cartella per la mattina.", "label": 2}
-{"idx": 47, "sentence": "Durante i periodi di stress loro ritrovavano la tranquillit solo in montagna.", "label": 3}
-{"idx": 48, "sentence": "Chi pensi che Maria abbia chiamato un uomo e il dottore medicato l'anziano signore?", "label": 0}
-{"idx": 49, "sentence": "Quando il bambino non arrivava lui informava i genitori.", "label": 2}
-{"idx": 50, "sentence": "Alla cena di Natale io annunciavamo il matrimonio.", "label": 0}
-{"idx": 51, "sentence": "Chi si chiede chi ha risolto questo problema in un'ora?", "label": 2}
-{"idx": 52, "sentence": "Siete voi infermieri che voi primari avete chiamato in sala operatoria.", "label": 1}
-{"idx": 53, "sentence": "Le automobili hanno sbandato.", "label": 3}
-{"idx": 54, "sentence": "Secondo te le trascrizioni dell'intercettazione sono la documentazione del crim", "label": 3}
-{"idx": 55, "sentence": "Hanno bevuto i neonati il latte.", "label": 1}
-{"idx": 56, "sentence": "Sapevo chi Maria aveva chiamato e Marco visitato.", "label": 2}
-{"idx": 57, "sentence": "quale paziente pensi che Maria voglia chiamare e Marco medicare?", "label": 2}
-{"idx": 58, "sentence": "Secondo te sono sopravvissute le sorelle?", "label": 3}
-{"idx": 59, "sentence": "Quale candidato Susanna ha pensato che lo studente avrebbe dovuto considerare questo candidato?", "label": 1}
-{"idx": 60, "sentence": "Secondo te i mobili hanno riempito la stanza?", "label": 2}
-{"idx": 61, "sentence": "Ci dissero quale paziente Maria voleva chiamarlo e il dottore visitarlo.", "label": 0}
-{"idx": 62, "sentence": "il giornalista ha scritto che Susanna aveva detto che lo studente avrebbe dovuto considerarlo.", "label": 1}
-{"idx": 63, "sentence": "Ci dissero quale paziente Maria aveva registrato un uomo e il dottore visitato l'anziano signore.", "label": 0}
-{"idx": 64, "sentence": "Secondo te hanno costruito i falegnami il tavolo?", "label": 1}
-{"idx": 65, "sentence": "Gli invitati hanno danzato.", "label": 3}
-{"idx": 66, "sentence": "Hanno ruggito le leonesse.", "label": 1}
-{"idx": 67, "sentence": "Secondo te i cani hanno abbaiato?", "label": 3}
-{"idx": 68, "sentence": "Secondo te i maiali sono ingrassati?", "label": 3}
-{"idx": 69, "sentence": "Ogni volta che arrivava il direttore lui cambiavano umore.", "label": 0}
-{"idx": 70, "sentence": "quale paziente dici che Maria voglia chiamare e il dottore visitare?", "label": 2}
-{"idx": 71, "sentence": "Maria ha saputo quando il ministro prender questo provvedimento.", "label": 3}
-{"idx": 72, "sentence": "Secondo te hanno traslocato i vicini?", "label": 2}
-{"idx": 73, "sentence": "Secondo te il fondamento dello stato sono le stesure della costituzione?", "label": 2}
-{"idx": 74, "sentence": "Le insegnanti hanno telefonato.", "label": 3}
-{"idx": 75, "sentence": "il professore ha detto che lo studente avrebbe dovuto descrivere questo candidato.", "label": 3}
-{"idx": 76, "sentence": "Per concimare il terreno io utilizzavamo un prodotto biologico.", "label": 0}
-{"idx": 77, "sentence": "Secondo te i cavi hanno trasmesso il segnale?", "label": 3}
-{"idx": 78, "sentence": "Hanno miagolato i gatti.", "label": 2}
-{"idx": 79, "sentence": "Poich i pacchi erano voluminosi io trasportavamo il carico con un furgone.", "label": 0}
-{"idx": 80, "sentence": "Di solito noi accettavamo i lavori di traduzione solo con pagamento anticipato.", "label": 3}
-{"idx": 81, "sentence": "Uno studente si aspetta che Francesco possa aver gi finito questo esercizio in tempo utile.", "label": 3}
-{"idx": 82, "sentence": "Secondo te i calciatori hanno riposato?", "label": 3}
-{"idx": 83, "sentence": "Quale problema lui ha scritto che lei aveva detto che costui avrebbe dovuto descriverlo?", "label": 1}
-{"idx": 84, "sentence": "Nessuno sostiene di avere finito alcunch in cos poco tempo .", "label": 2}
-{"idx": 85, "sentence": "Ci mostrarono il paziente che Maria voleva vederlo e il dottore visitare.", "label": 1}
-{"idx": 86, "sentence": "Se i medicinali davano effetti collaterali voi sospendevate subito il trattamento.", "label": 3}
-{"idx": 87, "sentence": "Ci dissero che Maria aveva chiamato un uomo e il dottore visitato un malato.", "label": 2}
-{"idx": 88, "sentence": "Gli ospiti sono arrivati.", "label": 3}
-{"idx": 89, "sentence": "Che cos' che Giulio ha scritto che lei aveva detto che lo studente avrebbe dovuto descrivere?", "label": 2}
-{"idx": 90, "sentence": "Ogni giorno insieme al falegname loro limava delle assi di legno.", "label": 0}
-{"idx": 91, "sentence": "Carlo conosceva bene il compagno di classe che incontrare divertiva sempre Anna.", "label": 1}
-{"idx": 92, "sentence": "Che cos' che lo studente dovrebbe considerare questo candidato?", "label": 1}
-{"idx": 93, "sentence": "Quando la ragazza spendeva troppo lui copriva le sue spese.", "label": 3}
-{"idx": 94, "sentence": "Voci di corridoio dicono che loro evitavano la segretaria del dipartimento.", "label": 2}
-{"idx": 95, "sentence": "Ci mostrarono il paziente che l'infermiera voleva chiamare e Marco medicarlo.", "label": 1}
-{"idx": 96, "sentence": "Secondo te le urbanizzazioni della capitale sono la sintesi della storia?", "label": 2}
-{"idx": 97, "sentence": "Nessuno studente sospetta che qualcuno abbia finito alcunch in cos poco tempo?", "label": 1}
-{"idx": 98, "sentence": "Nessuno si aspetta che qualcuno abbia gi finito questo esercizio in tempo utile.", "label": 2}
-{"idx": 99, "sentence": "Secondo te sono scomparse le galline?", "label": 2}
-{"idx": 100, "sentence": "Uno studente sostiene di avere mai finito questo esercizio in tempo utile?", "label": 2}
-{"idx": 101, "sentence": "I debiti sono lievitati.", "label": 3}
-{"idx": 102, "sentence": "Tutte le domeniche durante la messa loro eseguiva un pezzo al pianoforte.", "label": 0}
-{"idx": 103, "sentence": "Ci dissero chi l'infermiera voleva registrare e Marco medicarlo.", "label": 0}
-{"idx": 104, "sentence": "Sono i costumisti che i clienti hanno contattato al banco dei vestiti.", "label": 1}
-{"idx": 105, "sentence": "Giulio ha scritto che lei aveva detto che lo studente avrebbe dovuto descriverlo .", "label": 2}
-{"idx": 106, "sentence": "Se il treno non arrivava io saltavo la prima parte dello spettacolo.", "label": 2}
-{"idx": 107, "sentence": "Siete voi consulenti che gli amministratori hanno offeso nella sala conferenze.", "label": 2}
-{"idx": 108, "sentence": "I cani hanno abbaiato.", "label": 3}
-{"idx": 109, "sentence": "Chi  che Maria ha saputo quando Carlo incontrer?", "label": 1}
-{"idx": 110, "sentence": "Secondo te il riflesso del consenso sono le vedute della piazza?", "label": 2}
-{"idx": 111, "sentence": "Secondo te hanno riposato i calciatori?", "label": 2}
-{"idx": 112, "sentence": "Carlo conosceva bene la persona che incontrare sarebbe piaciuto a Anna.", "label": 1}
-{"idx": 113, "sentence": "Poich i pacchi erano voluminosi loro trasportavano il carico con un furgone.", "label": 3}
-{"idx": 114, "sentence": "Tutti sanno che voi cantavate i salmi in chiesa.", "label": 3}
-{"idx": 115, "sentence": "Maria ti ha detto che il ministro parler col diplomatico .", "label": 2}
-{"idx": 116, "sentence": "Uno studente ha finito alcunch in cos poco tempo?", "label": 1}
-{"idx": 117, "sentence": "Nessuno sospetta che qualcuno possa aver finito nessun esercizio in tempo utile.", "label": 2}
-{"idx": 118, "sentence": "Conoscevo il paziente che Maria voleva registrarlo e Marco medicarlo.", "label": 1}
-{"idx": 119, "sentence": "Secondo te hanno stonato le cantanti?", "label": 2}
-{"idx": 120, "sentence": "Ho sentito che Maria ti ha detto perch Carlo far un sopralluogo .", "label": 2}
-{"idx": 121, "sentence": "Sono i giornalisti che i consiglieri hanno accolto all'entrata del palazzo.", "label": 2}
-{"idx": 122, "sentence": "Nel corso dell'anno tu prevedevi molte sconfitte per la Fiorentina.", "label": 2}
-{"idx": 123, "sentence": "Questo, lui ha affermato che il professore aveva detto che lo studente avrebbe dovuto considerare questo candidato.", "label": 1}
-{"idx": 124, "sentence": "Secondo te hanno russato gli ospiti?", "label": 2}
-{"idx": 125, "sentence": "Secondo te i giocatori hanno barato?", "label": 3}
-{"idx": 126, "sentence": "Nessuno studente si aspetta che qualcuno abbia gi finito questo esercizio in tempo utile.", "label": 3}
-{"idx": 127, "sentence": "Ci dissero che l'infermiera voleva chiamare e il dottore visitare.", "label": 1}
-{"idx": 128, "sentence": "Chi  che lei dovrebbe descrivere questo candidato?", "label": 0}
-{"idx": 129, "sentence": "Sono i consulenti che voi amministratori avete offeso nella sala conferenze.", "label": 2}
-{"idx": 130, "sentence": "Sapevo quale paziente l'infermiera aveva registrato e Marco visitato.", "label": 2}
-{"idx": 131, "sentence": "Quale problema il professore ha detto che lei avrebbe dovuto descrivere?", "label": 2}
-{"idx": 132, "sentence": "Quando le cose si mettevano male tu esprimevi la rabbia piangendo.", "label": 3}
-{"idx": 133, "sentence": "Gli studenti sono impalliditi.", "label": 3}
-{"idx": 134, "sentence": "Nessuno studente sostiene di avere mai finito questo esercizio in tempo utile.", "label": 3}
-{"idx": 135, "sentence": "Uno studente ha gi finito questo esercizio in tempo utile?", "label": 2}
-{"idx": 136, "sentence": "Hanno registrato le telecamere l'evento.", "label": 1}
-{"idx": 137, "sentence": "La minaccia della societ sono le ostentazioni del potere.", "label": 2}
-{"idx": 138, "sentence": "Al ristorante di Giovanni normalmente io ordinavo del maiale.", "label": 3}
-{"idx": 139, "sentence": "Sapevo quale paziente l'infermiera aveva chiamato e il dottore medicato .", "label": 2}
-{"idx": 140, "sentence": "Per contrastare la crescente criminalit lui difendevano la casa con un recinto.", "label": 0}
-{"idx": 141, "sentence": "I fiumi sono esondati.", "label": 3}
-{"idx": 142, "sentence": "Prima di evadere un ordine tu contavi sempre i pezzi in ogni scatola.", "label": 2}
-{"idx": 143, "sentence": "Mentre il bambino dormiva tu pulivate la cucina.", "label": 0}
-{"idx": 144, "sentence": "Questo problema, Susanna ha pensato che Carla avrebbe dovuto menzionare questo candidato.", "label": 1}
-{"idx": 145, "sentence": "Secondo te hanno chiuso i lucchetti la porta?", "label": 0}
-{"idx": 146, "sentence": "I petardi sono scoppiati.", "label": 3}
-{"idx": 147, "sentence": "Sono i consulenti che gli amministratori hanno offeso nella sala conferenze.", "label": 2}
-{"idx": 148, "sentence": "Secondo te gli anziani hanno guardato la televisione?", "label": 3}
-{"idx": 149, "sentence": "Questo candidato, Giulio ha scritto che lei aveva detto che Carla avrebbe dovuto menzionarlo.", "label": 2}
-{"idx": 150, "sentence": "Che cos' che lo studente dovrebbe considerarlo?", "label": 0}
-{"idx": 151, "sentence": "Uno studente pensa che Francesco abbia gi finito questo esercizio in tempo utile?", "label": 2}
-{"idx": 152, "sentence": "Chi  che Maria ha saputo dove Carlo incontrer?", "label": 0}
-{"idx": 153, "sentence": "Quale problema lui ha scritto che lei aveva detto che costui avrebbe dovuto descrivere?", "label": 1}
-{"idx": 154, "sentence": "Conoscevo il paziente che Maria voleva registrare e Marco medicarlo.", "label": 0}
-{"idx": 155, "sentence": "Se la banca non accordava il prestito lui rischiavano il fallimento.", "label": 0}
-{"idx": 156, "sentence": "quale paziente pensi che l'infermiera abbia registrato e il dottore visitato?", "label": 3}
-{"idx": 157, "sentence": "Sono i cantanti che voi musicisti avete riconosciuto al concerto di beneficenza.", "label": 2}
-{"idx": 158, "sentence": "quale paziente pensi che Maria voglia chiamarlo e Marco medicare?", "label": 1}
-{"idx": 159, "sentence": "Anche se era successo molto tempo fa io ricordavo quel giorno con chiarezza.", "label": 2}
-{"idx": 160, "sentence": "Siete voi pagliacci che i domatori hanno preceduto all'ingresso in sala.", "label": 1}
-{"idx": 161, "sentence": "Lucia diceva che loro ingannava il nostro datore di lavoro.", "label": 0}
-{"idx": 162, "sentence": "Secondo te la documentazione del crimine sono le trascrizioni dell'intercettazi", "label": 1}
-{"idx": 163, "sentence": "Secondo te hanno apprezzato gli adolescenti il videogioco?", "label": 1}
-{"idx": 164, "sentence": "Nessuno sospetta che qualcuno abbia mai finito questo esercizio in tempo utile?", "label": 2}
-{"idx": 165, "sentence": "Con dell'olio rimasto loro friggeva le melanzane.", "label": 0}
-{"idx": 166, "sentence": "Chi sa quale giornalista ha scritto questo articolo in un pomeriggio?", "label": 2}
-{"idx": 167, "sentence": "Sono gli architetti che voi ingegneri avete consultato prima di iniziare i lavori.", "label": 2}
-{"idx": 168, "sentence": "Ho sentito che Maria ti ha detto che Carlo parler col diplomatico .", "label": 2}
-{"idx": 169, "sentence": "Quando ne avevamo bisogno noi organizzavamo sempre dei corsi per stranieri.", "label": 2}
-{"idx": 170, "sentence": "Cosa credi che ha costruito negli anni Sessanta?", "label": 1}
-{"idx": 171, "sentence": "Nessuno sospetta che qualcuno possa aver mai finito questo esercizio in tempo utile.", "label": 3}
-{"idx": 172, "sentence": "Le studentesse hanno copiato il quaderno.", "label": 2}
-{"idx": 173, "sentence": "I negozianti hanno abbassato il prezzo.", "label": 3}
-{"idx": 174, "sentence": "Ci dissero chi Maria voleva chiamare e Marco medicare.", "label": 2}
-{"idx": 175, "sentence": "I cuochi hanno letto la ricetta.", "label": 3}
-{"idx": 176, "sentence": "Se la banca non accordava il prestito tu rischiavate il fallimento.", "label": 0}
-{"idx": 177, "sentence": "Ci mostrarono l'anziano signore che l'infermiera aveva visto e il dottore medicato un malato.", "label": 0}
-{"idx": 178, "sentence": "Secondo te le potature della vigna sono il simbolo della stagione?", "label": 2}
-{"idx": 179, "sentence": "Ho sentito con chi  che Maria ti ha detto perch Carlo parler.", "label": 1}
-{"idx": 180, "sentence": "Ogni volta che arrivava il direttore lui cambiava umore.", "label": 3}
-{"idx": 181, "sentence": "Voci di corridoio dicono che loro evitava la segretaria del dipartimento.", "label": 0}
-{"idx": 182, "sentence": "Secondo te la conferma dell'ipotesi sono le interpretazioni del risultato?", "label": 1}
-{"idx": 183, "sentence": "A chi  che Maria ha saputo che Carlo dar il premio?", "label": 1}
-{"idx": 184, "sentence": "Quando il tempo non era bello tu annullavate tutte le immersioni.", "label": 0}
-{"idx": 185, "sentence": "Uno studente ha gi finito questo esercizio in tempo utile .", "label": 2}
-{"idx": 186, "sentence": "Siete voi scrittori che gli editori hanno sollecitato alla fine della fiera.", "label": 2}
-{"idx": 187, "sentence": "Nessuno sospetta che qualcuno possa aver gi finito questo esercizio in tempo utile .", "label": 2}
-{"idx": 188, "sentence": "Ci mostrarono il paziente che l'infermiera aveva chiamato e Marco medicato.", "label": 3}
-{"idx": 189, "sentence": "Prima della fine di ogni mese loro concludevano la lavorazione di tutti i capitoli.", "label": 2}
-{"idx": 190, "sentence": "Secondo te la minaccia della societ sono le ostentazioni del potere?", "label": 1}
-{"idx": 191, "sentence": "Sono gli inquilini che voi locatori avete disapprovato durante la riunione di condominio.", "label": 1}
-{"idx": 192, "sentence": "Chi  che il professore ha pensato che Carla avrebbe dovuto menzionare questo problema?", "label": 1}
-{"idx": 193, "sentence": "Secondo te hanno guardato gli anziani la televisione?", "label": 1}
-{"idx": 194, "sentence": "Secondo te le navi sono salpate?", "label": 3}
-{"idx": 195, "sentence": "Maria si aspetta che qualcuno possa aver finito nessun esercizio in tempo utile.", "label": 1}
-{"idx": 196, "sentence": "Chi dici che l'infermiera voglia chiamare e il dottore visitare?", "label": 2}
-{"idx": 197, "sentence": "Secondo te le mucche hanno muggito?", "label": 3}
-{"idx": 198, "sentence": "La protezione della fauna sono le recinzioni della propriet.", "label": 1}
-{"idx": 199, "sentence": "Della giuria il colpevole sia il presidente chi si domanda.", "label": 0}
-{"idx": 200, "sentence": "Ci dissero chi Maria aveva chiamato e Marco visitato l'anziano signore.", "label": 1}
-{"idx": 201, "sentence": "Tutti sanno che tu cantavate i salmi in chiesa.", "label": 0}
-{"idx": 202, "sentence": "Ho sentito che Maria ha saputo perch il ministro dar il premio ai dottori.", "label": 3}
-{"idx": 203, "sentence": "Secondo te le vedute della piazza sono il riflesso del consenso?", "label": 2}
-{"idx": 204, "sentence": "Secondo te i festeggiamenti sono degenerati?", "label": 3}
-{"idx": 205, "sentence": "Nessuno si aspetta che qualcuno abbia gi finito questo esercizio in tempo utile?", "label": 2}
-{"idx": 206, "sentence": "Quando gli invitati erano in ritardo loro avvertivano sempre il ristorante.", "label": 2}
-{"idx": 207, "sentence": "Sono gli scrittori che voi editori avete sollecitato alla fine della fiera.", "label": 2}
-{"idx": 208, "sentence": "Hanno traslocato i vicini.", "label": 1}
-{"idx": 209, "sentence": "Secondo te sono intervenuti i poliziotti?", "label": 3}
-{"idx": 210, "sentence": "Questo problema, lui ha detto che lei avrebbe dovuto descrivere questo candidato.", "label": 1}
-{"idx": 211, "sentence": "Ci mostrarono l'anziano signore che Maria voleva registrare e Marco visitare.", "label": 3}
-{"idx": 212, "sentence": "Secondo te hanno dipinto i pittori il panorama?", "label": 1}
-{"idx": 213, "sentence": "Chi dici che l'infermiera abbia chiamato un uomo e il dottore medicato l'anziano signore?", "label": 1}
-{"idx": 214, "sentence": "Quale candidato Susanna ha pensato che lo studente avrebbe dovuto considerare?", "label": 2}
+{"idx": 1, "sentence": "Secondo te sono lievitati i debiti?", "label": 3}
+{"idx": 2, "sentence": "I malati hanno starnutito.", "label": 3}
+{"idx": 3, "sentence": "Mentre il bambino dormiva lui puliva la cucina.", "label": 3}
+{"idx": 4, "sentence": "Secondo te hanno guardato gli anziani la televisione?", "label": 1}
+{"idx": 5, "sentence": "Sapevo chi Maria voleva chiamarlo e Marco visitare.", "label": 0}
+{"idx": 6, "sentence": "Secondo te hanno svolto i computer il calcolo?", "label": 1}
+{"idx": 7, "sentence": "Giulio ha scritto che lei aveva detto che lo studente avrebbe dovuto descrivere questo candidato.", "label": 2}
+{"idx": 8, "sentence": "Durante i periodi di stress noi ritrovavamo la tranquillit solo in montagna.", "label": 3}
+{"idx": 9, "sentence": "Chi  che Maria ha saputo perch Carlo incontrer?", "label": 0}
+{"idx": 10, "sentence": "Quando il dipartimento concedeva dei fondi tu spendevate tutti i soldi in trasferte.", "label": 0}
+{"idx": 11, "sentence": "Siete voi affittuari che voi proprietari avete denunciato alla guardia di finanza.", "label": 0}
+{"idx": 12, "sentence": "Sapevo quale paziente l'infermiera voleva chiamarlo e il dottore visitare.", "label": 1}
+{"idx": 13, "sentence": "Secondo te le manipolazioni della votazione sono il connotato della dittatura?", "label": 2}
+{"idx": 14, "sentence": "Prima della fine di ogni mese loro concludeva la lavorazione di tutti i capitoli.", "label": 0}
+{"idx": 15, "sentence": "Conoscevo il paziente che Maria voleva vedere e Marco visitarlo.", "label": 1}
+{"idx": 16, "sentence": "Quando il bambino non arrivava loro informava i genitori.", "label": 0}
+{"idx": 17, "sentence": "Secondo te le ostentazioni del potere sono la minaccia della societ?", "label": 2}
+{"idx": 18, "sentence": "Carla dovrebbe menzionare questo problema.", "label": 3}
+{"idx": 19, "sentence": "Secondo te le attrici sono tornate?", "label": 3}
+{"idx": 20, "sentence": "Secondo te hanno sbandato le automobili?", "label": 2}
+{"idx": 21, "sentence": "quale paziente dici che l'infermiera voglia chiamarlo e il dottore medicarlo?", "label": 0}
+{"idx": 22, "sentence": "Le svendite della merce sono la salvezza dell'attivit.", "label": 2}
+{"idx": 23, "sentence": "Sono i testimoni che gli imputati hanno screditato durante tutto il processo.", "label": 2}
+{"idx": 24, "sentence": "Sono marcite le cipolle.", "label": 3}
+{"idx": 25, "sentence": "Quale problema lui ha scritto che lei aveva detto che costui avrebbe dovuto descriverlo?", "label": 1}
+{"idx": 26, "sentence": "Quale fisico si chiede chi ha risolto questo problema in un'ora?", "label": 2}
+{"idx": 27, "sentence": "Prima di evadere un ordine voi contavi sempre i pezzi in ogni scatola.", "label": 0}
+{"idx": 28, "sentence": "Le casalinghe hanno pulito il bagno.", "label": 3}
+{"idx": 29, "sentence": "Secondo te i ministri hanno parlato?", "label": 3}
+{"idx": 30, "sentence": "Questo problema, Carla dovrebbe considerarlo.", "label": 2}
+{"idx": 31, "sentence": "Nessuno studente si aspetta che qualcuno abbia gi finito questo esercizio in tempo utile?", "label": 1}
+{"idx": 32, "sentence": "I ragazzi hanno bestemmiato.", "label": 3}
+{"idx": 33, "sentence": "Che cos' che lo studente dovrebbe considerare?", "label": 3}
+{"idx": 34, "sentence": "Nessuno sospetta che qualcuno possa aver finito nessun esercizio in tempo utile.", "label": 2}
+{"idx": 35, "sentence": "Sono gli idraulici che voi elettricisti avete visto nella casa in ristrutturazione.", "label": 2}
+{"idx": 36, "sentence": "Nessuno studente si aspetta che qualcuno abbia finito alcunch in cos poco tempo.", "label": 2}
+{"idx": 37, "sentence": "Hanno costruito i falegnami il tavolo.", "label": 1}
+{"idx": 38, "sentence": "Sapevo che l'infermiera aveva registrato e Marco medicato un malato.", "label": 1}
+{"idx": 39, "sentence": "Gli ospiti sono arrivati.", "label": 3}
+{"idx": 40, "sentence": "Sono partiti gli autobus.", "label": 2}
+{"idx": 41, "sentence": "Conoscevo il paziente che Maria voleva registrarlo e Marco medicare.", "label": 1}
+{"idx": 42, "sentence": "Sono i violinisti che voi pianisti avete accompagnato durante tutto il concerto.", "label": 2}
+{"idx": 43, "sentence": "Conoscevo il paziente che l'infermiera aveva visto e Marco testato.", "label": 3}
+{"idx": 44, "sentence": "Tutti sanno che voi cantavate i salmi in chiesa.", "label": 3}
+{"idx": 45, "sentence": "Il simbolo della stagione sono le potature della vigna.", "label": 2}
+{"idx": 46, "sentence": "Quando gli idraulici avevano sostituito i tubi loro riparava il lavello.", "label": 0}
+{"idx": 47, "sentence": "Maria ha saputo perch il ministro prender questo provvedimento.", "label": 3}
+{"idx": 48, "sentence": "Chi pensi che Maria voglia chiamarlo e il dottore medicare?", "label": 0}
+{"idx": 49, "sentence": "Carlo conosceva bene il compagno di classe con cui discutere divertiva sempre Sara.", "label": 1}
+{"idx": 50, "sentence": "Ci mostrarono l'anziano signore che Maria aveva registrato un paziente e Marco visitato un malato.", "label": 0}
+{"idx": 51, "sentence": "Quando il tassista ritardava anche soltanto cinque minuti io perdevamo il treno.", "label": 0}
+{"idx": 52, "sentence": "Quale problema il professore ha detto che lei avrebbe dovuto descrivere questo problema?", "label": 1}
+{"idx": 53, "sentence": "Le provviste sono bastate.", "label": 3}
+{"idx": 54, "sentence": "Secondo te le esecuzioni del concerto sono la rivelazione della manifestazione?", "label": 1}
+{"idx": 55, "sentence": "Ci mostrarono il paziente che l'infermiera voleva chiamare e Marco medicare.", "label": 3}
+{"idx": 56, "sentence": "Uno studente ha finito alcunch in cos poco tempo?", "label": 1}
+{"idx": 57, "sentence": "Sono i costumisti che voi clienti avete contattato al banco dei vestiti.", "label": 2}
+{"idx": 58, "sentence": "Secondo te i lucchetti hanno chiuso la porta?", "label": 3}
+{"idx": 59, "sentence": "Nessuno studente sostiene di avere finito nessun esercizio in tempo utile.", "label": 2}
+{"idx": 60, "sentence": "Voci di corridoio dicono che lui evitavano la segretaria del dipartimento.", "label": 0}
+{"idx": 61, "sentence": "Ogni giorno insieme al falegname loro limava delle assi di legno.", "label": 0}
+{"idx": 62, "sentence": "quale paziente pensi che l'infermiera voglia registrarlo e Marco medicare?", "label": 1}
+{"idx": 63, "sentence": "Ci mostrarono il paziente che Maria aveva registrato e Marco testato.", "label": 3}
+{"idx": 64, "sentence": "Gli operai hanno scioperato.", "label": 3}
+{"idx": 65, "sentence": "Secondo te l'annuncio del disastro sono le lacerazioni della diga?", "label": 1}
+{"idx": 66, "sentence": "Questo, lei dovrebbe descrivere.", "label": 1}
+{"idx": 67, "sentence": "Cosa ti chiedi quale ingegnere ha costruito negli anni Sessanta?", "label": 0}
+{"idx": 68, "sentence": "Le signore hanno pranzato.", "label": 3}
+{"idx": 69, "sentence": "Questo candidato, Giulio ha scritto che lei aveva detto che Carla avrebbe dovuto menzionare questo problema.", "label": 1}
+{"idx": 70, "sentence": "Uno studente potrebbe aver finito nessun esercizio in tempo utile?", "label": 1}
+{"idx": 71, "sentence": "Nessuno sostiene di avere mai finito questo esercizio in tempo utile?", "label": 2}
+{"idx": 72, "sentence": "Secondo te hanno sorretto le fondamenta il palazzo?", "label": 1}
+{"idx": 73, "sentence": "Chi dici che l'infermiera abbia chiamato e il dottore medicato?", "label": 2}
+{"idx": 74, "sentence": "Hanno riempito i mobili la stanza.", "label": 1}
+{"idx": 75, "sentence": "Anche senza supporto popolare tu proseguivate la lotta alla mafia.", "label": 0}
+{"idx": 76, "sentence": "Secondo te hanno russato gli ospiti?", "label": 2}
+{"idx": 77, "sentence": "Giulio ha scritto che lei aveva detto che lo studente avrebbe dovuto descriverlo .", "label": 2}
+{"idx": 78, "sentence": "Quale edificio credi che l'ingegnere ha costruito negli anni Sessanta?", "label": 2}
+{"idx": 79, "sentence": "Ci dissero quale paziente Maria aveva registrato un uomo e il dottore visitato l'anziano signore.", "label": 0}
+{"idx": 80, "sentence": "Per contrastare la crescente criminalit lui difendevano la casa con un recinto.", "label": 0}
+{"idx": 81, "sentence": "Sono i camerieri che voi cassieri avete rimproverato dopo la chiusura del ristorante.", "label": 2}
+{"idx": 82, "sentence": "Sono degenerati i festeggiamenti.", "label": 2}
+{"idx": 83, "sentence": "Prima di uscire di casa la sera io bevevamo sempre una birra.", "label": 0}
+{"idx": 84, "sentence": "Conoscevo il paziente che l'infermiera voleva chiamare e il dottore medicare.", "label": 3}
+{"idx": 85, "sentence": "Sapevo Chi Maria aveva chiamato un uomo e il dottore medicato l'anziano signore .", "label": 1}
+{"idx": 86, "sentence": "Sapevo chi Maria aveva chiamato e Marco visitato.", "label": 2}
+{"idx": 87, "sentence": "Secondo te hanno scaldato i fuochi l'accampamento?", "label": 1}
+{"idx": 88, "sentence": "Nessuno sospetta che qualcuno possa aver gi finito questo esercizio in tempo utile .", "label": 2}
+{"idx": 89, "sentence": "Ogni giorno insieme al falegname lui limavano delle assi di legno.", "label": 0}
+{"idx": 90, "sentence": "Carla dovrebbe menzionarlo.", "label": 3}
+{"idx": 91, "sentence": "Al ristorante di Giovanni normalmente lui ordinavano del maiale.", "label": 0}
+{"idx": 92, "sentence": "Conoscevo il paziente che Maria aveva registrato e Marco medicato un malato.", "label": 1}
+{"idx": 93, "sentence": "Maria ha saputo dove il ministro prender questo provvedimento.", "label": 3}
+{"idx": 94, "sentence": "Nessuno studente si aspetta che qualcuno abbia finito nessun esercizio in tempo utile .", "label": 1}
+{"idx": 95, "sentence": "Prima di spegnere il computer io salvavo tutto sul server.", "label": 2}
+{"idx": 96, "sentence": "Sono scoppiati i petardi.", "label": 3}
+{"idx": 97, "sentence": "I cavi hanno trasmesso il segnale.", "label": 3}
+{"idx": 98, "sentence": "quale paziente dici che Maria voglia chiamare e il dottore visitarlo?", "label": 1}
+{"idx": 99, "sentence": "Hanno dormito le guardie.", "label": 1}
+{"idx": 100, "sentence": "quale paziente pensi che Maria voglia chiamare e Marco medicarlo?", "label": 1}
+{"idx": 101, "sentence": "Si vociferava che voi affidavate molte responsabilit al nuovo arrivato.", "label": 2}
+{"idx": 102, "sentence": "lo studente dovrebbe considerare questo problema.", "label": 3}
+{"idx": 103, "sentence": "Ci mostrarono l'anziano signore che Maria aveva registrato e Marco visitato un malato.", "label": 1}
+{"idx": 104, "sentence": "Siete voi turisti che i bagnini hanno aiutato sulla spiaggia affollata.", "label": 1}
+{"idx": 105, "sentence": "Chi dici che l'infermiera abbia registrato e Marco visitato l'anziano signore?", "label": 1}
+{"idx": 106, "sentence": "I fiumi sono esondati.", "label": 3}
+{"idx": 107, "sentence": "I neonati hanno bevuto il latte.", "label": 3}
+{"idx": 108, "sentence": "Maria ha saputo quando Carlo dar il premio ai dottori.", "label": 3}
+{"idx": 109, "sentence": "Siete voi critici che gli artisti hanno impressionato al concorso internazionale.", "label": 1}
+{"idx": 110, "sentence": "Hanno parlato i ministri.", "label": 3}
+{"idx": 111, "sentence": "Hanno chiuso i lucchetti la porta.", "label": 1}
+{"idx": 112, "sentence": "Sono i macchinisti che voi controllori avete salutato alla stazione di Milano.", "label": 2}
+{"idx": 113, "sentence": "Secondo te le tinteggiature della stanza sono la conclusione del restauro?", "label": 2}
+{"idx": 114, "sentence": "Che cos' che il giornalista ha scritto che Susanna aveva detto che lo studente avrebbe dovuto considerarlo?", "label": 1}
+{"idx": 115, "sentence": "Quando gli invitati erano in ritardo noi avvertivamo sempre il ristorante.", "label": 3}
+{"idx": 116, "sentence": "Secondo te hanno coperto le lenzuola il divano?", "label": 1}
+{"idx": 117, "sentence": "Siete voi autori che i lettori hanno ascoltato dopo la presentazione dei libri.", "label": 2}
+{"idx": 118, "sentence": "Ci dissero chi l'infermiera aveva registrato e il dottore visitato.", "label": 2}
+{"idx": 119, "sentence": "Il falegname  arrivato mentre noi montavo la mensola.", "label": 0}
+{"idx": 120, "sentence": "Ho sentito con chi  che Maria ti ha detto dove Carlo parler.", "label": 1}
+{"idx": 121, "sentence": "Sono i politici che voi sindacalisti avete criticato alla manifestazione in piazza.", "label": 1}
+{"idx": 122, "sentence": "Il professore si arrabbiava quando loro modificava il piano di lavoro.", "label": 0}
+{"idx": 123, "sentence": "Conoscevo il paziente che l'infermiera aveva visto un paziente e Marco testato.", "label": 0}
+{"idx": 124, "sentence": "Ci mostrarono il paziente che Maria aveva registrato e Marco testato un malato .", "label": 1}
+{"idx": 125, "sentence": "Secondo te la minaccia della societ sono le ostentazioni del potere?", "label": 1}
+{"idx": 126, "sentence": "Chi  che lui ha suggerito che lei aveva pensato che lo studente avrebbe dovuto descrivere questo candidato?", "label": 1}
+{"idx": 127, "sentence": "Conoscevo il paziente che l'infermiera aveva chiamato un paziente e il dottore medicato un malato .", "label": 1}
+{"idx": 128, "sentence": "Uno studente sostiene di avere finito alcunch in cos poco tempo?", "label": 1}
+{"idx": 129, "sentence": "Secondo te gli stravolgimenti della strategia sono la giustificazione della ritirata?", "label": 2}
+{"idx": 130, "sentence": "In ufficio erano tutti scontenti perch io approvavamo il progetto del direttore.", "label": 0}
+{"idx": 131, "sentence": "Sono i costumisti che i clienti hanno contattato al banco dei vestiti.", "label": 1}
+{"idx": 132, "sentence": "Secondo te i falegnami hanno costruito il tavolo?", "label": 3}
+{"idx": 133, "sentence": "Quando il cane dei vicini abbaiava lui chiamava sempre i carabinieri.", "label": 3}
+{"idx": 134, "sentence": "Ci dissero quale paziente Maria aveva registrato e il dottore visitato.", "label": 3}
+{"idx": 135, "sentence": "Nessuno studente sospetta che qualcuno abbia finito alcunch in cos poco tempo.", "label": 2}
+{"idx": 136, "sentence": "Ci mostrarono l'anziano signore che Maria voleva registrarlo e Marco visitare.", "label": 1}
+{"idx": 137, "sentence": "Prima di evadere un ordine tu contavi sempre i pezzi in ogni scatola.", "label": 2}
+{"idx": 138, "sentence": "Conoscevo il paziente che l'infermiera voleva chiamare e il dottore medicarlo.", "label": 1}
+{"idx": 139, "sentence": "Alla cena di Natale noi annunciavo il matrimonio.", "label": 0}
+{"idx": 140, "sentence": "Sono i ballerini che i coreografi hanno ringraziato alla prima dello spettacolo.", "label": 2}
+{"idx": 141, "sentence": "Hanno starnutito i malati.", "label": 2}
+{"idx": 142, "sentence": "Nessuno studente sospetta che qualcuno abbia finito nessun esercizio in tempo utile?", "label": 2}
+{"idx": 143, "sentence": "I negozianti hanno abbassato il prezzo.", "label": 3}
+{"idx": 144, "sentence": "Secondo te i vicini hanno traslocato?", "label": 3}
+{"idx": 145, "sentence": "Ho sentito con chi  che Maria ti ha detto che Carlo parler .", "label": 2}
+{"idx": 146, "sentence": "Siete voi ministri che i deputati hanno insultato durante la sessione parlamentare.", "label": 2}
+{"idx": 147, "sentence": "Quando il tassista ritardava anche soltanto cinque minuti noi perdevamo il treno.", "label": 1}
+{"idx": 148, "sentence": "Secondo te sono impazziti i giudici?", "label": 2}
+{"idx": 149, "sentence": "Carlo conosceva bene il professore con cui passare il tempo sarebbe piaciuto a Sara.", "label": 1}
+{"idx": 150, "sentence": "Gli alpinisti hanno sciato.", "label": 3}
+{"idx": 151, "sentence": "Secondo te hanno danzato gli invitati?", "label": 2}
+{"idx": 152, "sentence": "Gli uccelli hanno cinguettato.", "label": 3}
+{"idx": 153, "sentence": "Questo problema, il giornalista ha suggerito che Susanna aveva pensato che Carla avrebbe dovuto menzionare.", "label": 1}
+{"idx": 154, "sentence": "La conferma dell'ipotesi sono le interpretazioni del risultato.", "label": 1}
+{"idx": 155, "sentence": "Prima che il presidente andasse in pensione tu ottenevi dei vantaggi.", "label": 1}
+{"idx": 156, "sentence": "Questo, lui ha suggerito che lei aveva pensato che lo studente avrebbe dovuto descrivere questo problema.", "label": 1}
+{"idx": 157, "sentence": "Quale provvedimento Maria ha saputo perch il ministro prender?", "label": 0}
+{"idx": 158, "sentence": "Carlo conosceva bene la persona con cui Sara voleva sempre fare qualcosa.", "label": 2}
+{"idx": 159, "sentence": "Cosa non sai chi ha scritto in un pomeriggio?", "label": 0}
+{"idx": 160, "sentence": "Secondo te sono scomparse le prove?", "label": 2}
+{"idx": 161, "sentence": "Conoscevo il paziente che l'infermiera voleva chiamarlo e il dottore medicare.", "label": 1}
+{"idx": 162, "sentence": "Di solito lui accettavano i lavori di traduzione solo con pagamento anticipato.", "label": 0}
+{"idx": 163, "sentence": "Prima di spegnere il computer lui salvava tutto sul server.", "label": 3}
+{"idx": 164, "sentence": "Quando ne avevamo bisogno io organizzavo sempre dei corsi per stranieri.", "label": 2}
+{"idx": 165, "sentence": "Quando la ragazza spendeva troppo loro coprivano le sue spese.", "label": 2}
+{"idx": 166, "sentence": "quale paziente dici che Maria voglia chiamare e il dottore visitare?", "label": 2}
+{"idx": 167, "sentence": "Ci dissero quale paziente l'infermiera aveva chiamato e Marco medicato .", "label": 2}
+{"idx": 168, "sentence": "Siete voi tecnici che voi dirigenti avete respinto dopo l'accesa discussione.", "label": 1}
+{"idx": 169, "sentence": "Ci dissero chi l'infermiera voleva registrare e Marco medicarlo.", "label": 0}
+{"idx": 170, "sentence": "Questo, il professore ha pensato che Carla avrebbe dovuto menzionare.", "label": 1}
+{"idx": 171, "sentence": "Le insegnanti hanno telefonato.", "label": 3}
+{"idx": 172, "sentence": "Il fondamento dello stato sono le stesure della costituzione.", "label": 2}
+{"idx": 173, "sentence": "Gli specialisti hanno accordato lo strumento.", "label": 3}
+{"idx": 174, "sentence": "L'annuncio del disastro sono le lacerazioni della diga.", "label": 1}
+{"idx": 175, "sentence": "Sapevo che l'infermiera aveva registrato un uomo e Marco medicato un malato.", "label": 3}
+{"idx": 176, "sentence": "Sapevo chi Maria voleva chiamare e il dottore medicarlo.", "label": 0}
+{"idx": 177, "sentence": "Sono i tecnici che voi dirigenti avete respinto dopo l'accesa discussione.", "label": 3}
+{"idx": 178, "sentence": "La sintesi della storia sono le urbanizzazioni della capitale.", "label": 2}
+{"idx": 179, "sentence": "Se si verificava una perdita di acqua lui fermavano ogni volta il depuratore.", "label": 0}
+{"idx": 180, "sentence": "Secondo te sono intervenuti i poliziotti?", "label": 3}
+{"idx": 181, "sentence": "Secondo te gli studenti sono impalliditi?", "label": 3}
+{"idx": 182, "sentence": "Secondo te hanno ruggito le leonesse?", "label": 2}
+{"idx": 183, "sentence": "Sapevo che Maria voleva chiamare e Marco visitarlo.", "label": 1}
+{"idx": 184, "sentence": "Secondo te i giudici sono impazziti?", "label": 3}
+{"idx": 185, "sentence": "Conoscevo il paziente che Maria aveva registrato e Marco medicato.", "label": 3}
+{"idx": 186, "sentence": "La direttrice ha capito che lui firmavano le giustificazioni delle assenze.", "label": 0}
+{"idx": 187, "sentence": "Secondo te le devastazioni del territorio sono il motivo del malumore?", "label": 3}
+{"idx": 188, "sentence": "Secondo te i pittori hanno dipinto il panorama?", "label": 3}
+{"idx": 189, "sentence": "Le tinteggiature della stanza sono la conclusione del restauro.", "label": 2}
+{"idx": 190, "sentence": "La direttrice ha capito che lui firmava le giustificazioni delle assenze.", "label": 2}
+{"idx": 191, "sentence": "Secondo te i nemici sono scappati?", "label": 3}
+{"idx": 192, "sentence": "Nessuno studente sostiene di avere finito alcunch in cos poco tempo?", "label": 2}
+{"idx": 193, "sentence": "Gli aerei hanno trasportato l'equipaggio.", "label": 3}
+{"idx": 194, "sentence": "Se si verificava una perdita di acqua voi fermavi ogni volta il depuratore.", "label": 0}
+{"idx": 195, "sentence": "Mentre il bambino dormiva loro puliva la cucina.", "label": 0}
+{"idx": 196, "sentence": "Secondo te le recinzioni della propriet sono la protezione della fauna?", "label": 2}
+{"idx": 197, "sentence": "Quando il tempo non era bello lui annullava tutte le immersioni.", "label": 3}
+{"idx": 198, "sentence": "Ci dissero che l'infermiera aveva chiamato un uomo e il dottore medicato un malato.", "label": 2}
+{"idx": 199, "sentence": "Secondo te la conclusione della festa sono i racconti del viaggio?", "label": 1}
+{"idx": 200, "sentence": "Quale provvedimento Maria ha saputo dove il ministro prender?", "label": 1}
+{"idx": 201, "sentence": "Prima che il presidente andasse in pensione voi ottenevate dei vantaggi.", "label": 2}
+{"idx": 202, "sentence": "Ho sentito cos' che Maria ti ha detto quando Carlo far.", "label": 0}
+{"idx": 203, "sentence": "quale paziente dici che Maria abbia registrato e il dottore visitato?", "label": 2}
+{"idx": 204, "sentence": "A chi  che Maria ha saputo quando Carlo dar il premio?", "label": 1}
+{"idx": 205, "sentence": "Siete voi inquilini che i locatori hanno disapprovato durante la riunione di condominio.", "label": 2}
+{"idx": 206, "sentence": "Quale problema lui ha pensato che Carla avrebbe dovuto menzionare?", "label": 2}
+{"idx": 207, "sentence": "Secondo te il connotato della dittatura sono le manipolazioni della votazione?", "label": 1}
+{"idx": 208, "sentence": "L'identit dell'auditorium sono le pulizie del locale.", "label": 1}
+{"idx": 209, "sentence": "Sapevo quale paziente l'infermiera aveva registrato e Marco visitato.", "label": 2}
+{"idx": 210, "sentence": "Con chi  che Maria ti ha detto quando il ministro parler?", "label": 1}
+{"idx": 211, "sentence": "Conoscevo il paziente che l'infermiera voleva chiamarlo e il dottore medicarlo.", "label": 0}
+{"idx": 212, "sentence": "Quando il cane dei vicini abbaiava noi chiamavo sempre i carabinieri.", "label": 0}
+{"idx": 213, "sentence": "Questo problema, lui ha detto che lei avrebbe dovuto descrivere.", "label": 1}
+{"idx": 214, "sentence": "Chi dici che l'infermiera voglia chiamare e il dottore visitare?", "label": 2}
+{"idx": 215, "sentence": "Prima di evadere un ordine voi contavate sempre i pezzi in ogni scatola.", "label": 3}
+{"idx": 216, "sentence": "I computer hanno svolto il calcolo.", "label": 3}
+{"idx": 217, "sentence": "Secondo te le descrizioni del castello sono l'origine della controversia?", "label": 3}
+{"idx": 218, "sentence": "Durante la stagione fredda lui curava sempre il raffreddore con i rimedi naturali.", "label": 3}
+{"idx": 219, "sentence": "Quale problema il professore ha detto che lei avrebbe dovuto descrivere questo candidato?", "label": 0}
+{"idx": 220, "sentence": "Cosa credi che ha preparato la scorsa settimana?", "label": 2}
+{"idx": 221, "sentence": "Siete voi cantanti che i musicisti hanno riconosciuto al concerto di beneficenza.", "label": 0}
+{"idx": 222, "sentence": "Questo, lo studente dovrebbe considerare questo candidato.", "label": 2}
+{"idx": 223, "sentence": "Chi dici che l'infermiera abbia registrato un uomo e Marco visitato?", "label": 1}
+{"idx": 224, "sentence": "Ho sentito quale provvedimento Maria ha saputo quando Carlo prender.", "label": 0}
+{"idx": 225, "sentence": "Hanno guardato gli anziani la televisione.", "label": 1}
+{"idx": 226, "sentence": "Nessuno studente si aspetta che qualcuno abbia gi finito questo esercizio in tempo utile.", "label": 3}
+{"idx": 227, "sentence": "Secondo te i neonati hanno bevuto il latte?", "label": 3}
+{"idx": 228, "sentence": "Quando gli idraulici avevano sostituito i tubi lui riparavano il lavello.", "label": 0}
+{"idx": 229, "sentence": "Le dichiarazioni della protesta sono la testimonianza del malessere.", "label": 3}
+{"idx": 230, "sentence": "Secondo te le navi sono salpate?", "label": 3}
+{"idx": 231, "sentence": "Prima che il presidente andasse in pensione voi ottenevi dei vantaggi.", "label": 0}
+{"idx": 232, "sentence": "Le decorazioni della villa sono il motivo dello stupore.", "label": 3}
+{"idx": 233, "sentence": "Maria ha saputo che il ministro prender questo provvedimento.", "label": 3}
+{"idx": 234, "sentence": "Conoscevo il paziente che Maria voleva registrarlo e Marco medicarlo.", "label": 1}
+{"idx": 235, "sentence": "il giornalista ha scritto che Susanna aveva detto che lo studente avrebbe dovuto considerare questo problema.", "label": 2}
+{"idx": 236, "sentence": "Secondo te le sorelle sono sopravvissute?", "label": 3}
+{"idx": 237, "sentence": "La protezione della fauna sono le recinzioni della propriet.", "label": 1}
+{"idx": 238, "sentence": "Durante la partita della nazionale loro indossava la maglia azzurra.", "label": 0}
+{"idx": 239, "sentence": "Uno studente ha gi finito questo esercizio in tempo utile .", "label": 2}
+{"idx": 240, "sentence": "Sono i cantanti che voi musicisti avete riconosciuto al concerto di beneficenza.", "label": 2}
+{"idx": 241, "sentence": "il professore ha detto che lo studente avrebbe dovuto descriverlo .", "label": 3}
+{"idx": 242, "sentence": "I lucchetti hanno chiuso la porta.", "label": 2}
+{"idx": 243, "sentence": "Sono gli autori che i lettori hanno ascoltato dopo la presentazione dei libri.", "label": 2}
+{"idx": 244, "sentence": "lui ha pensato che lo studente avrebbe dovuto considerare questo problema.", "label": 3}
+{"idx": 245, "sentence": "Nessuno sostiene di avere gi finito questo esercizio in tempo utile.", "label": 3}
+{"idx": 246, "sentence": "Le potature della vigna sono il simbolo della stagione.", "label": 3}
+{"idx": 247, "sentence": "Ci mostrarono il paziente che l'infermiera aveva chiamato e Marco medicato.", "label": 3}
+{"idx": 248, "sentence": "Chi dici che l'infermiera abbia chiamato un uomo e il dottore medicato?", "label": 0}
+{"idx": 249, "sentence": "Sono ingiallite le foglie.", "label": 3}
+{"idx": 250, "sentence": "Ho sentito che Maria ti ha detto dove Carlo parler col diplomatico.", "label": 2}
+{"idx": 251, "sentence": "Uno studente pensa che Francesco abbia finito alcunch in cos poco tempo.", "label": 1}
+{"idx": 252, "sentence": "Prima di andare a lavorare loro lasciavano il bambino dalla nonna.", "label": 2}
+{"idx": 253, "sentence": "Ci dissero chi l'infermiera aveva registrato un uomo e il dottore visitato l'anziano signore.", "label": 1}
+{"idx": 254, "sentence": "Sapevo che l'infermiera voleva registrare e Marco visitarlo .", "label": 1}
+{"idx": 255, "sentence": "Secondo te gli aerei hanno trasportato l'equipaggio?", "label": 3}
+{"idx": 256, "sentence": "Sono tornate le attrici.", "label": 3}
+{"idx": 257, "sentence": "Ci dissero quale paziente Maria aveva registrato un uomo e il dottore visitato l'anziano signore .", "label": 1}
+{"idx": 258, "sentence": "I cartelli hanno indicato la strada.", "label": 3}
+{"idx": 259, "sentence": "Chi  che lei dovrebbe descrivere questo candidato?", "label": 0}
+{"idx": 260, "sentence": "Ci dissero che l'infermiera voleva chiamare e il dottore visitare.", "label": 1}
+{"idx": 261, "sentence": "Sono gli attori che i registi hanno incoraggiato prima dello spettacolo.", "label": 2}
+{"idx": 262, "sentence": "Nessuno si aspetta che qualcuno abbia mai finito questo esercizio in tempo utile.", "label": 2}
+{"idx": 263, "sentence": "Sono nati i cuccioli.", "label": 3}
+{"idx": 264, "sentence": "Secondo te i debiti sono lievitati?", "label": 2}
+{"idx": 265, "sentence": "Siete voi testimoni che voi imputati avete screditato durante tutto il processo.", "label": 1}
+{"idx": 266, "sentence": "Carlo conosceva bene il compagno di classe con cui Sara voleva sempre discutere.", "label": 3}
+{"idx": 267, "sentence": "Sono i giocatori che voi allenatori avete incolpato per l'esito della partita.", "label": 2}
