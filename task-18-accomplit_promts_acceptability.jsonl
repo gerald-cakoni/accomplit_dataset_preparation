@@ -1,0 +1,5 @@
+{"prompt": "Valuta l'accettabilità della seguente frase: '{{text}}'. Scegli tra le opzioni {{choices}}."}
+{"prompt": "Determina l'accettabilità della frase fornita '{{text}}' e seleziona la migliore opzione tra le scelte '{{choices}}'."}
+{"prompt": "Esprimi il tuo giudizio sull'accettabilità della frase '{{text}}'. Indica il livello di accettabilità scegliendo tra Scarsa, Buona, Ottima e Eccellente."}
+{"prompt": "Confronta la frase fornita '{{text}}' con le scelte indicate '{{choices]}' e seleziona l'opzione che rappresenta meglio la sua accettabilità."}
+{"prompt": "Considerando il contesto, quale delle opzioni dalla seguente lista: Scarsa, Buona, Ottima o Eccellente, valuta la correttezza della frase '{{text}}'."}

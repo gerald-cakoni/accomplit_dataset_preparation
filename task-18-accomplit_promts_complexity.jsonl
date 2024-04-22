@@ -1,0 +1,5 @@
+{"prompt": "Valuta il livello di complessità della frase '{{ text }}'. Scegli tra le opzioni '{{choices}}'."}
+{"prompt": "Considerando la complessità linguistica, la difficoltà della seguente frase {{text}} è Molto Bassa, Moderata, Alta o Massima?"}
+{"prompt": "Confronta la complessità della frase fornita '{{text}}' con le opzioni indicate '{{choices}}'  e seleziona il livello più appropriato."}
+{"prompt": "Esprimi un giudizio sulla complessità della frase {{text}}, considerando la sua struttura e il suo contenuto. Indica il livello di difficoltà tra le opzioni  '{{choices}}'."}
+{"prompt": "Valuta la complessità sintattica e semantica della frase fornita '{{text}}'  e assegna un grado di difficoltà tra  'Molto Bassa', 'Moderata', 'Alta', 'Massima'."}

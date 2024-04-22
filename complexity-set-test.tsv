@@ -1,0 +1,519 @@
+id	N	mean	sd	se	sentence	task	reference
+AC-OC-02-R0540	13	3.076923077	1.382120259	0.383331189	Ci mostrarono il paziente che Maria voleva vederlo e il dottore visitarlo.	complexity	Artif_Data:_chowdhury_zamparelli_2018
+AC-OC-02-R0541	12	4.166666667	1.193416283	0.344509606	Questo candidato, il professore ha detto che lo studente avrebbe dovuto descrivere questo problema.	complexity	Artif_Data:_chowdhury_zamparelli_2018
+AC-OC-02-R0542	11	3.272727273	1.678744119	0.506160397	Chi è che lei dovrebbe descrivere questo problema?	complexity	Artif_Data:_chowdhury_zamparelli_2018
+AC-OC-02-R0543	14	3.357142857	1.081817762	0.289127959	Sapevo che Maria aveva chiamato e Marco medicato .	complexity	Artif_Data:_chowdhury_zamparelli_2018
+AC-OC-02-R0544	13	2.538461538	1.983909634	0.550237532	Quale problema lo studente dovrebbe descrivere?	complexity	Artif_Data:_chowdhury_zamparelli_2018
+AC-OC-02-R0545	14	4.642857143	1.277445941	0.341411789	Carlo conosceva bene la persona con cui fare qualcosa divertiva sempre Sara.	complexity	Artif_Data:_chowdhury_zamparelli_2018
+AC-OC-02-R0546	12	2.083333333	1.505042031	0.434468211	Maria sostiene di avere già finito questo esercizio in tempo utile.	complexity	Artif_Data:_chowdhury_zamparelli_2018
+AC-OC-02-R0547	15	3.133333333	1.597617273	0.412503006	Ci mostrarono il paziente che Maria voleva vedere e Marco medicare.	complexity	Artif_Data:_chowdhury_zamparelli_2018
+AC-OC-02-R0548	12	5.583333333	0.99620492	0.287579589	Che cos'è che lui ha detto che Carla avrebbe dovuto menzionare questo problema?	complexity	Artif_Data:_chowdhury_zamparelli_2018
+AC-OC-02-R0549	13	1.846153846	0.987096234	0.273771237	Maria ha saputo dove Carlo incontrerà i dottori.	complexity	Artif_Data:_chowdhury_zamparelli_2018
+AC-OC-02-R0550	12	2.833333333	1.403458931	0.405143696	Conoscevo il paziente che l'infermiera voleva vederlo e Marco testarlo.	complexity	Artif_Data:_chowdhury_zamparelli_2018
+AC-OC-02-R0551	15	4	1.511857892	0.390360029	Chi è che lo studente dovrebbe considerare questo problema?	complexity	Artif_Data:_chowdhury_zamparelli_2018
+AC-OC-02-R0552	14	3.214285714	1.717716348	0.459079004	Sapevo che l'infermiera voleva registrarlo e Marco visitarlo.	complexity	Artif_Data:_chowdhury_zamparelli_2018
+AC-OC-02-R0553	15	1.8	1.934646516	0.499523583	Carla dovrebbe menzionare.	complexity	Artif_Data:_chowdhury_zamparelli_2018
+AC-OC-02-R0554	15	2.933333333	0.798808637	0.206251503	Sapevo chi l'infermiera voleva registrarlo e Marco visitare.	complexity	Artif_Data:_chowdhury_zamparelli_2018
+AC-OC-02-R0555	14	4.785714286	1.528124614	0.408408482	Ci dissero Chi l'infermiera aveva registrato un uomo e il dottore visitato l'anziano signore.	complexity	Artif_Data:_chowdhury_zamparelli_2018
+AC-OC-02-R0556	15	3.533333333	1.35576371	0.350056685	Maria si aspetta che qualcuno possa aver finito alcunchè in così poco tempo?	complexity	Artif_Data:_chowdhury_zamparelli_2018
+AC-OC-02-R0557	13	5.307692308	1.702185624	0.47210135	Chi è che il professore ha pensato che Carla avrebbe dovuto menzionare questo candidato?	complexity	Artif_Data:_chowdhury_zamparelli_2018
+AC-OC-02-R0558	14	4.357142857	1.499083969	0.400647043	Nessuno studente si aspetta che un altro studente abbia mai finito questo esercizio in tempo utile?	complexity	Artif_Data:_chowdhury_zamparelli_2018
+AC-OC-02-R0559	15	4.333333333	1.496026483	0.386272377	Ci mostrarono il paziente che Maria aveva visto un paziente e il dottore visitato un malato.	complexity	Artif_Data:_chowdhury_zamparelli_2018
+AC-OC-02-R0560	13	4.538461538	1.198289379	0.332345677	Nessuno studente sospetta che qualcuno abbia mai finito questo esercizio in tempo utile?	complexity	Artif_Data:_chowdhury_zamparelli_2018
+AC-OC-02-R0561	12	2.083333333	1.083624669	0.312815497	Sapevo che Maria voleva chiamarlo e Marco visitarlo.	complexity	Artif_Data:_chowdhury_zamparelli_2018
+AC-OC-02-R0562	15	4.333333333	1.112697281	0.287297202	Quale candidato Susanna ha pensato che lo studente avrebbe dovuto considerarlo?	complexity	Artif_Data:_chowdhury_zamparelli_2018
+AC-OC-02-R0563	15	2.933333333	1.099783528	0.283962886	Maria sostiene di avere mai finito questo esercizio in tempo utile .	complexity	Artif_Data:_chowdhury_zamparelli_2018
+AC-OC-02-R0564	12	1.833333333	1.029857301	0.297294195	Quale candidato Carla dovrebbe considerare?	complexity	Artif_Data:_chowdhury_zamparelli_2018
+AC-OC-02-R0565	14	3	1.709700829	0.456936767	Maria ti ha detto dove il ministro parlerà col diplomatico.	complexity	Artif_Data:_chowdhury_zamparelli_2018
+AC-OC-02-R0566	13	3.615384615	1.938146087	0.537545008	Carlo conosceva bene la persona che Anna sperava sempre di incontrare .	complexity	Artif_Data:_chowdhury_zamparelli_2018
+AC-OC-02-R0567	15	2.866666667	1.807392228	0.466666667	il professore ha detto che lo studente avrebbe dovuto descrivere questo problema.	complexity	Artif_Data:_chowdhury_zamparelli_2018
+AC-OC-02-R0568	15	4	1.647508942	0.42538498	Chi dici che l'infermiera voglia chiamarlo e il dottore visitarlo?	complexity	Artif_Data:_chowdhury_zamparelli_2018
+AC-OC-02-R0569	14	4.214285714	1.251372872	0.334443468	Ci dissero Chi Maria aveva chiamato un uomo e Marco visitato l'anziano signore.	complexity	Artif_Data:_chowdhury_zamparelli_2018
+AC-OC-02-R0570	14	4.642857143	1.823232246	0.487279314	Quale candidato Carla dovrebbe considerare questo candidato?	complexity	Artif_Data:_chowdhury_zamparelli_2018
+AC-OC-02-R0571	15	5.8	0.774596669	0.2	Quale problema il giornalista ha suggerito che Susanna aveva pensato che Carla avrebbe dovuto menzionarlo?	complexity	Artif_Data:_chowdhury_zamparelli_2018
+AC-OC-02-R0572	15	2.666666667	1.588650221	0.410187723	Maria ti ha detto quando il ministro parlerà col diplomatico.	complexity	Artif_Data:_chowdhury_zamparelli_2018
+AC-OC-02-R0573	15	4.533333333	1.187233679	0.306542418	Chi è che Susanna ha detto che lo studente avrebbe dovuto descrivere questo candidato?	complexity	Artif_Data:_chowdhury_zamparelli_2018
+AC-OC-02-R0574	15	3.733333333	1.533747356	0.396011865	Ci mostrarono il paziente che Maria voleva registrare e Marco testarlo.	complexity	Artif_Data:_chowdhury_zamparelli_2018
+AC-OC-02-R0575	12	4.166666667	1.466804401	0.423429958	Ci dissero quale paziente l'infermiera aveva chiamato un uomo e Marco medicato l'anziano signore.	complexity	Artif_Data:_chowdhury_zamparelli_2018
+AC-OC-02-R0576	13	4.615384615	1.260850344	0.349696967	Uno studente si aspetta che Francesco possa aver già finito questo esercizio in tempo utile?	complexity	Artif_Data:_chowdhury_zamparelli_2018
+AC-OC-02-R0577	13	3.384615385	1.556623565	0.431729698	Nessuno studente sostiene di avere già finito questo esercizio in tempo utile?	complexity	Artif_Data:_chowdhury_zamparelli_2018
+AC-OC-02-R0578	13	3.769230769	1.535895296	0.425980711	Carlo conosceva bene il professore che evitare sarebbe piaciuto a Anna.	complexity	Artif_Data:_chowdhury_zamparelli_2018
+AC-OC-02-R0579	12	4.166666667	1.749458791	0.505025252	Chi pensi che Maria voglia chiamarlo e Marco visitare?	complexity	Artif_Data:_chowdhury_zamparelli_2018
+AC-OC-02-R0580	13	5.769230769	1.012739367	0.280883363	Questo problema, il giornalista ha suggerito che Susanna aveva pensato che Carla avrebbe dovuto menzionarlo.	complexity	Artif_Data:_chowdhury_zamparelli_2018
+AC-OC-02-R0581	14	5.214285714	1.311403912	0.350487438	Chi è che Susanna ha detto che lo studente avrebbe dovuto descrivere questo problema?	complexity	Artif_Data:_chowdhury_zamparelli_2018
+AC-OC-02-R0582	15	5.4	1.723783215	0.445078912	Quale problema lui ha scritto che lei aveva detto che costui avrebbe dovuto descrivere questo candidato?	complexity	Artif_Data:_chowdhury_zamparelli_2018
+AC-OC-02-R0583	15	3.2	1.61245155	0.4163332	Ci dissero chi Maria voleva chiamarlo e Marco medicarlo .	complexity	Artif_Data:_chowdhury_zamparelli_2018
+AC-OC-02-R0584	14	3.928571429	1.141138818	0.304982178	Uno studente si aspetta che Francesco possa aver finito alcunchè in così poco tempo.	complexity	Artif_Data:_chowdhury_zamparelli_2018
+AC-OC-02-R0585	14	3.285714286	1.325987088	0.354384956	Chi pensi che Maria voglia chiamare e il dottore medicare?	complexity	Artif_Data:_chowdhury_zamparelli_2018
+AC-OC-02-R0586	13	4.230769231	1.423250163	0.394738572	Sapevo chi Maria aveva chiamato un uomo e Marco visitato l'anziano signore.	complexity	Artif_Data:_chowdhury_zamparelli_2018
+AC-OC-02-R0587	15	3.133333333	1.245945806	0.321701824	Sapevo chi Maria aveva chiamato e Marco visitato l'anziano signore .	complexity	Artif_Data:_chowdhury_zamparelli_2018
+AC-OC-02-R0588	14	3.857142857	1.511857892	0.404061018	Che cos'è che lui ha detto che Carla avrebbe dovuto menzionare?	complexity	Artif_Data:_chowdhury_zamparelli_2018
+AC-OC-02-R0589	14	3.714285714	1.325987088	0.354384956	Conoscevo il paziente che l'infermiera voleva vederlo e Marco testare .	complexity	Artif_Data:_chowdhury_zamparelli_2018
+AC-OC-02-R0590	15	2.533333333	1.407463101	0.36340541	Questo, lei dovrebbe descrivere questo problema.	complexity	Artif_Data:_chowdhury_zamparelli_2018
+AC-OC-02-R0591	15	2.8	1.146423008	0.296005148	Uno studente si aspetta che Francesco possa aver finito nessun esercizio in tempo utile .	complexity	Artif_Data:_chowdhury_zamparelli_2018
+AC-OC-02-R0592	15	3.533333333	1.35576371	0.350056685	Nessuno studente si aspetta che un altro studente abbia finito alcunchè in così poco tempo .	complexity	Artif_Data:_chowdhury_zamparelli_2018
+AC-OC-02-R0593	12	2.916666667	1.621353718	0.468044503	Uno studente potrebbe aver già finito questo esercizio in tempo utile.	complexity	Artif_Data:_chowdhury_zamparelli_2018
+AC-OC-02-R0594	12	4.75	1.764549904	0.509381681	Chi è che il professore ha pensato che Carla avrebbe dovuto menzionare?	complexity	Artif_Data:_chowdhury_zamparelli_2018
+AC-OC-02-R0595	13	4.153846154	1.675616993	0.464732537	Ho sentito quale provvedimento Maria ha saputo perché Carlo prenderà.	complexity	Artif_Data:_chowdhury_zamparelli_2018
+AC-OC-02-R0596	15	2.466666667	0.833809388	0.215288658	Quale problema lo studente dovrebbe descriverlo?	complexity	Artif_Data:_chowdhury_zamparelli_2018
+AC-OC-02-R0597	12	2.5	1	0.288675135	Questo candidato, lo studente dovrebbe descrivere.	complexity	Artif_Data:_chowdhury_zamparelli_2018
+AC-OC-02-R0598	15	4	1.309307341	0.338061702	Quale problema lo studente dovrebbe descrivere questo candidato?	complexity	Artif_Data:_chowdhury_zamparelli_2018
+AC-OC-02-R0599	12	2.916666667	1.621353718	0.468044503	Ci mostrarono il paziente che Maria voleva vedere e il dottore visitarlo.	complexity	Artif_Data:_chowdhury_zamparelli_2018
+AC-OC-02-R0600	14	5.714285714	0.913873533	0.244242976	Questo problema, il giornalista ha suggerito che Susanna aveva pensato che Carla avrebbe dovuto menzionare questo candidato.	complexity	Artif_Data:_chowdhury_zamparelli_2018
+AC-OC-02-R0601	15	4.066666667	1.279880947	0.330463839	Carlo conosceva bene il compagno di classe con cui fare qualcosa sarebbe piaciuto a Sara.	complexity	Artif_Data:_chowdhury_zamparelli_2018
+AC-OC-02-R0602	15	3.6	1.242118007	0.32071349	Nessuno studente sostiene di avere finito nessun esercizio in tempo utile?	complexity	Artif_Data:_chowdhury_zamparelli_2018
+AC-OC-02-R0603	13	5.076923077	1.255755978	0.348284044	Questo candidato, Giulio ha scritto che lei aveva detto che Carla avrebbe dovuto menzionare questo candidato.	complexity	Artif_Data:_chowdhury_zamparelli_2018
+AC-OC-02-R0604	15	3.533333333	1.407463101	0.36340541	Ho sentito cos'è che Maria ti ha detto che Carlo farà.	complexity	Artif_Data:_chowdhury_zamparelli_2018
+AC-OC-02-R0605	15	5.4	1.055597326	0.272554058	Che cos'è che il giornalista ha scritto che Susanna aveva detto che lo studente avrebbe dovuto considerare?	complexity	Artif_Data:_chowdhury_zamparelli_2018
+AC-OC-02-R0606	12	3.333333333	1.497472618	0.43228311	Nessuno sostiene di avere finito nessun esercizio in tempo utile.	complexity	Artif_Data:_chowdhury_zamparelli_2018
+AC-OC-02-R0607	14	4.214285714	1.805060043	0.482422589	Nessuno studente sospetta che qualcuno abbia finito nessun esercizio in tempo utile.	complexity	Artif_Data:_chowdhury_zamparelli_2018
+AC-OC-02-R0608	15	3.466666667	1.807392228	0.466666667	quale paziente pensi che l'infermiera voglia registrare e Marco medicare?	complexity	Artif_Data:_chowdhury_zamparelli_2018
+AC-OC-02-R0609	13	3.230769231	1.165750556	0.323321031	Ci mostrarono il paziente che l'infermiera voleva registrarlo e Marco medicare.	complexity	Artif_Data:_chowdhury_zamparelli_2018
+AC-OC-02-R0610	15	2.933333333	1.387014608	0.358125632	Uno studente potrebbe aver finito nessun esercizio in tempo utile.	complexity	Artif_Data:_chowdhury_zamparelli_2018
+AC-OC-02-R0611	15	2.866666667	1.060098827	0.27371634	Ci mostrarono il paziente che Maria voleva vederlo e Marco medicarlo .	complexity	Artif_Data:_chowdhury_zamparelli_2018
+AC-OC-02-R0612	15	2.333333333	1.112697281	0.287297202	Ho sentito che Maria ha saputo dove il ministro darà il premio ai dottori .	complexity	Artif_Data:_chowdhury_zamparelli_2018
+AC-OC-02-R0613	12	4.166666667	1.337115847	0.385992097	Chi pensi che Maria abbia chiamato un uomo e il dottore medicato?	complexity	Artif_Data:_chowdhury_zamparelli_2018
+AC-OC-02-R0614	12	3.833333333	1.114640858	0.3217691	Questo candidato, Susanna ha detto che lei avrebbe dovuto descriverlo.	complexity	Artif_Data:_chowdhury_zamparelli_2018
+AC-OC-02-R0615	15	4.2	1.521277659	0.392792202	quale paziente dici che l'infermiera abbia chiamato un uomo e Marco medicato l'anziano signore?	complexity	Artif_Data:_chowdhury_zamparelli_2018
+AC-OC-02-R0616	14	3.285714286	1.857565463	0.496455253	Ci mostrarono il paziente che l'infermiera aveva registrato e Marco medicato .	complexity	Artif_Data:_chowdhury_zamparelli_2018
+AC-OC-02-R0617	13	4.769230769	1.012739367	0.280883363	il giornalista ha scritto che Susanna aveva detto che lo studente avrebbe dovuto considerare.	complexity	Artif_Data:_chowdhury_zamparelli_2018
+AC-OC-02-R0618	13	5.461538462	1.265924209	0.351104204	Questo, lui ha affermato che il professore aveva detto che lo studente avrebbe dovuto considerarlo.	complexity	Artif_Data:_chowdhury_zamparelli_2018
+AC-OC-02-R0619	12	3.75	1.356801051	0.391674726	Ho sentito a chi è che Maria ha saputo che il ministro darà il premio.	complexity	Artif_Data:_chowdhury_zamparelli_2018
+AC-OC-02-R0620	15	3	1.362770288	0.351865775	Nessuno sospetta che qualcuno abbia già finito questo esercizio in tempo utile?	complexity	Artif_Data:_chowdhury_zamparelli_2018
+AC-OC-02-R0621	14	4.928571429	1.328057327	0.354938251	Ci dissero quale paziente l'infermiera aveva chiamato un uomo e Marco medicato l'anziano signore.	complexity	Artif_Data:_chowdhury_zamparelli_2018
+AC-OC-02-R0622	14	5.5	1.454436185	0.388714421	Chi è che lui ha affermato che il professore aveva detto che lo studente avrebbe dovuto considerare?	complexity	Artif_Data:_chowdhury_zamparelli_2018
+AC-OC-02-R0623	11	3.454545455	1.12815215	0.340150672	quale paziente dici che Maria voglia chiamarlo e il dottore visitarlo?	complexity	Artif_Data:_chowdhury_zamparelli_2018
+AC-OC-02-R0624	14	4.357142857	1.446860945	0.386689853	Ci mostrarono il paziente che Maria aveva visto e il dottore visitato un malato.	complexity	Artif_Data:_chowdhury_zamparelli_2018
+AC-OC-02-R0625	12	2.666666667	1.435481125	0.414387707	Ci mostrarono il paziente che Maria voleva registrarlo e Marco testarlo.	complexity	Artif_Data:_chowdhury_zamparelli_2018
+AC-OC-02-R0626	15	2.533333333	0.915475416	0.236374736	Sapevo quale paziente l'infermiera voleva chiamare e il dottore visitarlo .	complexity	Artif_Data:_chowdhury_zamparelli_2018
+AC-OC-02-R0627	15	3.533333333	1.457329587	0.376280881	Maria sostiene di avere finito alcunchè in così poco tempo.	complexity	Artif_Data:_chowdhury_zamparelli_2018
+AC-OC-02-R0628	12	2.666666667	1.435481125	0.414387707	Ci mostrarono l'anziano signore che l'infermiera voleva vedere e il dottore medicarlo.	complexity	Artif_Data:_chowdhury_zamparelli_2018
+AC-OC-02-R0629	12	4	1.651445648	0.476731295	Sapevo quale paziente l'infermiera aveva registrato un uomo e Marco visitato l'anziano signore.	complexity	Artif_Data:_chowdhury_zamparelli_2018
+AC-OC-02-R0630	14	4.285714286	1.325987088	0.354384956	Sapevo quale paziente l'infermiera aveva registrato e Marco visitato l'anziano signore.	complexity	Artif_Data:_chowdhury_zamparelli_2018
+AC-OC-02-R0631	15	3.066666667	1.486446706	0.383798889	Con chi è che Maria ti ha detto che il ministro parlerà?	complexity	Artif_Data:_chowdhury_zamparelli_2018
+AC-OC-02-R0632	13	2.307692308	1.377474463	0.382042678	Ho sentito che Maria ti ha detto quando Carlo farà un sopralluogo.	complexity	Artif_Data:_chowdhury_zamparelli_2018
+AC-OC-02-R0633	15	2.533333333	1.187233679	0.306542418	Sapevo chi Maria voleva chiamare e il dottore medicare.	complexity	Artif_Data:_chowdhury_zamparelli_2018
+AC-OC-02-R0634	15	2.266666667	1.162919151	0.300264434	Carlo conosceva bene lo studente che Anna voleva sempre evitare.	complexity	Artif_Data:_chowdhury_zamparelli_2018
+AC-OC-02-R0635	14	4.071428571	1.439245834	0.384654629	Ci mostrarono il paziente che l'infermiera voleva registrarlo e Marco medicarlo.	complexity	Artif_Data:_chowdhury_zamparelli_2018
+AC-OC-02-R0636	15	3	1.309307341	0.338061702	il professore ha detto che lo studente avrebbe dovuto descrivere.	complexity	Artif_Data:_chowdhury_zamparelli_2018
+AC-OC-02-R0637	14	3.071428571	1.730463954	0.462485945	Sapevo che Maria voleva chiamarlo e Marco visitare .	complexity	Artif_Data:_chowdhury_zamparelli_2018
+AC-OC-02-R0638	15	3.333333333	1.290994449	0.333333333	Sapevo che Maria voleva chiamarlo e il dottore medicarlo.	complexity	Artif_Data:_chowdhury_zamparelli_2018
+AC-OC-02-R0639	14	5.214285714	1.188313053	0.317590022	Conoscevo il paziente che Maria aveva visto un paziente e Marco visitato .	complexity	Artif_Data:_chowdhury_zamparelli_2018
+AC-OC-02-R0640	12	2.583333333	1.083624669	0.312815497	Sapevo quale paziente l'infermiera voleva chiamare e il dottore visitare.	complexity	Artif_Data:_chowdhury_zamparelli_2018
+AC-OC-02-R0641	12	4.166666667	1.029857301	0.297294195	Nessuno sospetta che qualcuno possa aver finito alcunchè in così poco tempo?	complexity	Artif_Data:_chowdhury_zamparelli_2018
+AC-OC-02-R0642	13	3.384615385	1.445594545	0.400935789	Carlo conosceva bene la ragazza con cui Sara sperava sempre di discutere.	complexity	Artif_Data:_chowdhury_zamparelli_2018
+AC-OC-02-R0643	14	4.571428571	1.342459609	0.358787422	Che cos'è che il professore ha pensato che lo studente avrebbe dovuto considerarlo?	complexity	Artif_Data:_chowdhury_zamparelli_2018
+AC-OC-02-R0644	12	3.416666667	1.56427929	0.451568535	Nessuno si aspetta che qualcuno abbia finito alcunchè in così poco tempo.	complexity	Artif_Data:_chowdhury_zamparelli_2018
+AC-OC-02-R0645	12	4.833333333	1.337115847	0.385992097	Quale candidato lui ha detto che lei avrebbe dovuto descrivere questo candidato?	complexity	Artif_Data:_chowdhury_zamparelli_2018
+AC-OC-02-R0646	15	3.066666667	1.099783528	0.283962886	Quale candidato lui ha detto che lei avrebbe dovuto descrivere?	complexity	Artif_Data:_chowdhury_zamparelli_2018
+AC-OC-02-R0647	15	2.266666667	1.279880947	0.330463839	Conoscevo il paziente che Maria aveva visto e Marco visitato.	complexity	Artif_Data:_chowdhury_zamparelli_2018
+AC-OC-02-R0648	14	3.714285714	1.325987088	0.354384956	lui ha pensato che lo studente avrebbe dovuto considerare .	complexity	Artif_Data:_chowdhury_zamparelli_2018
+AC-OC-02-R0649	15	3.466666667	1.684664726	0.434978562	Sapevo che Maria aveva chiamato un uomo e Marco medicato.	complexity	Artif_Data:_chowdhury_zamparelli_2018
+AC-OC-02-R0650	14	3.785714286	0.892582375	0.238552674	Sapevo chi l'infermiera voleva registrare e Marco visitarlo.	complexity	Artif_Data:_chowdhury_zamparelli_2018
+AC-OC-02-R0651	13	5.846153846	1.068188018	0.296262051	Che cos'è che Giulio ha scritto che lei aveva detto che lo studente avrebbe dovuto descriverlo?	complexity	Artif_Data:_chowdhury_zamparelli_2018
+AC-OC-02-R0652	12	3.083333333	1.164500153	0.336162238	Ho sentito che Maria ha saputo che il ministro incontrerà i dottori.	complexity	Artif_Data:_chowdhury_zamparelli_2018
+AC-OC-02-R0653	13	3.384615385	1.556623565	0.431729698	Chi è che lo studente dovrebbe considerarlo?	complexity	Artif_Data:_chowdhury_zamparelli_2018
+AC-OC-02-R0654	14	3.571428571	1.910065875	0.510486578	Ho sentito che Maria ha saputo perché il ministro incontrerà i dottori.	complexity	Artif_Data:_chowdhury_zamparelli_2018
+AC-OC-02-R0655	12	2.5	1.381698559	0.398862018	Uno studente ha finito nessun esercizio in tempo utile.	complexity	Artif_Data:_chowdhury_zamparelli_2018
+AC-OC-02-R0656	14	4	1.519109051	0.405998971	Quale candidato Giulio ha scritto che lei aveva detto che Carla avrebbe dovuto menzionarlo?	complexity	Artif_Data:_chowdhury_zamparelli_2018
+AC-OC-02-R0657	15	3.6	1.843908891	0.476095229	Maria potrebbe aver mai finito questo esercizio in tempo utile?	complexity	Artif_Data:_chowdhury_zamparelli_2018
+AC-OC-02-R0658	13	4.307692308	1.377474463	0.382042678	Nessuno studente si aspetta che un altro studente abbia finito alcunchè in così poco tempo?	complexity	Artif_Data:_chowdhury_zamparelli_2018
+AC-OC-02-R0659	14	4.071428571	1.384768001	0.370094816	Ho sentito quale provvedimento Maria ha saputo che Carlo prenderà.	complexity	Artif_Data:_chowdhury_zamparelli_2018
+AC-OC-02-R0660	13	2.461538462	1.506396618	0.41779925	Chi pensi che Maria abbia chiamato e Marco visitato?	complexity	Artif_Data:_chowdhury_zamparelli_2018
+AC-OC-02-R0661	15	3.6	1.594633859	0.411732692	Uno studente potrebbe aver finito alcunchè in così poco tempo?	complexity	Artif_Data:_chowdhury_zamparelli_2018
+AC-OC-02-R0662	15	4	0.9258201	0.239045722	Conoscevo il paziente che l'infermiera aveva registrato un paziente e il dottore visitato.	complexity	Artif_Data:_chowdhury_zamparelli_2018
+AC-OC-02-R0663	15	2.333333333	1.2344268	0.318727629	Susanna ha detto che Carla avrebbe dovuto menzionare questo candidato .	complexity	Artif_Data:_chowdhury_zamparelli_2018
+AC-OC-02-R0664	14	4	1.109400392	0.296499727	Ci mostrarono il paziente che Maria aveva visto un paziente e Marco medicato .	complexity	Artif_Data:_chowdhury_zamparelli_2018
+AC-OC-02-R0665	12	3	1.414213562	0.40824829	Conoscevo il paziente che Maria voleva vederlo e Marco visitare.	complexity	Artif_Data:_chowdhury_zamparelli_2018
+AC-OC-02-R0666	15	3.266666667	1.279880947	0.330463839	Sapevo chi Maria aveva chiamato e il dottore medicato.	complexity	Artif_Data:_chowdhury_zamparelli_2018
+AC-OC-02-R0667	14	3.714285714	1.637473261	0.437633137	Nessuno sospetta che qualcuno possa aver mai finito questo esercizio in tempo utile?	complexity	Artif_Data:_chowdhury_zamparelli_2018
+AC-OC-02-R0668	12	2.75	1.658312395	0.478713554	Ci mostrarono il paziente che Maria aveva visto e il dottore visitato.	complexity	Artif_Data:_chowdhury_zamparelli_2018
+AC-OC-02-R0669	13	4.692307692	1.377474463	0.382042678	Chi pensi che Maria voglia chiamarlo e il dottore medicarlo?	complexity	Artif_Data:_chowdhury_zamparelli_2018
+AC-OC-02-R0670	15	3.8	1.320173149	0.340867241	Ci dissero chi l'infermiera voleva registrarlo e Marco medicare.	complexity	Artif_Data:_chowdhury_zamparelli_2018
+AC-OC-02-R0671	15	2.866666667	1.245945806	0.321701824	Ci mostrarono l'anziano signore che Maria voleva registrarlo e Marco visitarlo .	complexity	Artif_Data:_chowdhury_zamparelli_2018
+AC-OC-02-R0672	15	2.8	1.320173149	0.340867241	Carlo conosceva bene la ragazza con cui discutere sarebbe piaciuto a Sara .	complexity	Artif_Data:_chowdhury_zamparelli_2018
+CO-01-R0881	20	3.1	1.618966532	0.362011922	solo negli ultimi dieci anni, in terra di missione sono morti 144 fra missionari e volontari, e 22 erano italiani ''.	complexity	Brunato et al., 2018
+CO-01-R0882	20	1.6	0.88257995	0.197350876	S'avviano a piedi verso l'aeroporto dove c'è il parcheggio dei taxi.	complexity	Brunato et al., 2018
+CO-01-R0883	20	3.45	1.468081455	0.328272993	Commossa, Fiona May ha parlato, tramite la Tv, col marito rimasto a casa dedicando il trionfo al suo nuovo Paese:	complexity	Brunato et al., 2018
+CO-01-R0884	20	2	1.213953957	0.271448357	Telefonate di insulti poi l'annuncio di una bomba.	complexity	Brunato et al., 2018
+CO-01-R0885	20	2.35	1.496487115	0.334624692	La medaglia d'oro di Goteborg è diventata il simbolo del quartiere.	complexity	Brunato et al., 2018
+CO-01-R0886	20	4.95	1.503504678	0.336193866	''pecetta'' comunque, soprattutto se il passato politico dell'esperto di turno è ''irrobustito'' da un'esperienza parlamentare.	complexity	Brunato et al., 2018
+CO-01-R0887	20	3.9	1.744163199	0.390006748	Andava ogni giorno da Berlusconi, poi veniva da me e mi diceva ''Stai dalla parte degli stupratori, farò campagna elettorale contro di te''.	complexity	Brunato et al., 2018
+CO-01-R0888	20	2.15	1.386969434	0.310135794	Oltre i luoghi comuni c'è la realtà.	complexity	Brunato et al., 2018
+CO-01-R0889	20	4.35	2.007223796	0.448828885	come ha spiegato Maurizio Poma (Biella Intraprendere), ''sono marchi nati da meno di 24 mesi, che non avrebbero potuto essere presenti in Fiera''.	complexity	Brunato et al., 2018
+CO-01-R0890	20	2.55	1.571958216	0.351500543	I due cittadini svizzeri furono liberati a Beirut poco dopo, nella metà dell'agosto 1990.	complexity	Brunato et al., 2018
+CO-01-R0891	20	3.05	1.538112309	0.343932368	Al suo fianco è Marcello Pagliacci, direttore del centro e ispiratore dell'impresa newyorkese:	complexity	Brunato et al., 2018
+CO-01-R0892	20	3.85	1.78517285	0.399176784	Credo che nessuno possa mettere in discussione la mia onestà e la mia serietà, mi sembra anche naturale propendere leggermente per la squadra italiana quando si commentano match internazionali.	complexity	Brunato et al., 2018
+CO-01-R0893	20	4.25	1.943274502	0.434529389	Perché il rafforzamento del cambio è la chiave di volta di tutto.	complexity	Brunato et al., 2018
+CO-01-R0894	20	5.05	1.731290969	0.38712843	Si trattava di un Tizio perbene, scombussolato dalla Rivoluzione Francese, indignato contro Napoleone, rassicurato dalle conservatrici parrucche bianche dei congressisti di Vienna.	complexity	Brunato et al., 2018
+CO-01-R0895	20	3.25	1.618153594	0.361830143	Il terzo attentatore si è fatto saltare in un ristorante nel centro di Baghdad, a Karradah, uccidendo almeno sette persone e ferendone altre 16.	complexity	Brunato et al., 2018
+CO-01-R0896	20	2.75	1.371706582	0.306722916	Giusto il tempo di annunciare la vittoria riportata a Maratona sull'esercito persiano:	complexity	Brunato et al., 2018
+CO-01-R0897	20	4	1.891810606	0.423021712	La salvezza dei propri cittadini da situazioni in cui ormai non vi è alcuna garanzia di sicurezza e alcun controllo da parte di autorità responsabili rientra tra i diritti - doveri di ogni Paese.	complexity	Brunato et al., 2018
+CO-01-R0898	20	2.05	1.276302225	0.285389853	Li picchiarono e portarono nel carcere di Kindu.	complexity	Brunato et al., 2018
+CO-01-R0899	20	2.7	1.301820588	0.291095933	Tra di loro ci sono centinaia di feriti, soldati e semplici cittadini reduci della battaglia contro i croati.	complexity	Brunato et al., 2018
+CO-01-R0900	20	1.95	0.887041208	0.198348444	Colonne di uomini in divisa dalle facce decise.	complexity	Brunato et al., 2018
+CO-01-R0901	20	2.5	1.468977446	0.328473343	Se non fosse entrato in campo l'esercito oggi sarebbero nella capitale.	complexity	Brunato et al., 2018
+CO-01-R0902	20	2.75	1.517442447	0.339310446	Didoni padrone della 20 km, la May è la regina del lungo.	complexity	Brunato et al., 2018
+CO-01-R0903	20	4.55	1.848897253	0.413425994	Servono ad integrare un ''soldo'' che non raggiunge i due milioni di lire, ma possono risultare anche pericolosi... '', spiega il giovane alabardiere.	complexity	Brunato et al., 2018
+CO-01-R0904	20	3.3	1.894590638	0.423643346	Le ripetute telefonate hanno finito per mettere in moto i dispositivi di sicurezza e le ricerche dell'utenza dalla quale venivano effettuate.	complexity	Brunato et al., 2018
+CO-01-R0905	20	4.45	1.904979624	0.425966394	una Mayo Clinic è entrata in funzione a Jacksonville (Florida) nel settembre del 1986 e un'altra è stata creata a Scottsdale (Arizona) nell'estate del 1987.	complexity	Brunato et al., 2018
+CO-01-R0906	20	3.25	1.551739262	0.346979447	Davanti alla città universitaria in rivolta stava per crollare il regime di Ramiz Alia.	complexity	Brunato et al., 2018
+CO-01-R0907	20	3.9	1.860956178	0.416122452	A frequentare la clinica sono persone di ogni ceto, presidenti e celebrità che si trovano gomito a gomito con la persona qualunque.	complexity	Brunato et al., 2018
+CO-01-R0908	20	3.7	1.525226472	0.341051007	Tra loro c'è chi ha visto la bella vita, le donne e i casinò di Beirut, di Tunisi, e non intende rassegnarsi ai ritmi austeri di Gaza.	complexity	Brunato et al., 2018
+CO-01-R0909	20	4.65	1.87153188	0.418487251	Un incarico vuoto di significato militare se si considera che la Krajina era ormai indifendibile, persa sotto l'urto dell'offensiva croata.	complexity	Brunato et al., 2018
+CO-01-R0910	20	3.65	1.725200217	0.385766496	... Se vuoi un make-up su misura per te, al Make-Up Studio (Via Madonnina 15, Milano, tel. 02/800403) ti insegnano in una sola seduta a rifarti il look.	complexity	Brunato et al., 2018
+CO-01-R0911	20	2.85	1.386969434	0.310135794	''Nei giorni scorsi quotidiani e settimanali hanno trattato il suo caso insieme a quello dell'onorevole Casini.	complexity	Brunato et al., 2018
+CO-01-R0912	20	3.5	1.638356044	0.366347549	Loro del resto hanno allargato la protezione anche al di fuori del mondo della criminalità organizzata:	complexity	Brunato et al., 2018
+CO-01-R0913	20	3.5	1.820930936	0.407172536	''Il dispiacere per la squalifica di De Benedictis e un'' grazie ''al mio allenatore, a Pietro Pastorini che mi ha portato fino a qui''.	complexity	Brunato et al., 2018
+CO-01-R0914	20	4.65	1.631111988	0.364727728	E nel contempo richiamare l'attenzione dell'opinione pubblica su una riabilitazione che è un po'considerata in Italia la cenerentola delle specialità mediche ''.	complexity	Brunato et al., 2018
+CO-01-R0915	20	3.5	1.432700799	0.320361638	Trattamenti concentrati siero ''Serum Anticellulite Lipo-Activ'' di Biotherm.	complexity	Brunato et al., 2018
+CO-01-R0916	20	3.65	1.899445903	0.424729016	C'è chi aggiunge che si sia trattato di un tentativo di Massimo di aiutare l'amico incastrato rimanendo a sua volta intrappolato.	complexity	Brunato et al., 2018
+CO-01-R0917	20	2.55	1.468081455	0.328272993	Prima di lei, avevano vinto il titolo olimpico Ondina Valla (80 hs,'36), Sara Simeoni (alto,'80) e Gabriella Dorio (1.500,'84).	complexity	Brunato et al., 2018
+CO-01-R0918	20	3.35	1.225818738	0.274101403	Rochester Methodist Hospital uno dei due ospedali affiliati alla Mayo Clinic.	complexity	Brunato et al., 2018
+CO-01-R0919	20	3.3	1.417930293	0.317058852	"l'invadenza di Fidel durante l'interminabile mese in cui viaggiò da padrone assoluto per tutto il Cile;"	complexity	Brunato et al., 2018
+CO-01-R0920	20	2.9	1.372665482	0.306937333	''La bomba francese difenderà l'Europa'', tiene a precisare Séguin.	complexity	Brunato et al., 2018
+CO-01-R0921	20	2.8	1.361114095	0.304354364	43 anni, umbro, Saverio Pallucca è il ''trapiantato'' più in forma del mondo.	complexity	Brunato et al., 2018
+CO-01-R0922	20	2.4	1.046296728	0.233959061	Ma della Payita e del suo dramma nessuno ha mai detto una parola.	complexity	Brunato et al., 2018
+CO-01-R0923	20	2.6	1.187655807	0.265567912	''Sono d'accordo sul principio Ma la burocrazia blocca tutto''.	complexity	Brunato et al., 2018
+CO-01-R0924	20	2.4	1.187655807	0.265567912	se l'esempio è la Montessori sono scettico.	complexity	Brunato et al., 2018
+CO-01-R0925	20	4.85	1.182103388	0.264326353	Le piramidi, per esempio, investivano acquistando immobili, terreni ed ex aziende di Stato, a un valore nominale che sulla carta era cento ma in realtà spesso dieci volte inferiore.	complexity	Brunato et al., 2018
+CO-01-R0926	20	2.45	1.848897253	0.413425994	''Al posto della Pivetti non cederei.	complexity	Brunato et al., 2018
+CO-01-R0927	20	1.65	0.988086934	0.220942955	Ma potrebbe essere uno dei due ricercati.	complexity	Brunato et al., 2018
+CO-01-R0928	20	3.35	1.899445903	0.424729016	si procede per il reato di offesa all'onore del presidente della Repubblica, che prevede dai cinque ai quindici anni di reclusione militare.	complexity	Brunato et al., 2018
+CO-01-R0929	20	3.65	1.598519051	0.357439726	Dieci anni fa aveva cominciato a viaggiare nello Zaire, si era legato ai volontari lecchesi per collaborare a mille progetti:	complexity	Brunato et al., 2018
+CO-01-R0930	20	2.95	1.66938375	0.373285555	Gigi Lentini da Carmagnola (27 marzo 1969) fu il protagonista della calda estate del mercato'92.	complexity	Brunato et al., 2018
+CO-01-R0931	20	1.95	1.276302225	0.285389853	Lunga catena di vittime, Lombardia in lutto.	complexity	Brunato et al., 2018
+CO-01-R0932	20	4.1	1.518309309	0.339504283	Accanto a Mondo Giusto, che sta realizzando acquedotti e centrali idroelettriche, la Caritas italiana finanzia un progetto sanitario in tutta la Diocesi di Goma, che è grande come l'Emilia Romagna.	complexity	Brunato et al., 2018
+CO-01-R0933	20	4.45	1.731290969	0.38712843	Nella foto grande Zdenek Zeman, l'allenatore biancoceleste, guarda in alto assieme a Bob Lovati, da quarant'anni nella società di via Novaro, e indica un punto lontano.	complexity	Brunato et al., 2018
+CO-01-R0934	20	4.6	1.569445091	0.350938591	Tutte le foto di John Hall che accompagnano il servizio sono tratte dal prestigioso volume ''Biedermeier'' di Angus Wilkie, recentemente pubblicato in Italia da Arnoldo Mondadori.	complexity	Brunato et al., 2018
+CO-01-R0935	20	4.5	1.905670209	0.426120813	''Noi, i palestinesi che lavorano nei Paesi del Golfo'', risponde Muhammad Abu Rahme, un commercialista venuto a trascorrere le vacanze con la famiglia.	complexity	Brunato et al., 2018
+CO-01-R0936	20	3.25	1.482352327	0.331464057	I bambini avevano fatto le scuole elementari, per le medie zio Adelio avrebbe preferito studiassero in Italia.	complexity	Brunato et al., 2018
+CO-01-R0937	20	3.1	1.682729612	0.37626978	Ieri circa mille giovani hanno lasciato la città, ma la polizia non esclude che possa esserci qualche altra esplosione di violenza.	complexity	Brunato et al., 2018
+CO-01-R0938	20	4.8	1.542383664	0.344887472	Ritenevo che fosse necessario più che utile, anche se il vero cinema civile italiano è stato Samarcanda e i vari Risi sono arrivati con ritardo e con minore intensità rispetto a Santoro ''.	complexity	Brunato et al., 2018
+CO-01-R0939	20	2.35	1.039989878	0.232548806	I resti di un rito satanico vicino al luogo dove ha pianto la statuina.	complexity	Brunato et al., 2018
+CO-01-R0940	20	4.35	1.694418081	0.378883401	Anzi, di urlacci ne caccia addirittura due, uno ai settanta metri che atterrisce Ato Boldon (bronzo), nella corsia a fianco e gli farà dire all'arrivo:	complexity	Brunato et al., 2018
+CO-01-R0941	20	1.6	0.88257995	0.197350876	Il prezzo del check-up dipende dagli esami eseguiti:	complexity	Brunato et al., 2018
+CO-01-R0942	20	4.25	1.681947493	0.376094893	Non si salvano neppure i superprotetti e intelligentissimi gorilla di montagna come denunciò l'antropologa Dian Fossey, uccisa in circostanze misteriose nel 1985.	complexity	Brunato et al., 2018
+CO-01-R0943	20	4.45	1.637552731	0.366167922	Senza rimorsi perché Don Bailey (ma sì, come Don Quarry, suo idolo nell'infanzia giamaicana) ha le stesse certezze agonistiche:	complexity	Brunato et al., 2018
+CO-01-R0944	20	4.15	1.631111988	0.364727728	Una provocazione collegata a un recente colloquio con il vicepresidente del Milan, Galliani, il quale ha convenuto con me circa l'insostenibilità della situazione.	complexity	Brunato et al., 2018
+CO-01-R0945	20	3.85	1.496487115	0.334624692	L'ultimissimo è il Body Composition Analyser, cioè l'analizzatore della composizione corporea.	complexity	Brunato et al., 2018
+CO-01-R0946	20	3.4	1.69829636	0.379750611	Verranno uccisi tutti i collaborazionisti albanesi, quelli che lavorano nei servizi civili con i serbi ma anche coloro che intrattengono semplicemente rapporti con l'autorità di Belgrado.	complexity	Brunato et al., 2018
+CO-01-R0947	20	4.1	1.651155895	0.369209682	Una donna, Kiwa Kino, una ''hibakusha'' di settantasette anni, che porta sul proprio corpo i segni dell'orrore nucleare, ha detto: ''	complexity	Brunato et al., 2018
+CO-01-R0948	20	3.05	1.35627198	0.303271634	E ieri sera la Slavonia orientale ha proclamato ''il regime di guerra''.	complexity	Brunato et al., 2018
+CO-01-R0949	20	2.25	0.910465468	0.203586268	Campione di rugby una delle vittime, un altro ha le gambe tranciate.	complexity	Brunato et al., 2018
+CO-01-R0950	20	4.15	1.386969434	0.310135794	Ottenuto il successo militare, la Croazia ''moderna ed efficiente'' del presidente Franjo Tudjman si è concentrata sulla vittoria nella battaglia delle pubbliche relazioni.	complexity	Brunato et al., 2018
+CO-01-R0951	20	2.85	1.598519051	0.357439726	35 mila persone sono partite solo dagli aeroporti di Linate e Malpensa, dove tutti i voli charter erano al completo.	complexity	Brunato et al., 2018
+CO-01-R0952	20	1.8	0.695852374	0.155597321	In febbraio la produzione industriale frena il passo.	complexity	Brunato et al., 2018
+CO-01-R0953	20	2.7	0.923380517	0.20647416	Questo aggettivo, ''generazionale'', vale per tutto il cinema di Moretti?	complexity	Brunato et al., 2018
+CO-01-R0954	20	3.6	1.788854382	0.4	''Mi auguro che la gara sia subito veloce, seguirò il treno giusto, anche se ho un po'paura del gioco di squadra delle cinesi.	complexity	Brunato et al., 2018
+CO-01-R0955	20	2.3	0.864504726	0.193309133	Il patrimonio Ciano fu oggetto di indagine da parte della Commissione Casati.	complexity	Brunato et al., 2018
+CO-01-R0956	20	3.75	1.712953743	0.383028101	Il Kosovo, testimone della battaglia del Campo dei Merli del giugno 1389 contro i Turchi, deve restare a Belgrado.	complexity	Brunato et al., 2018
+CO-01-R0957	20	3	1.123902974	0.251312345	eroe della scienza ancora agli esordi, ipotecò la sua casa per comprarsi un microscopio.	complexity	Brunato et al., 2018
+CO-01-R0958	20	3.85	1.531253357	0.34239866	In verità anche in questo caso una consistente spinta alla scelta dell'editoria elettronica l'ha fornita la riduzione dei prezzi.	complexity	Brunato et al., 2018
+CO-01-R0959	20	2.2	1.641565363	0.367065174	Si occupa di noi, e non è il solo.	complexity	Brunato et al., 2018
+CO-01-R0960	20	3.8	1.50787407	0.337170892	Quanto alla camminata incerta, va attribuita, fino a prova contraria, alla causa di sempre:	complexity	Brunato et al., 2018
+CO-01-R0961	20	4.25	1.712953743	0.383028101	L'ansia di rintracciare da dove partissero prima che accadesse qualcosa di irrimediabile si è trasformata in meraviglia quando è stato individuato l'apparecchio dal quale venivano effettuate:	complexity	Brunato et al., 2018
+CO-01-R0962	20	4.05	1.932410548	0.432100135	Lui regalò a lei un porcellino salvadanaio con i calzoni corti e lei regalò a lui il pupazzetto di un mostriciattolo che indossa la maglia della nazionale di rugby.	complexity	Brunato et al., 2018
+CO-01-R0963	20	4.15	1.496487115	0.334624692	"per tonificare il tessuto cutaneo ''Rassodex fiale seno'' di Dibi, cura intensa da fare negli istituti col marchio Dibi;"	complexity	Brunato et al., 2018
+CO-01-R0964	20	1.85	0.87509398	0.195676963	Già nel lontano 1866, Giuseppe Garibaldi aveva scritto.	complexity	Brunato et al., 2018
+CO-01-R0965	20	3.8	2.238420496	0.500526039	Oggi il Settebello vola a Patrasso in Grecia dove verrà disputato l'ultimo torneo prima dei campionati Europei in programma a Vienna dal 17 al 27 agosto.	complexity	Brunato et al., 2018
+CO-01-R0966	20	3.6	1.535543792	0.34335803	Via, neanche Cossutta ora parla più di fascismo, il clima nel Paese è cambiato, chi volete che ci tocchi? ''.	complexity	Brunato et al., 2018
+CO-01-R0967	20	2.7	1.454575359	0.325252938	I disegni risentono delle influenze arabe e a volte anche di quelle francesi:	complexity	Brunato et al., 2018
+CO-01-R0968	20	4.2	2.092593455	0.467918121	Mi auguro di sbagliare ma, considerando che siamo nell'anno elettorale e osservando come Matarrese ha affrontato il problema delle naturalizzazioni, qualche sospetto è comprensibile.	complexity	Brunato et al., 2018
+CO-01-R0969	20	4.1	1.889026483	0.422399163	Saverio ha risposto al trapianto in maniera ottimale e vede ridotti al minimo anche gli inevitabili disturbi connessi all'assunzione quotidiana dei farmaci anti - rigetto.	complexity	Brunato et al., 2018
+CO-01-R0970	20	2.35	1.039989878	0.232548806	Nonostante l'assenza di episodi gravi, anche ieri l'atmosfera era carica di tensione.	complexity	Brunato et al., 2018
+CO-01-R0971	20	2.75	1.208522369	0.270233817	Davanti all'emergenza umanitaria, l'Italia decise comunque di investire in Albania.	complexity	Brunato et al., 2018
+CO-01-R0972	20	2.1	1.372665482	0.306937333	L'allarme alla polizia lo ha dato verso le 16 il convivente.	complexity	Brunato et al., 2018
+CO-01-R0973	20	3.3	1.417930293	0.317058852	''Siamo piuttosto flessibili sulla questione del prezzo'', spiega Mark Brabes, il nuovo vicedirettore dell'equipe medica.	complexity	Brunato et al., 2018
+CO-01-R0974	20	3.15	1.386969434	0.310135794	E qualcosa di vero, dice il dirigente, ci deve pure essere, sebbene di prove zero.	complexity	Brunato et al., 2018
+CO-01-R0975	20	4.65	1.87153188	0.418487251	''Fino a Palombella rossa i film di Nanni mi sembravano molto generosi di esibizionismo, di individualismo, ma soprattutto di precisione sociologica:	complexity	Brunato et al., 2018
+CO-01-R0976	20	3.15	1.531253357	0.34239866	Ci furono, certo, guerre in pieno ''equilibrio del terrore''.	complexity	Brunato et al., 2018
+CO-01-R0977	20	3.35	1.87153188	0.418487251	Usalo anche come oggetto - relax ogni volta che ti senti tesa, passandolo sui glutei, le cosce e il resto del corpo.	complexity	Brunato et al., 2018
+CO-01-R0978	20	3.15	1.308876577	0.2926737	''È da trent'anni che chiedo qual è la ragione del successo della Mayo e quasi sempre mi si risponde:	complexity	Brunato et al., 2018
+CO-01-R0979	20	3.4	1.846761034	0.412948321	A Cesenatico, nella casa che vede nascere tutti i lavori della coppia, l'attrice svela il suo delicato momento.	complexity	Brunato et al., 2018
+CO-01-R0980	20	2.95	1.731290969	0.38712843	Il Governo di Tirana ha imposto un improvviso blackout a tutti gli organi di stampa.	complexity	Brunato et al., 2018
+CO-01-R0981	20	5.05	1.848897253	0.413425994	non si gridi allo scandalo e non si finga ipocrita sorpresa ora che un laboratorio francese aiuta i nostri inefficienti controlli, ma si riveda il regolamento.	complexity	Brunato et al., 2018
+CO-01-R0982	20	3.25	1.743408639	0.389838023	Fu proprio nel nome di Lentini che tre anni fa Milan e Juve ruppero i rapporti diplomatici.	complexity	Brunato et al., 2018
+CO-01-R0983	20	3.75	1.860248993	0.41596432	Per terra, lungo il ciglio, una bottiglia di spumante Gancia, di quello scadente, con dentro infilata una rosa rossa.	complexity	Brunato et al., 2018
+CO-01-R0984	20	2.9	1.651155895	0.369209682	Fiona May aveva conosciuto Gianni Iapichino nel 1987 a Birmingham durante i campionati europei juniores, che lei vinse.	complexity	Brunato et al., 2018
+CO-01-R0985	20	2.7	1.341640786	0.3	E soprattutto, si puniscano i praticanti stregoni.	complexity	Brunato et al., 2018
+CO-01-R0986	20	2.05	1.190974833	0.266310069	Dietro c'era la camorra, che finanziava così il contrabbando di sigarette.	complexity	Brunato et al., 2018
+CO-01-R0987	20	2.7	1.454575359	0.325252938	''Però prima di votare bisogna approvare la Finanziaria e cambiare l'articolo 138''.	complexity	Brunato et al., 2018
+CO-01-R0988	20	3.25	1.650358813	0.369031449	Poi la conversazione si sposta sui problemi interni, che, a guerra finita, dovranno essere affrontati.	complexity	Brunato et al., 2018
+CO-01-R0989	20	4.5	1.357241785	0.303488489	È l'euforia della presa di Knin, spiegherà dopo Ante, a farlo parlare così.	complexity	Brunato et al., 2018
+CO-01-R0990	20	3.25	1.371706582	0.306722916	Un oro costruito sui detriti della montagnetta di Milano, come quelli di Cova e Panetta.	complexity	Brunato et al., 2018
+CO-01-R0991	20	2.5	1.504379571	0.336389499	Cerca di sgomberare la mente e lascia che i pensieri si associno in libertà.	complexity	Brunato et al., 2018
+CO-01-R0992	20	4	1.716790151	0.383885948	TORINO - La disputa tra la Juventus e le emittenti di Berlusconi si riapre grazie a Gianluca Vialli, il quale s'infila il cappellino sponsorizzato, sorride e ironizza:	complexity	Brunato et al., 2018
+CO-01-R0993	20	1.7	0.923380517	0.20647416	Sulle cause dell'incidente la Procura di Marsala ha aperto un'inchiesta.	complexity	Brunato et al., 2018
+CO-01-R0994	20	3.45	1.904979624	0.425966394	''Da quel conto destinammo 200 milioni a Casadei, segretario di De Michelis, e 600 al tesoriere del Psi, Balzamo.	complexity	Brunato et al., 2018
+CO-01-R0995	20	5.5	1.235441536	0.276253126	un lungo fregio che ridusse a forma di fisarmonica in un volume - Per Aspera ad Astra - ora riproposto dalle Edizioni La Conchiglia:	complexity	Brunato et al., 2018
+CO-01-R0996	20	4.1	1.586124041	0.354668118	Dal nostro inviato Berlino - Ancora a spasso per l'Europa esportando l'immagine vincente dell'epopea berlusconiana.	complexity	Brunato et al., 2018
+CO-01-R0997	20	3.05	1.190974833	0.266310069	Se, invece, non godono di buona salute si increspano e si appiccicano, provocandone la caduta.	complexity	Brunato et al., 2018
+CO-01-R0998	20	4.1	1.651155895	0.369209682	A fine anno si sposterà al Carlo Felice di Genova, che l'ha coprodotta insieme con il Festival salisburghese (la prima, il 10 dicembre).	complexity	Brunato et al., 2018
+CO-01-R0999	20	3.6	1.818038272	0.406525716	Nell'oscurità del Lago di Como e di un bagno notturno è annegato, invece, Mauro Colombo, 22 anni di Verderio Superiore (Lecco).	complexity	Brunato et al., 2018
+CO-01-R1000	20	2.35	1.424411236	0.318508035	È la clinica che ha portato l'acqua corrente, il sistema di fognature, l'aeroporto, la chiesa.	complexity	Brunato et al., 2018
+CO-01-R1001	20	4.35	1.598519051	0.357439726	Florio Fiorini, il ''lavandaio'' dell'alta finanza, ha dichiarato ai giudici di avere pagato i terroristi islamici per ottenere il rilascio di due cittadini elvetici rapiti in Libano.	complexity	Brunato et al., 2018
+CO-01-R1002	20	1.8	0.951453182	0.212751399	Morto Alessandro Magno, il suo impero va in frantumi.	complexity	Brunato et al., 2018
+CO-01-R1003	20	3.95	1.605090586	0.358909166	Sulle' piramidi' albanesi e sugli eventi che hanno preceduto i fallimenti e il congelamento dei depositi affiorano intanto strane storie.	complexity	Brunato et al., 2018
+CO-01-R1004	20	3.5	1.877848713	0.419899737	Il caso - Cresce il malessere nel ritiro di Sportilia, in attesa dell'arrivo del designatore.	complexity	Brunato et al., 2018
+CO-01-R1005	20	3.5	1.39548143	0.312039134	Al 41' del primo tempo vantaggio olandese con Redeker su calcio d'angolo dopo ingenuità di Colonnese.	complexity	Brunato et al., 2018
+CO-01-R1006	20	2.95	1.571958216	0.351500543	Quelli che non hanno investito tutti i soldi nelle piramidi si sono costruiti villette abusive sul lungomare, ristoranti, chioschi.	complexity	Brunato et al., 2018
+CO-01-R1007	20	2.95	1.316894273	0.294466511	Al suo scetticismo corrisponde però l'entusiasmo della scrittrice Maria Antonietta Macciocchi.	complexity	Brunato et al., 2018
+CO-01-R1008	20	4.25	1.482352327	0.331464057	No, l'aspetto davvero terrorizzante della violenza ''made in Usa'' è la sua nudità, la sua purezza, vorrei dire la sua ingenuità.	complexity	Brunato et al., 2018
+CO-01-R1009	20	2.75	1.681947493	0.376094893	Giulio Simonetti, 60 anni, è stato medicato dai medici del pronto soccorso del Fatebenefratelli, all'Isola Tiberina, che lo hanno giudicato guaribile in 7 giorni.	complexity	Brunato et al., 2018
+CO-01-R1010	20	4.9	1.410487038	0.31539449	In questa ottica dovremmo guardare alla Bosnia e dintorni noi discepoli di Little Boy che non abbiamo saputo rispondere alla prima vera sfida del dopo Bomba.	complexity	Brunato et al., 2018
+CO-01-R1011	20	3.4	1.788854382	0.4	Sono piovuti su Macerata i 2 miliardi del primo premio della Lotteria Nazionale di Taormina Arte e della Centomiglia del Garda.	complexity	Brunato et al., 2018
+CO-01-R1012	20	2.85	1.039989878	0.232548806	Salvador Allende nel 1973, anno del colpo militare del dittatore Pinochet.	complexity	Brunato et al., 2018
+CO-01-R1013	20	4.25	1.650358813	0.369031449	Stilata la classifica dell'ordine di merito europeo (che qualifica alla Ryder Cup) dopo il Master di Scandinavia vinto ieri dallo svedese Parnevik:	complexity	Brunato et al., 2018
+CO-01-R1014	20	4.45	1.791059669	0.400493117	Si raccontava dell'esistenza di un cunicolo di cinque, sei chilometri che partiva dalla borgata Aurelia, dove un tempo c'era un convento di frati, e raggiungeva il mare.	complexity	Brunato et al., 2018
+CO-01-R1015	20	4.05	1.66938375	0.373285555	New York vuole Probing uno dei trottatori dopati.	complexity	Brunato et al., 2018
+CO-01-R1016	20	2.2	1.321880638	0.295581496	La mia battaglia con il cuore matto di Fo.	complexity	Brunato et al., 2018
+CO-01-R1017	20	4.7	2.054520049	0.459404649	L'intervento - tra i suoi sostenitori il ministro Lamberto Dini - sarà mirato soprattutto ad attenuare gli effetti dei fallimenti sulla massa più povera della popolazione.	complexity	Brunato et al., 2018
+CO-01-R1018	20	3.75	1.650358813	0.369031449	Secondo il 47,6 per cento delle mille intervistate le candidate donne sono poche e per il 35,8 per cento è scarso il sostegno dei partiti alle candidate di sesso femminile.	complexity	Brunato et al., 2018
+CO-01-R1019	20	2.6	1.391704748	0.311194642	Il dramma di Gabriella F., 20 anni, ha mobilitato nella mattinata i carabinieri di tutto il Nord.	complexity	Brunato et al., 2018
+CO-01-R1020	20	3.2	1.321880638	0.295581496	Un mercato fiorente, tanto da far cadere il prezzo degli asini sulle piazze di Gaza:	complexity	Brunato et al., 2018
+CO-01-R1021	20	4	1.891810606	0.423021712	''Per gli iraniani - ha detto - egli è un punto di riferimento ma in Italia la sua immagine viene liquidata per un'azione scellerata della magistratura''.	complexity	Brunato et al., 2018
+CO-01-R1022	20	3.95	1.761428846	0.393867464	Michele che ancora non ci crede e Fiona che si asciuga la lacrima e forse attende la domanda ingenua della mamma, come successe dopo il record italiano:	complexity	Brunato et al., 2018
+CO-01-R1023	20	4.45	1.877147893	0.419743029	portarmi a perdere 9 chili di sovrappeso, per una buona forchetta come me la vera impresa, più difficile ancora che correre i 42 chilometri... ''.	complexity	Brunato et al., 2018
+CO-01-R1024	20	1.95	1.394538218	0.311828225	Massimiliano Nopirolli, 32 anni, non accetta le critiche.	complexity	Brunato et al., 2018
+CO-01-R1025	20	3.95	1.761428846	0.393867464	In Serbia e Bulgaria protestano contro gli ex comunisti, a Tirana contro un Governo di centrodestra, uno dei pochi rimasti al potere nei Balcani dopo le consultazioni elettorali.	complexity	Brunato et al., 2018
+CO-01-R1026	20	3.4	1.667017507	0.372756447	Sgarbi ha spiegato che la Pivetti non ha autorizzato una visita in Iran di tutta la commissione Cultura.	complexity	Brunato et al., 2018
+CO-01-R1027	20	4.35	1.694418081	0.378883401	Strizza tra le dita qualche centimetro di coscia se la pelle della zona è a classica ''buccia d'arancia'' ci siamo.	complexity	Brunato et al., 2018
+CO-01-R1028	20	3.4	1.500876937	0.335606286	Entro domani al massimo i croati contano di debellare le ultime sacche di resistenza.	complexity	Brunato et al., 2018
+CO-01-R1029	20	3.85	1.631111988	0.364727728	un lettore del popoloso quartiere a est di Roma ha segnalato addirittura corse pazze all'uscita dal deposito Atac, alle prime luci dell'alba.	complexity	Brunato et al., 2018
+CO-01-R1030	20	3.5	1.670171753	0.373461757	Era nota come ''la striscia dell'inferno'', ma oggi un appartamentino costa 200 milioni.	complexity	Brunato et al., 2018
+CO-01-R1031	20	3.9	1.618966532	0.362011922	La trattativa non approdò a risultati, probabilmente a causa dell'arresto di Fiorini a Ginevra e dell'embargo Onu contro la Libia.	complexity	Brunato et al., 2018
+CO-01-R1032	20	3.1	1.774082417	0.396696888	Tradotto in moneta corrente, 1 miliardo di lire del tempo equivarrebbe a circa 900 miliardi di oggi.	complexity	Brunato et al., 2018
+CO-01-R1033	20	2.2	0.833508753	0.186378223	Colpo della polizia contro il Cartello di Cali.	complexity	Brunato et al., 2018
+CO-01-R1034	20	4.25	1.773340588	0.39653101	''Aveva trasformato radicalmente la sua fisionomia - ha detto il generale che ha coordinato l'azione -, ma aveva con sè la sua carta di identità originale''.	complexity	Brunato et al., 2018
+CO-01-R1035	20	2.95	1.761428846	0.393867464	Ristoranti, edicole, tabaccai, uffici postali, tintorie, meccanici, idraulici e fabbri: gli elenchi diffusi dal Comune.	complexity	Brunato et al., 2018
+CO-01-R1036	20	2.8	1.056309365	0.236197954	''È un modo per integrare i collaboratori della giustizia nella vita normale'', dice.	complexity	Brunato et al., 2018
+CO-01-R1037	20	3.35	1.225818738	0.274101403	Mentre eseguiva il pavimento del palazzo Lichtenstein, chiese di poter dare un inedito saggio della sua abilità.	complexity	Brunato et al., 2018
+CO-01-R1038	20	3.05	2.01246118	0.45	Ho scritto anche al sindaco consigliando di far mettere degli articoli sui giornali con suggerimenti tecnici per eliminare i murales.	complexity	Brunato et al., 2018
+CO-01-R1039	20	3.9	1.293709477	0.289282233	Una leggera stizza le attraversa lo sguardo, sembra il ricordo delle sofferenze, la gelosia, i tradimenti.	complexity	Brunato et al., 2018
+CO-01-R1040	20	3.25	1.371706582	0.306722916	Per Azem Hajdari molti politici sono coinvolti nel crack delle finanziarie.	complexity	Brunato et al., 2018
+CO-01-R1041	20	2.7	1.688973528	0.377665962	Fra birra e bandiere l'euforia di Ante.	complexity	Brunato et al., 2018
+CO-01-R1042	20	5.05	1.791059669	0.400493117	Insomma, Quinzio è lontano dal negare l'esistenza di una storica discriminazione, però esclude che ''il fenomeno contrario possa essere determinato per legge''.	complexity	Brunato et al., 2018
+CO-01-R1043	20	5.15	1.424411236	0.318508035	"Per esempio, il fatto che Unidad Popular, subito dopo il trionfo elettorale, fosse a secco di soldi, e Fidel Castro ne avesse rimpinguato le casse - benché Allende fosse già presidente;"	complexity	Brunato et al., 2018
+CO-01-R1044	20	3.6	1.635140425	0.365628514	Nulla di disprezzabile nel fatto che Nanni faccia l'attore di se stesso, essendo se stesso il soggetto che conosce meglio.	complexity	Brunato et al., 2018
+CO-01-R1045	20	3.95	1.637552731	0.366167922	Ma qualcuno di questi ultimi ha anche un gran cassetto sul fondo, che fa pensare a certe pratiche soluzioni delle nostre camere dei ragazzi.	complexity	Brunato et al., 2018
+CO-01-R1046	20	3.7	1.380312703	0.308647303	Perché l'unica cosa certa è che il mare non è così ''facile'' come può sembrare in una domenica d'agosto.	complexity	Brunato et al., 2018
+CO-01-R1047	20	2.1	1.165287405	0.260566185	Si rifiuterà ''per via del test''.	complexity	Brunato et al., 2018
+CO-01-R1048	20	4.05	1.66938375	0.373285555	Ed è chiaro che saranno proprio le risorse a fissare i confini della platea dei beneficiari.	complexity	Brunato et al., 2018
+CO-01-R1049	20	3.95	1.468081455	0.328272993	L'operazione potrebbe avere anche un impatto psicologico e politico, perché impedirebbe ai croati di essere soli ad attribuirsi il vanto della sconfitta dei serbi.	complexity	Brunato et al., 2018
+CO-01-R1050	20	2.85	1.598519051	0.357439726	Alberizzi, Battistini Zanini a pagina 3 Fasano in cronaca	complexity	Brunato et al., 2018
+CO-01-R1051	20	1.8	1.151657844	0.257518523	Il biglietto fortunato era abbinato al film ''Nuovo Cinema Paradiso''.	complexity	Brunato et al., 2018
+CO-01-R1052	20	4	1.777046633	0.397359707	"e di contro la scortesia, per non dire la diffidenza con cui la Payita fu accolta all'Avana al suo primo viaggio;"	complexity	Brunato et al., 2018
+CO-01-R1053	20	3.85	1.565247584	0.35	Il resto è storia recente, la collaborazione con Guglielmi, l'invenzione di Blob, Fuoriorario, Schegge.	complexity	Brunato et al., 2018
+CO-01-R1054	20	3.7	1.922169827	0.42981024	''Ci crederò soltanto - dice - quando uno di loro si cospargerà di benzina e si darà fuoco come Jan Palak a Praga''.	complexity	Brunato et al., 2018
+CO-01-R1055	20	2.6	1.095445115	0.244948974	Si tratta della bustarella più inquietante scoperta durante le indagini di Mani pulite.	complexity	Brunato et al., 2018
+CO-01-R1056	20	1.5	0.688247202	0.153896753	Il libro era di cento pagine e costava sei lire.	complexity	Brunato et al., 2018
+CO-01-R1057	20	4.7	1.592746717	0.356148993	alle prime esposizioni solari ''Raffermissant Tissulaire pour le buste'' di Orlane che consente di esporre il seno al sole favorendone il rassodamento e protezione.	complexity	Brunato et al., 2018
+CO-01-R1058	20	3.05	1.431782106	0.320156212	Tutte le operazioni militari e di polizia sono dirette da Bashkim Gazidede, comandante dei Servizi segreti.	complexity	Brunato et al., 2018
+CO-01-R1059	20	4.05	1.234376041	0.276014874	"Il nudo di Casini è uno fra i tanti nudi d'attualità, e il suo modesto sapore nasce dall'essere, se così si può dire, cattolico;"	complexity	Brunato et al., 2018
+CO-01-R1060	20	4.8	1.962812161	0.438898142	Stavolta a scendere in campo è Claudio Pasqualin, avvocato civilista, ex braccio destro di Sergio Campana negli anni eroici del sindacalismo pallonaro, che di Lentini è il procuratore.	complexity	Brunato et al., 2018
+CO-01-R1061	20	4.05	2.327750213	0.520500771	Gel ''Elancyl MP 24'' di Elancyl.	complexity	Brunato et al., 2018
+CO-01-R1062	20	3.45	2.038446261	0.455810441	Per evitare, o almeno ridurre, le code durante la Fiera, saranno potenziate le biglietterie, e saranno anche disponibili biglietti in prevendita (sempre ad Atrium).	complexity	Brunato et al., 2018
+CO-01-R1063	20	2.55	2.038446261	0.455810441	''Chirac, ricordati di Hiroshima e Nagasaki.	complexity	Brunato et al., 2018
+CO-01-R1064	20	4.65	1.725200217	0.385766496	Mio fratello è stato ucciso alle spalle - ha dichiarato Cezair Rustemi - le poltrone di Berisha e dei suoi affondano nel sangue dei nostri morti.	complexity	Brunato et al., 2018
+CO-01-R1065	20	4.25	1.482352327	0.331464057	A sfogliare le pagine del nuovo libro di Ghezzi, che raccoglie i suoi testi critici dal 1974 (al 2001...), sotto il titolo Paura e desiderio.	complexity	Brunato et al., 2018
+CO-01-R1066	20	3.55	1.848897253	0.413425994	Il malessere è più profondo, mai gli arbitri avevano osato ribellarsi in maniera così clamorosa e chiara nei confronti della Federcalcio.	complexity	Brunato et al., 2018
+CO-01-R1067	20	1.7	0.656946685	0.146897745	305 chilometri l'ora contro i 310 della McLaren.	complexity	Brunato et al., 2018
+CO-01-R1068	20	3.1	1.774082417	0.396696888	A Valona tre manifestanti sono morti e una ventina sono rimasti feriti per colpi d'arma da fuoco nei violenti scontri con la polizia scoppiati ieri sera.	complexity	Brunato et al., 2018
+CO-01-R1069	20	2.6	1.500876937	0.335606286	Fui operato nel reparto di cardiochirurgia dell'ospedale di Bergamo dall'equipe del professor Parenzan.	complexity	Brunato et al., 2018
+CO-01-R1070	20	2.25	1.164157703	0.260313576	sul fondo il profilo della penisola sorrentina.	complexity	Brunato et al., 2018
+CO-01-R1071	20	3.9	1.651155895	0.369209682	Il loro compito sarà quello di andare casa per casa a stanare i capi della rivolta, quelli dei clan che hanno rotto il patto con i politici.	complexity	Brunato et al., 2018
+CO-01-R1072	20	2.85	1.386969434	0.310135794	rientra nel suo appartamento, appena dietro l'Holliday In a fari spenti.	complexity	Brunato et al., 2018
+CO-01-R1073	20	4.65	1.598519051	0.357439726	Tanto da far ritenere al giudice Salvini che nel Veronese operasse un'altra Gladio, ancor più deviata di quella ''ufficiale''.	complexity	Brunato et al., 2018
+CO-01-R1074	20	3.8	1.361114095	0.304354364	Il Governo di Tirana, su richiesta internazionale, è stato poi costretto a intervenire per frenare i canali illeciti.	complexity	Brunato et al., 2018
+CO-01-R1075	20	3.7	1.417930293	0.317058852	La tragedia nello Zaire e i precedenti dei lombardi morti in circostanze drammatiche lontano da casa:	complexity	Brunato et al., 2018
+CO-01-R1076	20	1.95	0.944513241	0.211199581	Il minore dei mali, si dirà.	complexity	Brunato et al., 2018
+CO-01-R1077	20	4.15	1.78517285	0.399176784	Quello del premio Nobel è come sempre l'ottimismo tipico del grande vecchio dell'economia.	complexity	Brunato et al., 2018
+CO-01-R1078	20	3.55	1.394538218	0.311828225	Uno degli intellettuali si mostra scettico su questa ''favola'' dei dissidi interni a Pale:	complexity	Brunato et al., 2018
+CO-01-R1079	20	2.3	1.218281793	0.27241609	''La sua nuova fiamma è il bel capitano della nazionale inglese''.	complexity	Brunato et al., 2018
+CO-01-R1080	20	2.95	1.731290969	0.38712843	Da ieri la grande mezzofondista, prima donna africana a vincere un titolo mondiale, non dorme più al Villaggio atleti, è guardata a vista in albergo:	complexity	Brunato et al., 2018
+CO-01-R1081	20	2.05	1.394538218	0.311828225	Della dinamica dell'omicidio si sa poco:	complexity	Brunato et al., 2018
+CO-01-R1082	20	2.7	1.380312703	0.308647303	Sul primo, al 17', Manninger ci ha messo la pezza.	complexity	Brunato et al., 2018
+CO-01-R1083	20	4.6	2.414866238	0.539980506	Gli investimenti a piramide, che venivano gestiti da dieci diverse società finanziarie promettendo rendimenti elevatissimi, sono crollati quando non sono stati più raccolti azionisti disposti ad alimentare la base della piramide.	complexity	Brunato et al., 2018
+CO-01-R1084	20	4.3	1.559352092	0.348681728	Invece, nell'afa pomeridiana di Locate Varesino, casetta a due piani sullo stradone principale, a Luigi Castiglioni ieri è arrivata un'altra telefonata - ''Suo fratello è morto''.	complexity	Brunato et al., 2018
+CO-01-R1085	20	4.05	1.468081455	0.328272993	È connesso alla natura stessa della vita, in cui il mutamento avviene perché gli individui muoiono.	complexity	Brunato et al., 2018
+CO-01-R1086	20	4.7	1.490319641	0.333245602	Sul podio tre goliardi che un podio all'aria aperta non avevano mai visto in vita loro, perché almeno Bruni Surin (argento) ha un passato da re indoor.	complexity	Brunato et al., 2018
+CO-01-R1087	20	2.8	1.321880638	0.295581496	E nei bar i poliziotti di Arafat cercano la compagnia di belle donne cresciute nella libertà di Beirut.	complexity	Brunato et al., 2018
+CO-01-R1088	20	3.85	1.725200217	0.385766496	Neppure un paio di mesi fa, quando già alcuni fondi di investimento spericolati faticavano a pagare gli interessi, il lek, la moneta albanese, aveva toccato i massimi sul dollaro.	complexity	Brunato et al., 2018
+CO-01-R1089	20	1.85	0.933302004	0.208692673	L'atmosfera è di festa popolare, ma la tensione è ancora alta.	complexity	Brunato et al., 2018
+CO-01-R1090	20	3.5	1.192079121	0.266556995	I due pezzi più piccoli sono invece campioni di ''Splatter'', formato da marmo e quarzo.	complexity	Brunato et al., 2018
+CO-01-R1091	20	2.85	1.531253357	0.34239866	la scoperta del cinema americano e delle ''nouvelles vagues'' europee.	complexity	Brunato et al., 2018
+CO-01-R1092	20	2.6	1.535543792	0.34335803	Calcio d'agosto - Il centravanti bianconero riapre la polemica con le emittenti di Berlusconi.	complexity	Brunato et al., 2018
+CO-01-R1093	20	3.25	1.618153594	0.361830143	Max Sciandri, nato a Derby 28 anni or sono da genitori toscani che gestivano un ristorante, ha sempre mantenuto il doppio passaporto.	complexity	Brunato et al., 2018
+CO-01-R1094	20	2.6	1.535543792	0.34335803	''Per questo facciamo sempre di più appello alle offerte di ogni tipo.	complexity	Brunato et al., 2018
+CO-01-R1095	20	3.1	1.860956178	0.416122452	Percorso neppure un chilometro si arriva alla chiesa di Sant'Agostino, dove la statuina guarda i fedeli da dietro una teca.	complexity	Brunato et al., 2018
+CO-01-R1096	20	3.25	1.943274502	0.434529389	I carabinieri aspettano che si tranquillizzi, poi la portano all'ospedale Fatebenefratelli dove i medici confermano il dramma.	complexity	Brunato et al., 2018
+CO-01-R1097	20	1.9	1.071152847	0.239517058	Forse ''ex europarlamentare del Psi''?	complexity	Brunato et al., 2018
+CO-01-R1098	20	3.5	1.432700799	0.320361638	il cittadino medio del secolo scorso, protagonista di un'epoca, un gusto, uno stile.	complexity	Brunato et al., 2018
+CO-01-R1099	20	2.45	1.099042646	0.245753407	A Sestola la formazione dei calciatori disoccupati ha superato il Bologna per 2 1:	complexity	Brunato et al., 2018
+CO-01-R1100	20	3.3	2.00262985	0.447801648	l'unghia naturale viene ricoperta con una ceramica speciale, il materiale si solidifica in pochi istanti e viene limato per dare all'unghia la forma che preferisci.	complexity	Brunato et al., 2018
+CO-01-R1101	20	3.1	1.209610638	0.270477161	Sulla superficie dell'impasto, possono scintillare a vista frammenti di altri materiali:	complexity	Brunato et al., 2018
+CO-01-R1102	20	4.35	1.663066287	0.371872927	Kavaje, Lushinje, Fier, ogni città con le sue' piramidi finanziarie' fallite, gli assalti ai municipi e alle stazioni di polizia, le sassaiole, gli incendi.	complexity	Brunato et al., 2018
+CO-01-R1103	20	3.6	1.429022485	0.319539142	''Il ministro Susanna Agnelli ci ha telefonato di persona - dice Colombo -, ma dalla Farnesina la collaborazione all'inizio è stata scarsissima''.	complexity	Brunato et al., 2018
+CO-01-R1104	20	5.15	1.225818738	0.274101403	Il quale, come uno della Confraternita di San Luca, ebbe una vita ritualmente monastica anche se ebbe moglie e figli, una vita piena vissuta con frugalità e sentimento panteistico:	complexity	Brunato et al., 2018
+CO-01-R1105	20	3.25	1.29269201	0.289054721	Un miliardo di dollari - dice John King, rappresentante a Tirana del Fondo monetario internazionale -.	complexity	Brunato et al., 2018
+CO-01-R1106	20	1.95	1.145931017	0.256237965	"fuori dal podio l'Africa di Fredricks;"	complexity	Brunato et al., 2018
+CO-01-R1107	20	2.6	1.231174023	0.275298881	Da allora i circa duecento militari si occupano delle cerimonie ufficiali e della sicurezza del Quirinale.	complexity	Brunato et al., 2018
+CO-01-R1108	20	1.7	1.380312703	0.308647303	Alla fine si è dimessa da Forza Italia.	complexity	Brunato et al., 2018
+CO-01-R1109	20	4.1	1.916685736	0.42858396	Ancora a due settimane dallo scoppio del ''terremoto'', il 27 gennaio una rivista di Santiago, Que Pasa, è uscita con un grande titolo di prima pagina:	complexity	Brunato et al., 2018
+CO-01-R1110	20	3.35	1.814415956	0.405715742	Correrà sotto scorta, perché il Gia (il gruppo armato del fronte islamico) non può accettare che una donna sia libera di essere un'atleta.	complexity	Brunato et al., 2018
+CO-01-R1111	20	3.45	1.700619082	0.380269987	Il parco di Virunga, a cavallo tra le frontiere dello Zaire, dell'Uganda e del Ruanda, è il più antico dell'Africa.	complexity	Brunato et al., 2018
+CO-01-R1112	20	1.85	1.225818738	0.274101403	L'inquinamento non era frutto di un'allucinazione.	complexity	Brunato et al., 2018
+CO-01-R1113	20	4	1.654340384	0.369921756	Le dimissioni del primo ministro Aleksander Meksi e la propria rielezione alla presidenza, con il voto previsto domani in Parlamento.	complexity	Brunato et al., 2018
+CO-01-R1114	20	3.5	1.820930936	0.407172536	In istituto ''Fisiotron Silhouette'' di Dibi.	complexity	Brunato et al., 2018
+CO-01-R1115	20	3.4	1.635140425	0.365628514	Intervallo lunghissimo, perché in origine il calendario prevedeva il Gran premio di San Marino.	complexity	Brunato et al., 2018
+CO-01-R1116	20	3.75	1.585294261	0.354482573	La tesi di laurea, Cinema moralia, cercherà di conciliare ''due amori contrapposti:	complexity	Brunato et al., 2018
+CO-01-R1117	20	4.5	2.35081173	0.525657483	Certo l'Albania non è soltanto questo ma anche rimesse degli immigrati, investimenti stranieri in attività produttive che hanno generato occupazione ed entusiasmo in un Paese uscito da cinquant'anni di stalinismo pietrificato.	complexity	Brunato et al., 2018
+CO-01-R1118	20	4.25	1.618153594	0.361830143	Ma per mezzo secolo nessuna guerra potè scoppiare in Europa, nel cuore del confronto tra le due Bombe, là dove Hiroshima avrebbe potuto ripetersi.	complexity	Brunato et al., 2018
+CO-01-R1119	20	4.1	1.860956178	0.416122452	Proprio in una stagione così delicata ci troviamo con un designatore la cui influenza sugli arbitri è fatalmente ridotta dal fatto che a fine stagione sarà sostituito.	complexity	Brunato et al., 2018
+CO-01-R1120	20	3.75	1.551739262	0.346979447	Ma la notte è dolce e c'è un ristorante ancora aperto, il soffitto basso a volta, i tavoli di legno e le candele perché è venuta a mancare l'elettricità.	complexity	Brunato et al., 2018
+CO-01-R1121	20	2.7	1.174285897	0.262578309	I carabinieri gli hanno recapitato il decreto di revoca degli arresti domiciliari.	complexity	Brunato et al., 2018
+CO-01-R1122	20	5.7	1.525226472	0.341051007	In fondo è riuscito a promuoversi erigendo delle piccole barriere elitarie, ha capito che si può costruire se stessi con quel che non fai e con i luoghi che non frequenti ''.	complexity	Brunato et al., 2018
+CO-02-R0565	16	3.125	1.454876856	0.363719214	Piove anche oggi. Com'era la proposta di posticipare l'inizio della #scuola per consentire alla gente di andare al mare? #labuonascuola	complexity	UD_Italian-TWITTIRO
+CO-02-R0566	16	3.75	1.390443574	0.347610894	io vorrei andare a votare, ma non penso sia il momento di perder altro tempo e soprattutto denaro. Un governo Monti potrebbe andare. E x voi?	complexity	UD_Italian-PoSTWITA
+CO-02-R0567	14	1.428571429	0.755928946	0.202030509	A Crema #Grillo critica tutti, ecco il video, http://t.co/tJJIB0FY	complexity	UD_Italian-PoSTWITA
+CO-02-R0568	15	1.666666667	0.816496581	0.210818511	Slogan: "siete tutti un programma".	complexity	UD_Italian-VIT
+CO-02-R0569	16	2.25	1.290994449	0.322748612	"Questo aggettivo, ""generazionale"", vale per tutto il cinema di Moretti?"	complexity	UD_Italian-ISDT
+CO-02-R0570	16	1.5	0.966091783	0.241522946	Quando ci fu la Guerra del Golfo Persico?	complexity	UD_Italian-ISDT
+CO-02-R0571	16	4.25	1.483239697	0.370809924	Sarebbe #labuonascuola se non si confondesse la meritocrazia con la “zerbinocrazia”: quella per cui anche un diritto diventi concessione.	complexity	UD_Italian-TWITTIRO
+CO-02-R0572	13	1.153846154	0.375533808	0.104154339	Io non voglio che i giovani di oggi facciano la mia esperienza.	complexity	UD_Italian-ISDT
+CO-02-R0573	13	1.461538462	0.660225292	0.183113549	Di cosa son morte 232 persone nel Rajasthan?	complexity	UD_Italian-ISDT
+CO-02-R0574	14	2	1.037749043	0.277350098	"quello che vorrei chiarire è che il problema della valutazione del lavoro dei ricercatori non è nuovo.	complexity	UD_Italian-VIT
+CO-02-R0575	16	2.875	1.258305739	0.314576435	@user #Grillo è anni che non fà più il comico ... loro sono decenni che fanno i buffoni di corte .. :)) con tutti i loro servetti	complexity	UD_Italian-TWITTIRO
+CO-02-R0576	14	2.285714286	1.266647388	0.338525754	E il micelio inspira ossigeno, proprio come noi.	complexity	UD_Italian-ISDT
+CO-02-R0577	16	3.5625	1.631716887	0.407929222	Io la risposta non ce l'ho, ma quei morti per le strade e quei campi di concentramento mi fanno male al cuore e, soprattutto, sono un problema anche mio.	complexity	UD_Italian-VIT
+CO-02-R0578	16	5	1.861898673	0.465474668	Io non ho dato soldi al presidente Samper, perché lui è un uomo onesto, chi lo accusa è un bugiardo"", ha gridato, smentendo le rivelazioni sui presunti finanziamenti per la campagna elettorale del presidente che sarebbero arrivati dalle casse dei narcos."	complexity	UD_Italian-ISDT
+CO-02-R0579	13	2.615384615	1.32529629	0.367571056	Gambero Rosso, ben 415 ' Tre Bicchieri ' per il 2014 - #Vino http://t.co/vrBmGXQfJY	complexity	UD_Italian-PoSTWITA
+CO-02-R0580	16	2.4375	1.152894907	0.288223727	"@user1 ahahah !! Ma che fine ha fatto @user2 detto "" la torcia umana "" ... ???"	complexity	UD_Italian-PoSTWITA
+CO-02-R0581	16	2.6875	1.302241657	0.325560414	Renzi convoca una conferenza stampa per elencare le sue riforme. Per una volta che bastava un tweet. [@user]	complexity	UD_Italian-TWITTIRO
+CO-02-R0582	16	1.8125	1.276388133	0.319097033	Dovevo essere diventato pallido come la morte.	complexity	UD_Italian-VIT
+CO-02-R0583	13	2.538461538	0.967417922	0.268313456	"Io ero influenzato dal ""Metodo"" dell'Actor's studio, Gene mi ha insegnato la naturalezza ""."	complexity	UD_Italian-ISDT
+CO-02-R0584	16	2.375	1.087811258	0.271952815	Governo: Monti vincerà la sfida puntando su equità e giovani http://t.co/GhdHHG5w	complexity	UD_Italian-PoSTWITA
+CO-02-R0585	15	2.333333333	1.345185418	0.347325382	Quali navi da crociera sono affondate, hanno preso fuoco o si sono arenate?	complexity	UD_Italian-ISDT
+CO-02-R0586	14	1.785714286	1.188313053	0.317590022	Me ne dispiace, onorevoli Hnsch e Cox, non mi ero accorta che avevate chiesto la parola.	complexity	UD_Italian-ISDT
+CO-02-R0587	14	2	1.109400392	0.296499727	Quanto a lungo possono vivere le tortore luttuose americane?	complexity	UD_Italian-ISDT
+CO-02-R0588	16	1.75	0.856348839	0.21408721	@user solo col governo Monti non funziona, dannazione.	complexity	UD_Italian-PoSTWITA
+CO-02-R0589	14	2.642857143	1.78054196	0.475869855	@user gia gia lunedi ti dico anche se non ci sono molte news succulente	complexity	UD_Italian-PoSTWITA
+CO-02-R0590	16	2.4375	1.152894907	0.288223727	Non ci crederà, lo sa che alla fine le Erinni sono andate a congratularsi con lei?	complexity	UD_Italian-ISDT
+CO-02-R0591	13	4.153846154	1.519109051	0.421325044	Non dobbiamo accontentarci di colmare un'altra lacuna nella rete di sicurezza, chiudendo gli occhi sul fatto che resta da fare molto di più in materia di sicurezza nel settore dei trasporti in Europa.	complexity	UD_Italian-ISDT
+CO-02-R0592	14	1.357142857	0.744946344	0.199095285	Io sono stato il suo carceriere, l'ho incatenato per sette anni.	complexity	UD_Italian-VIT
+CO-02-R0593	13	1.769230769	0.926808696	0.257050483	se l'Italia va in mano a #Grillo penso proprio che mi trasferirò in Germania.	complexity	UD_Italian-PoSTWITA
+CO-02-R0594	14	1.714285714	0.913873533	0.244242976	@user Diffidente? Cattivissimo? E' cosi' perche' non ha ancora conosciuto me!	complexity	UD_Italian-PoSTWITA
+CO-02-R0595	16	3.25	1.390443574	0.347610894	#labuonascuola a quanto pare sembra più #labuonaSOLA Stamattina Milano bloccata da cortei studenteschi pro #Renzi ... Oh!!	complexity	UD_Italian-TWITTIRO
+CO-02-R0596	14	1.285714286	0.611249846	0.163363393	Quali compagnie energetiche si sono fuse nel 1995?	complexity	UD_Italian-ISDT
+CO-02-R0597	14	1.357142857	0.633323694	0.169262877	Chi detiene il record di attore bambino più pagato?	complexity	UD_Italian-ISDT
+CO-02-R0598	13	2.461538462	1.050030525	0.291226069	Una nuova ansia: la donna mi invitava a togliermi il vestito per dargli almeno una spazzolata.	complexity	UD_Italian-VIT
+CO-02-R0599	14	1.214285714	0.578934224	0.15472668	Qual è il fiume più lungo del mondo?	complexity	UD_Italian-ISDT
+CO-02-R0600	14	2.785714286	1.311403912	0.350487438	Io sono disposto a incontrare gli studenti e a parlare con loro perché sono sicuro che facciamo degli errori e discuterne ne è bene.	complexity	UD_Italian-VIT
+CO-02-R0601	16	3.4375	1.547847968	0.386961992	Intanto verificherò le opere incompiute, gli ospedali nel deserto per i quali sono stati spesi inutilmente centinaia di miliardi.	complexity	UD_Italian-VIT
+CO-02-R0602	15	2.933333333	1.387014608	0.358125632	@user è come la storia del bidet. L'europa vuole che lo togliamo perché consumiamo troppa acqua	complexity	UD_Italian-PoSTWITA
+CO-02-R0603	13	2.538461538	0.877058019	0.243252128	Convincetemi che con governo #Monti non stiamo facendo come quelle sette che praticano suicidio di massa. In fiduciosa attesa	complexity	UD_Italian-TWITTIRO
+CO-02-R0604	16	1.4375	0.62915287	0.157288217	Anch'io sono distrutto dalla fatica.	complexity	UD_Italian-VIT
+CO-02-R0605	16	1.8125	1.108677891	0.277169473	Anche allo stadio si canta #Grillo uno di noi	complexity	UD_Italian-PoSTWITA
+CO-02-R0606	14	1.285714286	0.468807231	0.125294003	L'età media delle sue seguaci?	complexity	UD_Italian-ISDT
+CO-02-R0607	14	4.142857143	1.747840111	0.467129919	Signor presidente, è per me un particolare piacere poter tenere il mio primo intervento al parlamento europeo sul tema considerato il più importante nella regione del Regno Unito che io rappresento in questo parlamento, il Galles.	complexity	UD_Italian-ParTUT
+CO-02-R0608	13	2.076923077	1.11516355	0.30929072	E' questione di attributi! Alla buona scuola preferisco la scuola equa!	complexity	UD_Italian-TWITTIRO
+CO-02-R0609	14	1.5	0.854850414	0.228468383	RT @user1: @user2 amo troppo la sua voce, è meravigliosa	complexity	UD_Italian-PoSTWITA
+CO-02-R0610	16	2.375	1.087811258	0.271952815	"nonostante i miei quarant'anni disse il padre ""credo di avere ancora una vista buona."	complexity	UD_Italian-VIT
+CO-02-R0611	16	5.25	1.341640786	0.335410197	Quindi, signora presidente, ribadisco che da parte nostra abbiamo discusso del programma di azione per il prossimo quinquennio e che siamo pronti a presentarlo quando vuole il parlamento - anche questa settimana, se decide in tal senso - mentre il mese prossimo toccherà al programma per il 2000, esattamente come era stato stabilito.	complexity	UD_Italian-ISDT
+CO-02-R0612	13	2.538461538	1.265924209	0.351104204	RT @user: Non legalizzano la #cannabis Ma iper tassano le cartine. Questi sono geni della finanza. #governoletta #proibizionismo	complexity	UD_Italian-TWITTIRO
+CO-02-R0613	16	2	1.460593487	0.365148372	Quale città italiana è la sede della Cattedrale di Santa Maria del Fiore o Duomo?	complexity	UD_Italian-ISDT
+CO-02-R0614	16	2.125	1.087811258	0.271952815	Quante aule vennero costruite prima del 1976 nel Distretto Scolastico di Wilsona?	complexity	UD_Italian-ISDT
+CO-02-R0615	16	2.6875	1.352466882	0.33811672	- Fatti i compiti per le vacanze? - No. - Cominciamo bene! - Prof, stia sereno! Mi giudichi nel 2017. #labuonascuola	complexity	UD_Italian-TWITTIRO
+CO-02-R0616	16	1.3125	0.602079729	0.150519932	Che cos'è la paura del numero 13?	complexity	UD_Italian-ISDT
+CO-02-R0617	16	4.75	1.61245155	0.403112887	Avevo appena visto «L'assedio di Fort Apache» di John Ford, che divertimento e avrei voluto dirgli, ma perché non fai quei film lì?	complexity	UD_Italian-ISDT
+CO-02-R0618	14	1.5	0.854850414	0.228468383	L' addetto stampa di Mario Monti e' il mio idolo. Buongiorno Mondo!	complexity	UD_Italian-PoSTWITA
+CO-02-R0619	16	3	1.211060142	0.302765035	... Applica con minuzia ogni cura estetica e fitness e annota i miglioramenti, anche minimi?	complexity	UD_Italian-ISDT
+CO-02-R0620	13	1.923076923	0.954073587	0.264612403	Ma comincio a sentirmi stanco ed è probabile che la morte mi coglierà prima.	complexity	UD_Italian-VIT
+CO-02-R0621	13	1.461538462	0.877058019	0.243252128	Chi era il presidente della Corea del Nord prima del 1994?	complexity	UD_Italian-ISDT
+CO-02-R0622	16	2.4375	1.31497782	0.328744455	“ la felicità non ha prezzo “, la mia sì, costa circa 3,50 € e si chiama Nutella. #nonpuoimancare	complexity	UD_Italian-PoSTWITA
+CO-02-R0623	16	2.5625	1.590335394	0.397583849	False illusioni, sgradevoli realtà Mario Monti http://t.co/WOmMCITs via @user	complexity	UD_Italian-PoSTWITA
+CO-02-R0624	12	3.333333333	1.66969422	0.481999204	Non ci rendiamo conto del lavoro psicologico, dei prodigi di equilibrio, di diplomazia che fanno per noi.	complexity	UD_Italian-ISDT
+CO-02-R0625	16	1.8125	1.223042654	0.305760663	Di quante morti sono ritenuti responsabili i Khmer Rossi?	complexity	UD_Italian-ISDT
+CO-02-R0626	16	3.4375	1.75	0.4375	Cattolici di destra attaccano il governo Monti, dopo aver taciuto le peggio maialate di quello di Berlusconi. Un po' di coerenza almeno	complexity	UD_Italian-PoSTWITA
+CO-02-R0627	15	3.866666667	1.35576371	0.350056685	#lista, lunga vita al governo Monti, che ci traghetti fuori dalla crisi con tutta banca intesa al MSE, ma un sottosegretario under 50 no?	complexity	UD_Italian-TWITTIRO
+CO-02-R0628	14	2.357142857	1.008208072	0.269454941	Chi è riuscito a rubare 20.000 numeri forzando il computer della Netcom, compagnia internet di New York?	complexity	UD_Italian-ISDT
+CO-02-R0629	13	2.461538462	1.050030525	0.291226069	@user1 @user2 la buona scuola è quella che non ti obbliga a freguentare la Luis o la Bocconi per avere uno Stage restribuito.	complexity	UD_Italian-TWITTIRO
+CO-02-R0630	14	1.214285714	0.425815314	0.11380393	Signora presidente, sento qualche risata fra i socialisti.	complexity	UD_Italian-ISDT
+CO-02-R0631	13	3.230769231	1.091928428	0.302846457	Brunetta sostiene di tornare a fare l'economista, Mario Monti terrorizzato progetta di mollare tutto ed aprire un negozio di pescheria	complexity	UD_Italian-TWITTIRO
+CO-02-R0632	16	3.0625	1.52616076	0.38154019	dice che l'anagramma di mario monti = matrimonio. ecco perché sono allergica alla #manovra	complexity	UD_Italian-TWITTIRO
+CO-02-R0633	16	1.4375	0.81394103	0.203485257	Che pensi di quello che è successo?	complexity	UD_Italian-ISDT
+CO-02-R0634	14	1.428571429	0.755928946	0.202030509	@user Ma quanto è simpatico Conte ?? #askallegri	complexity	UD_Italian-PoSTWITA
+CO-02-R0635	15	3.133333333	1.597617273	0.412503006	Se il governo Monti non piace alla Lega, a Di Pietro e a Sallusti allora significa che è il governo che serve al Paese. Good	complexity	UD_Italian-TWITTIRO
+CO-02-R0636	16	3.9375	1.388944443	0.347236111	#MIDAperRUOLO gli abilitati di 2 fascia hanno tutto ciò che serve per una buona scuola: titoli, esperienza e capacità e voi che siete al governo?	complexity	UD_Italian-TWITTIRO
+CO-02-R0637	13	1.384615385	0.869718493	0.241216509	Quante persone soffrono di obesità negli Stati Uniti?	complexity	UD_Italian-ISDT
+CO-02-R0638	13	3.692307692	1.315587029	0.364878192	Evitiamo, per favore, che si aggiunga un ulteriore ambito in cui si finisca con il dover denunciare le carenze nell'applicazione.	complexity	UD_Italian-ISDT
+CO-02-R0639	16	3.125	1.360147051	0.340036763	Davvero l'Ucraina dovrebbe essere costretta a creare un nuovo ordine costituzionale basato sulla grande menzogna?	complexity	UD_Italian-ISDT
+CO-02-R0640	16	1.6875	0.87321246	0.218303115	Tolgo la pirofila dal forno e verso la salsa di alici sui crostini.	complexity	UD_Italian-ISDT
+CO-02-R0641	13	1.692307692	0.751067616	0.208308677	"Ritengo sia importante che questa direttiva sia approvata adesso;"	complexity	UD_Italian-ISDT
+CO-02-R0642	13	1.230769231	0.59914469	0.166172838	Ho mangiato tutto il coniglio di cioccolata :( #maldipancia	complexity	UD_Italian-PoSTWITA
+CO-02-R0643	16	3.25	1.437590577	0.359397644	Dunque, abbiamo a Zagabria un dittatorello che fa da pendant al piccolo zar di Belgrado?	complexity	UD_Italian-ISDT
+CO-02-R0644	14	1.571428571	1.016349858	0.271630925	Facebook è tornato a funzionare. La Cia si scusa per il disagio. [@user]	complexity	UD_Italian-TWITTIRO
+CO-02-R0645	15	2.6	1.055597326	0.272554058	Ma quanto ce vuole affinchè Mario Monti arrivi a Palazzo Chigi? Sarà impanicato nel traffico festivo del ponte?	complexity	UD_Italian-TWITTIRO
+CO-02-R0646	16	2.5625	1.31497782	0.328744455	Ma tutti voi che twittate pubblicizzando #labuonascuola ci fate o ci siete? O vi paga Renzi per fargli propaganda?	complexity	UD_Italian-TWITTIRO
+CO-02-R0647	14	2.285714286	0.994490316	0.265788717	Secondo alcune voci, Beppe #Grillo sarebbe al 7%. Ma da ottobre anche lui al 23%. #M5S	complexity	UD_Italian-PoSTWITA
+CO-02-R0648	16	1.6875	1.352466882	0.33811672	Metto il burro in un tegamino, lo faccio sciogliere:	complexity	UD_Italian-ISDT
+CO-02-R0649	16	3.9375	1.913765921	0.47844148	non che io tema nulla, ma non vorrei che qualche lettore scarabocchiatore, consultando l'elenco telefonico, trovasse il mio indirizzo e per divertimento venisse a imbrattare di nuovo la nostra casa.	complexity	UD_Italian-ISDT
+CO-02-R0650	16	3.75	1.390443574	0.347610894	Il #governo #Monti arriverà a fine legislatura? #Bossi: Ma siete matti! da che pulpito, infatti siamo noi a credere che esiste la #PADANIA	complexity	UD_Italian-TWITTIRO
+CO-02-R0651	16	4.1875	1.833712082	0.458428021	@user I #vincitorisenzacattedra da quando c'è #labuonascuola SOGNANO AEREI CHE LI PORTERANNO SU E GIÙ X L'ITALIA http://t.co/UGvvuwA3PM	complexity	UD_Italian-TWITTIRO
+CO-02-R0652	13	1.230769231	0.59914469	0.166172838	George Washington come chiamava la sua casa?	complexity	UD_Italian-ISDT
+CO-02-R0653	16	1.375	0.619139187	0.154784797	Quale tipo di ape fa fori nel legno?	complexity	UD_Italian-ISDT
+CO-02-R0654	16	2.75	1.290994449	0.322748612	Ma quanto più procedo, più vado convincendomi che non esiste frontiera.	complexity	UD_Italian-VIT
+CO-02-R0655	13	2.230769231	1.300887271	0.360801212	Spieghiamo cosè il superbollo di #mario #Monti http://t.co/mBpT4MDJ #superbollo	complexity	UD_Italian-PoSTWITA
+CO-02-R0656	16	1.3125	0.602079729	0.150519932	È vero che Facebook sarà a pagamento?	complexity	UD_Italian-ISDT
+CO-02-R0657	13	5.153846154	1.573009528	0.436274347	Essendo austriaco mi è rimasta impressa vivamente nella memoria - ma credo lo stesso valga per tutti noi - la sciagura del tunnel nei monti Tauri che è costata la vita a tante persone e in cui solo dopo molti mesi e con un enorme sforzo finanziario si è potuto ricostruire quanto era andato distrutto all'interno del tunnel a causa dell'incendio.	complexity	UD_Italian-ISDT
+CO-02-R0658	14	2.285714286	1.204387583	0.321886121	PD e PDL bloccano le (poche) #liberalizzazioni previste dalla manovra. Ecco il fondamentale contributo della politica al governo #Monti	complexity	UD_Italian-TWITTIRO
+CO-02-R0659	14	3.428571429	1.157868447	0.309453359	Mario Monti ha già fatto un miracolo: gli indignati della Sapienza alleati con Sallusti nellla denuncia del complotto tecno massonico.	complexity	UD_Italian-TWITTIRO
+CO-02-R0660	16	1.625	1.147460965	0.286865241	Da quale paese Panama si rese indipendente?	complexity	UD_Italian-ISDT
+CO-02-R0661	16	3.125	1.408308678	0.35207717	Attacca le banche, il parlamento e gli Stati Uniti. Se rivendica anche il corridoio di Danzica #Grillo può rifondare il Nazionalsocialismo.	complexity	UD_Italian-TWITTIRO
+CO-02-R0662	13	3.307692308	0.854850414	0.237092846	Comunque l'inverno è arrivato e io oggi più che un moscone in bagno mi son ritrovata un cacciatorpedinieri in decollo verticale!	complexity	UD_Italian-TWITTIRO
+CO-02-R0663	16	1.9375	0.853912564	0.213478141	@user #happyeaster :) !! Cmq si solita vita niente di nuovo !!	complexity	UD_Italian-PoSTWITA
+CO-02-R0664	13	2.384615385	0.869718493	0.241216509	Il governo Monti mi ha tolto pure lo sfizio di pronunciare la solita frase piove governo ladro (per ora!)	complexity	UD_Italian-TWITTIRO
+CO-02-R0665	13	2.846153846	1.519109051	0.421325044	Web-design tutto bello e colorato, ma #labuonascuola mi fa scegliere tra ciò che non amo e ciò che amo ancor meno. Quindi non lo compilerò.	complexity	UD_Italian-TWITTIRO
+CO-02-R0666	16	3.3125	1.537042615	0.384260654	Dopo tutti i twitt su #labuonascuola almeno un segnale di fumo a noi medici prossimi al #concorsonazionale lo poteva mandare @user !!	complexity	UD_Italian-TWITTIRO
+CO-02-R0667	16	2.125	1.586400538	0.396600134	@user ma Twitter non fa apparire come gente simpa	complexity	UD_Italian-PoSTWITA
+CO-02-R0668	13	1.846153846	0.987096234	0.273771237	"Chi disse ""la musica ha il potere di calmare la bestia selvaggia""?"	complexity	UD_Italian-ISDT
+CO-02-R0669	16	2.875	1.454876856	0.363719214	Se non vuoi più ricevere inviti dai tuoi amici, puoi usare il link di annullamento dell'iscrizione situato in fondo all'e-mail.	complexity	UD_Italian-ISDT
+CO-02-R0670	13	2.461538462	0.877058019	0.243252128	@user il mio albero avverte la crisi ... Mario Monti grazie x questo natale stupendo	complexity	UD_Italian-PoSTWITA
+CO-02-R0671	13	3	1.08012345	0.299572345	@user1 @user2 Oltre a #Grillo e ai #Pirati abbiamo anche #Montezemolo, che di sicuro non è un populista. http://t.co/UrmVOIPC	complexity	UD_Italian-PoSTWITA
+CO-02-R0672	13	1.692307692	0.751067616	0.208308677	mia madre pensa che siate tutti/tutte maniaci/maniache sotto copertura.	complexity	UD_Italian-PoSTWITA
+CO-02-R0673	16	5	1.591644852	0.397911213	Io comincio a credere che gli altri (cioè la Renault, ndr) abbiano introdotto delle tecnologie o delle metodologie nuove di collaudo, perché altrimenti non si spiega il grosso passo avanti che hanno fatto a Magny Cours e adesso qui.	complexity	UD_Italian-VIT
+CO-02-R0674	16	2.5	1.154700538	0.288675135	Quale personalità era a fianco di François Mitterrand all'apertura del tunnel della Manica?	complexity	UD_Italian-ISDT
+CO-02-R0675	16	1.8125	1.167261753	0.291815438	Metto le fette di mozzarella fra una fetta e l'altra dei panini.	complexity	UD_Italian-ISDT
+CO-02-R0676	14	1.357142857	0.928782732	0.248227626	Mai indossare qualcosa di una taglia in meno ...	complexity	UD_Italian-PoSTWITA
+CO-02-R0677	16	3.8125	1.600781059	0.400195265	Faccio fatica a dirlo, ma ... una spruzzata di Thatcher, please. #Thatcher4italy #liberalizzazioni #taxi #farmacie #benzinai #governo #Monti	complexity	UD_Italian-TWITTIRO
+CO-02-R0678	16	1.4375	0.727438428	0.181859607	Sapete quale odore state sentendo?	complexity	UD_Italian-ISDT
+CO-02-R0679	16	2.5625	1.504160896	0.376040224	Quale presidente americano del XX secolo morì a Warm Springs, in Georgia?	complexity	UD_Italian-ISDT
+CO-02-R0680	16	2.3125	1.138346754	0.284586689	La comunicazione elitaria di Mario #Monti http://t.co/bdeJfuFB via @user	complexity	UD_Italian-PoSTWITA
+CO-02-R0681	16	3.5	1.316561177	0.329140294	#Partito della Nazione l'ideona dei partiti per disinnescare #Grillo e continuare a prendere per culo gli italiani. Adesso siamo salvi!	complexity	UD_Italian-TWITTIRO
+CO-02-R0682	16	3	1.316561177	0.329140294	Mario Monti i sacrifici falli tu e l'amici tua e chi te sostiene! Noi li famo già da ' na vita ...	complexity	UD_Italian-PoSTWITA
+CO-02-R0683	13	2.923076923	1.552500052	0.430586042	@user RIFORMA: una delle tante che i partiti hanno imposto (ahahhha) al Governo Monti. #puttanate #campacavallochelerbacresce	complexity	UD_Italian-TWITTIRO
+CO-02-R0684	15	2.266666667	1.032795559	0.266666667	Dusty e io, ci piace dirlo, la domenica andiamo in chiesa qui.	complexity	UD_Italian-ParTUT
+CO-02-R0685	16	2.375	1.147460965	0.286865241	Mi risvegliò al mattino dopo la donna, stupita di trovarmi sul letto ancora tutto vestito.	complexity	UD_Italian-VIT
+CO-02-R0686	16	2.9375	1.236594787	0.309148697	RT @user: ' GENITORI VS FIGLI ' pt. 12 ' io alla tua età non passavo tutto questo tempo a computer ' GRAZIE AL CAZZO NON ESISTEVA MANCO!	complexity	UD_Italian-TWITTIRO
+CO-02-R0687	13	3.153846154	1.573009528	0.436274347	@user L'invenzione di Berlusconi: Ci saranno 2 PDL uno classico, uno zero corrotti. Si uniranno dopo le elezioni! http://t.co/vTE7YOWP	complexity	UD_Italian-TWITTIRO
+CO-02-R0688	13	2.076923077	0.954073587	0.264612403	non mi sento ancora di dire se e come si cambierà.	complexity	UD_Italian-VIT
+CO-02-R0689	16	1.8125	1.223042654	0.305760663	Chi fu la prima persona a correre un miglio in meno di quattro minuti?	complexity	UD_Italian-ISDT
+CO-02-R0690	15	1.666666667	0.899735411	0.232310684	#NOME?	complexity	UD_Italian-ISDT
+CO-02-R0691	16	1.375	0.885061203	0.221265301	Quale animale è simbolo della Namibia?	complexity	UD_Italian-ISDT
+CO-02-R0692	13	3.076923077	1.255755978	0.348284044	Le sopravvissute alla mia furia batteristica ... alcune però sono rimaste senza anima gemella !!! http://t.co/OEmIi9gB	complexity	UD_Italian-PoSTWITA
+CO-02-R0693	13	1.307692308	0.630425172	0.174848483	Il cuore mi prese a galoppare.	complexity	UD_Italian-VIT
+CO-02-R0694	14	2.071428571	1.542439911	0.412234406	Ma chi ha redatto il documento La buona scuola del governo era un telecronista sportivo? Si parla poco di cultura e molto di partita.	complexity	UD_Italian-TWITTIRO
+CO-02-R0695	13	2.230769231	1.012739367	0.280883363	Sapendo come vanno le cose da quelle parti, tra poco il piccolo Tobia dovrebbe annunciare la scissione da Vendola. [@user]	complexity	UD_Italian-TWITTIRO
+CO-02-R0696	14	1.785714286	0.892582375	0.238552674	Un uomo rende gelose le donne .. della tua donna	complexity	UD_Italian-PoSTWITA
+CO-02-R0697	16	3	1.460593487	0.365148372	@user: Pausa in albergo per il senatore a vita, Mario Monti, dopo la colazione di lavoro con Berlusconi. PRANZO PESANTE #finecorsa	complexity	UD_Italian-TWITTIRO
+CO-02-R0698	13	2.461538462	1.050030525	0.291226069	per ora l'unico miracolo natalizio del governo #monti è aver fatto riunire i sindacati confederali	complexity	UD_Italian-TWITTIRO
+CO-02-R0699	13	1.615384615	0.960768923	0.266469355	RT @user: ♩ ♪ ♬ Juveeee ,, storia di un grande amore. Bianco che abbraccia il nero. Coro che si alza ... http://t.co/LjsnLy6p	complexity	UD_Italian-PoSTWITA
+CO-02-R0700	16	4.375	1.5	0.375	"@user davvero conosci OJS? l'uomo del mistero si infittisce ... ;) mi picchio perche' ricopro tutti i ruoli, dal manager al proof :-D"	complexity	UD_Italian-TWITTIRO
+CO-02-R0701	14	1.5	1.091928428	0.291830148	Qual è il titolo del primo volume della biografia di Elvis Presley?	complexity	UD_Italian-ISDT
+CO-02-R0702	16	3.1875	1.327591805	0.331897951	Non è la buona scuola ma solo la buona novella. Il governo Renzi il Governo della ruita della fortuna.	complexity	UD_Italian-TWITTIRO
+CO-02-R0703	13	1.307692308	0.630425172	0.174848483	Qual è un ingrediente base della cucina giapponese?	complexity	UD_Italian-ISDT
+CO-02-R0704	16	4.5625	1.67207456	0.41801864	Io credo che alla fine sia meglio risparmiarsi durante l'estate e dare tutto in inverno per vincere, perché poi si ha un ritorno economico superiore quando c'è la possibilità di mostrare un trofeo.	complexity	UD_Italian-ISDT
+CO-02-R0705	14	2.642857143	1.277445941	0.341411789	la buona scuola di renzi ha avuto la sua apoteosi in liguria con la beffa dei contributi per i progetti	complexity	UD_Italian-TWITTIRO
+CO-02-R0706	14	3.428571429	1.398586414	0.373787942	Noi lavoriamo per una concezione e per una pratica della sicurezza reciproca e globale, nella quale i fattori politici prevalgano su quelli militari.	complexity	UD_Italian-VIT
+CO-02-R0707	16	3.375	1.454876856	0.363719214	Fondamentale per noi comunisti, è la coerenza ideale e pratica con questi nuovi livelli di consapevolezza.	complexity	UD_Italian-VIT

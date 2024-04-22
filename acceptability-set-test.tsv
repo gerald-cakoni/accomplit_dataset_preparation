@@ -1,0 +1,345 @@
+id	N	mean	sd	se	sentence	task	reference
+AC-01-R0801	14	1.714285714	1.325987088	0.354384956	Anche senza supporto popolare lui proseguivano la lotta alla mafia.	acceptability	mancini_etal_2018
+AC-01-R0802	12	5.916666667	1.621353718	0.468044503	Per produrre questi abiti io impiegavo solo stoffe di prima qualità.	acceptability	mancini_etal_2018
+AC-01-R0803	10	6.8	0.421637021	0.133333333	Le musiciste hanno ascoltato il concerto.	acceptability	greco_etal_2020
+AC-01-R0804	18	1.5	0.785905248	0.185239643	Per concimare il terreno noi utilizzavo un prodotto biologico.	acceptability	mancini_etal_2018
+AC-01-R0805	14	4.642857143	1.549547967	0.414134114	Le ragazze si arrabbiavano se loro limitavano le loro uscite durante la settimana.	acceptability	mancini_etal_2018
+AC-01-R0806	10	5.7	2.057506582	0.65064071	Secondo te la causa della rivolta sono le foto del muro?	acceptability	greco_etal_2020
+AC-01-R0807	10	3.5	1.715938357	0.542627353	Hanno svaligiato i ladri la villa.	acceptability	greco_etal_2020
+AC-01-R0808	17	3.176470588	1.704233483	0.413337333	Hanno sorretto le fondamenta il palazzo.	acceptability	greco_etal_2020
+AC-01-R0809	17	6	1.802775638	0.437237316	Le devastazioni del territorio sono il motivo del malumore.	acceptability	greco_etal_2020
+AC-01-R0810	15	4.866666667	1.767430203	0.456348516	Sono precipitati gli scalatori.	acceptability	greco_etal_2020
+AC-01-R0811	17	6.411764706	1.460257834	0.354164546	Secondo te i negozianti hanno abbassato il prezzo?	acceptability	greco_etal_2020
+AC-01-R0812	10	5.9	1.449137675	0.458257569	Il motivo dello stupore sono le decorazioni della villa.	acceptability	greco_etal_2020
+AC-01-R0813	85	4.435294118	2.002659296	0.217218899	Cosa credi che il cuoco ha preparato la scorsa settimana?	acceptability	villata_etal_2015
+AC-01-R0814	18	1.944444444	1.513555309	0.356748408	Al ristorante di Giovanni normalmente loro ordinava del maiale.	acceptability	mancini_etal_2018
+AC-01-R0815	12	6.25	0.452267017	0.130558242	Quando il cane dei vicini abbaiava noi chiamavamo sempre i carabinieri.	acceptability	mancini_etal_2018
+AC-01-R0816	14	6.428571429	0.646206173	0.172705864	Quando il cane dei vicini abbaiava loro chiamavano sempre i carabinieri.	acceptability	mancini_etal_2018
+AC-01-R0817	12	6.416666667	0.99620492	0.287579589	Ogni anno loro sprecavano tonnellate di carta per fare fotocopie.	acceptability	mancini_etal_2018
+AC-01-R0818	28	5.678571429	1.362284884	0.257447644	Sono i critici che voi artisti avete impressionato al concorso internazionale.	acceptability	chesi_canal_2019
+AC-01-R0819	85	5.223529412	1.450586668	0.157338215	Quale cameriere non sa chi ha preparato questo piatto la scorsa settimana?	acceptability	villata_etal_2015
+AC-01-R0820	11	3	1.341640786	0.404519917	Hanno letto i cuochi la ricetta.	acceptability	greco_etal_2020
+AC-01-R0821	14	6.428571429	0.851630627	0.227607859	Mentre il pubblico applaudiva io continuavo a gioire di tanto successo.	acceptability	mancini_etal_2018
+AC-01-R0822	11	3.090909091	1.300349603	0.392070157	Hanno coltivato gli agricoltori il campo.	acceptability	greco_etal_2020
+AC-01-R0823	10	3.7	2.057506582	0.65064071	Hanno aperto i commessi il negozio.	acceptability	greco_etal_2020
+AC-01-R0824	11	3.909090909	1.700267359	0.512649897	Secondo te hanno pulito le casalinghe il bagno?	acceptability	greco_etal_2020
+AC-01-R0825	10	7	0	0	I lupi hanno ululato.	acceptability	greco_etal_2020
+AC-01-R0826	16	4.625	2.334523506	0.583630876	Le urbanizzazioni della capitale sono la sintesi della storia.	acceptability	greco_etal_2020
+AC-01-R0827	12	1.916666667	1.083624669	0.312815497	Mentre il pubblico applaudiva lui continuavano a gioire di tanto successo.	acceptability	mancini_etal_2018
+AC-01-R0828	10	7	0	0	Gli ospiti hanno russato.	acceptability	greco_etal_2020
+AC-01-R0829	14	1.857142857	1.460091823	0.390225954	Durante la stagione fredda lui curavano sempre il raffreddore con i rimedi naturali.	acceptability	mancini_etal_2018
+AC-01-R0830	16	6.5	0.816496581	0.204124145	Secondo te i ventilatori hanno rinfrescato la stanza?	acceptability	greco_etal_2020
+AC-01-R0831	18	1.555555556	0.783823376	0.184748942	Quando la crema era molto densa loro aggiungeva un po' di latte.	acceptability	mancini_etal_2018
+AC-01-R0832	18	5.5	1.855040827	0.437237316	La motivazione dell'ammutinamento sono i cambi della rotta.	acceptability	greco_etal_2020
+AC-01-R0833	10	2.7	1.567021236	0.495535625	Hanno coperto le bende le ustioni.	acceptability	greco_etal_2020
+AC-01-R0834	10	5	1.825741858	0.577350269	Sono gli scrittori che gli editori hanno sollecitato alla fine della fiera.	acceptability	chesi_canal_2019
+AC-01-R0835	11	4.636363636	1.206045378	0.363636364	Hanno pedalato i ciclisti.	acceptability	greco_etal_2020
+AC-01-R0836	14	6.785714286	0.425815314	0.11380393	Di solito io accettavo i lavori di traduzione solo con pagamento anticipato.	acceptability	mancini_etal_2018
+AC-01-R0837	16	6.8125	0.403112887	0.100778222	I festeggiamenti sono degenerati.	acceptability	greco_etal_2020
+AC-01-R0838	11	4.454545455	1.863525496	0.561874078	La salvezza dell'attività sono le svendite della merce.	acceptability	greco_etal_2020
+AC-01-R0839	11	6	1.549193338	0.467099366	Le fortificazioni del palazzo sono il limite del latifondo.	acceptability	greco_etal_2020
+AC-01-R0840	16	3.5625	1.547847968	0.386961992	Secondo te la protezione della fauna sono le recinzioni della proprietà?	acceptability	greco_etal_2020
+AC-01-R0841	18	2.722222222	2.371536002	0.558976396	Quando il cane dei vicini abbaiava io chiamavamo sempre i carabinieri.	acceptability	mancini_etal_2018
+AC-01-R0842	14	5.714285714	0.994490316	0.265788717	In ufficio erano tutti scontenti perché lui approvava il progetto del direttore.	acceptability	mancini_etal_2018
+AC-01-R0843	18	1.777777778	1.308594017	0.308438568	Quando gli studenti erano troppo indisciplinati io richiedevamo la presenza del preside.	acceptability	mancini_etal_2018
+AC-01-R0844	11	6	1.414213562	0.426401433	Secondo te sono marcite le cipolle?	acceptability	greco_etal_2020
+AC-01-R0845	17	4.882352941	1.763602596	0.427736458	L'origine della controversia sono le descrizioni del castello.	acceptability	greco_etal_2020
+AC-01-R0846	10	6.3	1.33749351	0.422952585	Secondo te le cipolle sono marcite?	acceptability	greco_etal_2020
+AC-01-R0847	18	1.833333333	1.382665797	0.325897454	I gatti entravano sempre in casa mentre loro serviva la cena.	acceptability	mancini_etal_2018
+AC-01-R0848	17	5.470588235	1.545867356	0.374927905	Sono gli infermieri che voi primari avete chiamato in sala operatoria.	acceptability	chesi_canal_2019
+AC-01-R0849	14	1.714285714	1.204387583	0.321886121	Tutte le domeniche durante la messa tu eseguivate un pezzo al pianoforte.	acceptability	mancini_etal_2018
+AC-01-R0850	12	6.416666667	0.792961461	0.228908257	Tutte le domeniche durante la messa tu eseguivi un pezzo al pianoforte.	acceptability	mancini_etal_2018
+AC-01-R0851	16	4.4375	2.220172666	0.555043166	La testimonianza del malessere sono le dichiarazioni della protesta.	acceptability	greco_etal_2020
+AC-01-R0852	12	6	1.279204298	0.369274473	Prima della fine di ogni mese lui concludeva la lavorazione di tutti i capitoli.	acceptability	mancini_etal_2018
+AC-01-R0853	17	6.470588235	1.007326105	0.244312467	Secondo te gli autobus sono partiti?	acceptability	greco_etal_2020
+AC-01-R0854	10	5.6	1.0749677	0.339934634	Secondo te hanno convissuto i fidanzati?	acceptability	greco_etal_2020
+AC-01-R0855	12	6.333333333	0.778498944	0.224733287	Mentre gli invitati giocavano a carte loro suonavano il pianoforte.	acceptability	mancini_etal_2018
+AC-01-R0856	30	2.533333333	1.332183412	0.243222302	Siete voi custodi che voi postini avete interpellato per aprire la cassetta.	acceptability	chesi_canal_2019
+AC-01-R0857	12	5.416666667	1.676486224	0.483959886	Il professore si arrabbiava quando tu modificavi il piano di lavoro.	acceptability	mancini_etal_2018
+AC-01-R0858	16	3.375	1.310216267	0.327554067	Hanno abbassato i negozianti il prezzo.	acceptability	greco_etal_2020
+AC-01-R0859	30	4.9	1.807074221	0.329925105	Siete voi ballerini che i coreografi hanno ringraziato alla prima dello spettacolo.	acceptability	chesi_canal_2019
+AC-01-R0860	11	4.727272727	1.793929156	0.540889992	La conclusione della festa sono i racconti del viaggio.	acceptability	greco_etal_2020
+AC-01-R0861	17	3	1.414213562	0.34299717	Hanno accordato gli specialisti lo strumento.	acceptability	greco_etal_2020
+AC-01-R0862	14	1.785714286	1.368804724	0.365828451	Quando il bambino non arrivava lui informavano i genitori.	acceptability	mancini_etal_2018
+AC-01-R0863	17	5.176470588	1.845104811	0.447503649	Secondo te le interpretazioni del risultato sono la conferma dell'ipotesi?	acceptability	greco_etal_2020
+AC-01-R0864	10	6.1	1.286683938	0.406885187	Secondo te i treni sono deragliati?	acceptability	greco_etal_2020
+AC-01-R0865	30	2.6	1.544735219	0.282028775	Siete voi giornalisti che voi consiglieri avete accolto all'entrata del palazzo.	acceptability	chesi_canal_2019
+AC-01-R0866	12	1.666666667	1.23091491	0.355334527	Prima che il presidente andasse in pensione loro otteneva dei vantaggi.	acceptability	mancini_etal_2018
+AC-01-R0867	18	5.777777778	1.555088632	0.366537906	Lucia diceva che lui ingannava il nostro datore di lavoro.	acceptability	mancini_etal_2018
+AC-01-R0868	14	6.714285714	0.611249846	0.163363393	Mentre il pubblico applaudiva noi continuavamo a gioire di tanto successo.	acceptability	mancini_etal_2018
+AC-01-R0869	10	6.8	0.421637021	0.133333333	Secondo te gli adolescenti hanno apprezzato il videogioco?	acceptability	greco_etal_2020
+AC-01-R0870	17	6.294117647	0.919558718	0.223025748	Le trascrizioni dell'intercettazione sono la documentazione del crimine.	acceptability	greco_etal_2020
+AC-01-R0871	11	6.090909091	1.136181804	0.342571703	Secondo te i vicini sono scesi?	acceptability	greco_etal_2020
+AC-01-R0872	17	6.117647059	1.576481563	0.382352941	Sono scappati i nemici.	acceptability	greco_etal_2020
+AC-01-R0873	17	5.058823529	1.784327192	0.432762911	Sono lievitati i debiti.	acceptability	greco_etal_2020
+AC-01-R0874	11	4.272727273	1.348399725	0.406557814	La rovina del paese sono le motivazioni dello scandalo.	acceptability	greco_etal_2020
+AC-01-R0875	17	4.058823529	2.105664629	0.510698687	Secondo te la rovina del paese sono le motivazioni dello scandalo?	acceptability	greco_etal_2020
+AC-01-R0876	10	6.2	0.918936583	0.290593263	Secondo te sono partiti gli autobus?	acceptability	greco_etal_2020
+AC-01-R0877	17	5.764705882	1.601928984	0.388524847	Secondo te hanno starnutito i malati?	acceptability	greco_etal_2020
+AC-01-R0878	28	2.321428571	1.389206313	0.262535316	Siete voi ballerini che voi coreografi avete ringraziato alla prima dello spettacolo.	acceptability	chesi_canal_2019
+AC-01-R0879	11	6.727272727	0.904534034	0.272727273	I fidanzati hanno convissuto.	acceptability	greco_etal_2020
+AC-01-R0880	11	6.818181818	0.603022689	0.181818182	I cuccioli sono nati.	acceptability	greco_etal_2020
+AC-01-R0881	11	6	0.894427191	0.269679945	Sono sopravvissute le sorelle.	acceptability	greco_etal_2020
+AC-01-R0882	16	5.3125	1.851800925	0.462950231	Secondo te il motivo del malumore sono le devastazioni del territorio?	acceptability	greco_etal_2020
+AC-01-R0883	14	1.785714286	1.368804724	0.365828451	Prima di evadere un ordine tu contavate sempre i pezzi in ogni scatola.	acceptability	mancini_etal_2018
+AC-01-R0884	85	2.223529412	1.357312388	0.147221199	Quale edificio ti chiedi chi ha costruito negli anni Sessanta?	acceptability	villata_etal_2015
+AC-01-R0885	12	1.666666667	1.07308674	0.309773459	Di solito nel secondo semestre noi seguivo il corso di storia.	acceptability	mancini_etal_2018
+AC-01-R0886	10	6.2	1.549193338	0.489897949	I racconti del viaggio sono la conclusione della festa.	acceptability	greco_etal_2020
+AC-01-R0887	85	4.388235294	1.909213985	0.207083332	Quale piatto credi che ha preparato la scorsa settimana?	acceptability	villata_etal_2015
+AC-01-R0888	30	2.166666667	1.288766674	0.235295526	Siete voi geometri che voi costruttori avete accusato per il crollo del ponte.	acceptability	chesi_canal_2019
+AC-01-R0889	16	5.3125	1.579820665	0.394955166	Secondo te hanno scioperato gli operai?	acceptability	greco_etal_2020
+AC-01-R0890	10	2.3	1.82878223	0.578311719	Siete voi architetti che voi ingegneri avete consultato prima di iniziare i lavori.	acceptability	chesi_canal_2019
+AC-01-R0891	12	2.083333333	1.621353718	0.468044503	Le ragazze si arrabbiavano se io limitavamo le loro uscite durante la settimana.	acceptability	mancini_etal_2018
+AC-01-R0892	28	5.464285714	1.621205378	0.306379018	Sono i ministri che voi deputati avete insultato durante la sessione parlamentare.	acceptability	chesi_canal_2019
+AC-01-R0893	85	4.282352941	1.949430715	0.211445449	Quale articolo credi che ha scritto in un pomeriggio?	acceptability	villata_etal_2015
+AC-01-R0894	28	5.071428571	1.631372325	0.30830039	Siete voi idraulici che gli elettricisti hanno visto nella casa in ristrutturazione.	acceptability	chesi_canal_2019
+AC-01-R0895	14	1.785714286	1.42389344	0.380551529	La direttrice ha capito che loro firmava le giustificazioni delle assenze.	acceptability	mancini_etal_2018
+AC-01-R0896	85	5.058823529	1.530273405	0.165981455	Quale collega sa quale giornalista ha scritto questo articolo in un pomeriggio?	acceptability	villata_etal_2015
+AC-01-R0897	10	5.4	1.776388346	0.561743318	Secondo te il simbolo della stagione sono le potature della vigna?	acceptability	greco_etal_2020
+AC-01-R0898	11	4.727272727	2.053821272	0.619250413	Secondo te le recite della preghiera sono la caratteristica del convento?	acceptability	greco_etal_2020
+AC-01-R0899	17	2.705882353	1.403776419	0.340465791	Secondo te hanno coperto le bende le ustioni?	acceptability	greco_etal_2020
+AC-01-R0900	12	1.666666667	1.23091491	0.355334527	Quando gli invitati erano in ritardo noi avvertivo sempre il ristorante.	acceptability	mancini_etal_2018
+AC-01-R0901	17	6.058823529	1.638237934	0.397331061	Sono caduti i quadri.	acceptability	greco_etal_2020
+AC-01-R0902	17	6.529411765	0.624264273	0.151406326	Secondo te i gatti hanno miagolato?	acceptability	greco_etal_2020
+AC-01-R0903	14	6.428571429	0.646206173	0.172705864	Ogni volta che arrivava il direttore io cambiavo umore.	acceptability	mancini_etal_2018
+AC-01-R0904	10	5.4	1.349897115	0.426874949	Sono ingrassati i maiali.	acceptability	greco_etal_2020
+AC-01-R0905	10	6.5	1.269295518	0.401386486	I mobili hanno riempito la stanza.	acceptability	greco_etal_2020
+AC-01-R0906	16	6	1.316561177	0.329140294	Secondo te i fuochi hanno scaldato l'accampamento?	acceptability	greco_etal_2020
+AC-01-R0907	17	6.235294118	1.347655917	0.32685457	Secondo te sono soddisfatti i clienti?	acceptability	greco_etal_2020
+AC-01-R0908	10	6.8	0.421637021	0.133333333	I ventilatori hanno rinfrescato la stanza.	acceptability	greco_etal_2020
+AC-01-R0909	12	6.166666667	1.114640858	0.3217691	Appena la mamma usciva di casa noi accendevamo il televisore in cucina.	acceptability	mancini_etal_2018
+AC-01-R0910	10	5.4	2.221110833	0.702376917	Secondo te il limite del latifondo sono le fortificazioni del palazzo?	acceptability	greco_etal_2020
+AC-01-R0911	30	5.3	1.578956443	0.288276687	Siete voi giocatori che gli allenatori hanno incolpato per l'esito della partita.	acceptability	chesi_canal_2019
+AC-01-R0912	12	1.5	0.797724035	0.230283093	In ufficio erano tutti scontenti perché noi approvavo il progetto del direttore.	acceptability	mancini_etal_2018
+AC-01-R0913	12	5.25	1.658312395	0.478713554	Anche se il direttore non voleva loro accordavano il prestito al cliente.	acceptability	mancini_etal_2018
+AC-01-R0914	11	6.909090909	0.301511345	0.090909091	Gli scalatori sono precipitati.	acceptability	greco_etal_2020
+AC-01-R0915	16	6.6875	0.704154339	0.176038585	Le cipolle sono marcite.	acceptability	greco_etal_2020
+AC-01-R0916	14	5.571428571	1.398586414	0.373787942	Voci di corridoio dicono che noi evitavamo la segretaria del dipartimento.	acceptability	mancini_etal_2018
+AC-01-R0917	17	6.882352941	0.332105582	0.080547435	Gli anziani hanno guardato la televisione.	acceptability	greco_etal_2020
+AC-01-R0918	18	6.666666667	0.594088526	0.140028008	Prima di chiudere la cucina del ristorante tu asciugavi tutti i piatti.	acceptability	mancini_etal_2018
+AC-01-R0919	12	5.75	1.422226168	0.41056133	Da un po' di tempo loro consideravano il comunismo ormai morto.	acceptability	mancini_etal_2018
+AC-01-R0920	17	6.823529412	0.52859414	0.12820291	Gli adolescenti hanno apprezzato il videogioco.	acceptability	greco_etal_2020
+AC-01-R0921	14	4.214285714	1.717716348	0.459079004	Se il treno non arrivava noi saltavamo la prima parte dello spettacolo.	acceptability	mancini_etal_2018
+AC-01-R0922	11	4.909090909	1.136181804	0.342571703	Hanno muggito le mucche.	acceptability	greco_etal_2020
+AC-01-R0923	16	5.0625	1.652018967	0.413004742	I cambi della rotta sono la motivazione dell'ammutinamento.	acceptability	greco_etal_2020
+AC-01-R0924	14	1.928571429	1.268814451	0.339104926	Se la banca non accordava il prestito loro rischiava il fallimento.	acceptability	mancini_etal_2018
+AC-01-R0925	17	6.823529412	0.727606875	0.176470588	I tronchi hanno bloccato il sentiero.	acceptability	greco_etal_2020
+AC-01-R0926	17	5.764705882	1.562426469	0.37894408	Secondo te sono crollate le mura?	acceptability	greco_etal_2020
+AC-01-R0927	28	4.678571429	1.700840129	0.321428571	Siete voi macchinisti che i controllori hanno salutato alla stazione di Milano.	acceptability	chesi_canal_2019
+AC-01-R0928	17	6.882352941	0.332105582	0.080547435	I commessi hanno aperto il negozio.	acceptability	greco_etal_2020
+AC-01-R0929	11	5.818181818	1.60113596	0.482760656	Secondo te le decorazioni della villa sono il motivo dello stupore?	acceptability	greco_etal_2020
+AC-01-R0930	16	4.5	2.033060091	0.508265023	Secondo te i prosciugamenti del canale sono la protezione della città?	acceptability	greco_etal_2020
+AC-01-R0931	11	3.818181818	1.778661397	0.536286589	Secondo te l'identificazione della nazione sono le raffigurazioni della vittori	acceptability	greco_etal_2020
+AC-01-R0932	11	4.272727273	1.902151891	0.573520374	Secondo te l'origine della controversia sono le descrizioni del castello?	acceptability	greco_etal_2020
+AC-01-R0933	10	6.1	1.370320319	0.433333333	Sono scomparse le prove.	acceptability	greco_etal_2020
+AC-01-R0934	16	6.4375	1.263262971	0.315815743	I camion hanno frenato.	acceptability	greco_etal_2020
+AC-01-R0935	14	1.571428571	1.089409559	0.291156952	Nel corso dell'anno voi prevedevi molte sconfitte per la Fiorentina.	acceptability	mancini_etal_2018
+AC-01-R0936	11	5.545454545	1.634847783	0.492925153	Secondo te hanno telefonato le insegnanti?	acceptability	greco_etal_2020
+AC-01-R0937	84	4.333333333	1.68861056	0.184242517	Quale turista si chiede quale ingegnere ha costruito questo edificio negli anni Sessanta? 	acceptability	villata_etal_2015
+AC-01-R0938	10	5.3	1.418136492	0.448454135	Hanno scioperato gli operai.	acceptability	greco_etal_2020
+AC-01-R0939	11	5.363636364	1.026910636	0.309625207	Hanno ululato i lupi.	acceptability	greco_etal_2020
+AC-01-R0940	17	2.764705882	2.077540967	0.503877697	Siete voi cantanti che voi musicisti avete riconosciuto al concerto di beneficenza.	acceptability	chesi_canal_2019
+AC-01-R0941	14	1.857142857	1.350620533	0.360968521	Quando il dipartimento concedeva dei fondi voi spendevi tutti i soldi in trasferte.	acceptability	mancini_etal_2018
+AC-01-R0942	12	6.416666667	0.792961461	0.228908257	Durante il concorso lui selezionava sempre le ragazze più belle.	acceptability	mancini_etal_2018
+AC-01-R0943	85	4.494117647	1.949502558	0.211453241	Quale problema credi che ha risolto in un'ora?	acceptability	villata_etal_2015
+AC-01-R0944	12	5.333333333	1.723280874	0.497468338	Per contrastare la crescente criminalità voi difendevate la casa con un recinto.	acceptability	mancini_etal_2018
+AC-01-R0945	14	5.928571429	0.916874768	0.245045089	Il falegname è arrivato mentre loro montavano la mensola.	acceptability	mancini_etal_2018
+AC-01-R0946	14	1.785714286	1.368804724	0.365828451	Quando le cose si mettevano male voi esprimevi la rabbia piangendo.	acceptability	mancini_etal_2018
+AC-01-R0947	10	6.3	1.159501809	0.366666667	Sono esondati i fiumi.	acceptability	greco_etal_2020
+AC-01-R0948	17	6.058823529	1.519481336	0.368528355	Secondo te hanno ululato i lupi?	acceptability	greco_etal_2020
+AC-01-R0949	14	5.857142857	0.770328887	0.205879055	Quando gli studenti erano troppo indisciplinati lui richiedeva la presenza del preside.	acceptability	mancini_etal_2018
+AC-01-R0950	14	5.428571429	1.696797242	0.453488138	Con dell'olio rimasto noi friggevamo le melanzane.	acceptability	mancini_etal_2018
+AC-01-R0951	85	2.823529412	1.648783611	0.178835692	Quale piatto non sai chi ha preparato la scorsa settimana?	acceptability	villata_etal_2015
+AC-01-R0952	18	6.777777778	0.548318881	0.12924	I ladri hanno svaligiato la villa.	acceptability	greco_etal_2020
+AC-01-R0953	18	4.944444444	1.661757476	0.391679993	Se la banca non accordava il prestito loro rischiavano il fallimento.	acceptability	mancini_etal_2018
+AC-01-R0954	12	6.333333333	0.778498944	0.224733287	Tutte le sere tu preparavi la cartella per la mattina.	acceptability	mancini_etal_2018
+AC-01-R0955	12	6.666666667	0.492365964	0.142133811	Quando la crema era molto densa lui aggiungeva un po' di latte.	acceptability	mancini_etal_2018
+AC-01-R0956	16	2.375	1.024695077	0.256173769	Hanno filtrato i vetri la luce.	acceptability	greco_etal_2020
+AC-01-R0957	10	2	1.414213562	0.447213595	Siete voi camerieri che i cassieri avete rimproverato dopo la chiusura del ristorante.	acceptability	chesi_canal_2019
+AC-01-R0958	18	1.944444444	1.696786659	0.399936451	Anche se il direttore non voleva lui accordavano il prestito al cliente.	acceptability	mancini_etal_2018
+AC-01-R0959	11	5.818181818	1.470930441	0.443502215	Secondo te hanno bestemmiato i ragazzi?	acceptability	greco_etal_2020
+AC-01-R0960	16	5.625	1.310216267	0.327554067	Secondo te sono scesi i vicini?	acceptability	greco_etal_2020
+AC-01-R0961	10	4.9	1.523883927	0.48189441	Secondo te la testimonianza del malessere sono le dichiarazioni della protesta?	acceptability	greco_etal_2020
+AC-01-R0962	12	1.5	0.797724035	0.230283093	Nel corso dell'anno lui prevedevano molte sconfitte per la Fiorentina.	acceptability	mancini_etal_2018
+AC-01-R0963	11	3.272727273	1.009049958	0.30424001	Secondo te hanno registrato le telecamere l'evento?	acceptability	greco_etal_2020
+AC-01-R0964	12	1.75	1.055289706	0.304635898	Anche se il direttore non voleva loro accordava il prestito al cliente.	acceptability	mancini_etal_2018
+AC-01-R0965	17	7	0	0	I maiali sono ingrassati.	acceptability	greco_etal_2020
+AC-01-R0966	10	4.1	2.024845673	0.640312424	Hanno pattinato le ragazze.	acceptability	greco_etal_2020
+AC-01-R0967	11	6.363636364	1.501514387	0.452723622	I relitti sono sprofondati.	acceptability	greco_etal_2020
+AC-01-R0968	11	6.363636364	1.501514387	0.452723622	Secondo te i commessi hanno aperto il negozio?	acceptability	greco_etal_2020
+AC-01-R0969	11	5.090909091	1.375103302	0.414609245	Hanno abbaiato i cani.	acceptability	greco_etal_2020
+AC-01-R0970	18	1.444444444	0.704792186	0.166121111	Prima di spegnere il computer noi salvavo tutto sul server.	acceptability	mancini_etal_2018
+AC-01-R0971	11	5.909090909	1.445997611	0.435984684	Secondo te sono ammuffite le patate?	acceptability	greco_etal_2020
+AC-01-R0972	16	6.375	0.957427108	0.239356777	Secondo te i ciclisti hanno pedalato?	acceptability	greco_etal_2020
+AC-01-R0973	28	4.928571429	1.67616342	0.316765112	Siete voi attori che i registi hanno incoraggiato prima dello spettacolo.	acceptability	chesi_canal_2019
+AC-01-R0974	17	6.823529412	0.52859414	0.12820291	I falegnami hanno costruito il tavolo.	acceptability	greco_etal_2020
+AC-01-R0975	17	5.470588235	1.699913493	0.412289581	Sono i politici che i sindacalisti hanno criticato alla manifestazione in piazza.	acceptability	chesi_canal_2019
+AC-01-R0976	17	6.647058824	0.785905248	0.190610021	Secondo te le automobili hanno sbandato?	acceptability	greco_etal_2020
+AC-01-R0977	14	6.285714286	0.913873533	0.244242976	Le ragazze si arrabbiavano se lui limitava le loro uscite durante la settimana.	acceptability	mancini_etal_2018
+AC-01-R0978	28	5.25	1.601503923	0.302655793	Sono i turisti che voi bagnini avete aiutato sulla spiaggia affollata.	acceptability	chesi_canal_2019
+AC-01-R0979	17	6.588235294	1.460257834	0.354164546	I giocatori hanno barato.	acceptability	greco_etal_2020
+AC-01-R0980	10	5.4	1.429840706	0.452155332	Sono impazziti i giudici.	acceptability	greco_etal_2020
+AC-01-R0981	12	1.5	0.797724035	0.230283093	Tutti sanno che loro cantava i salmi in chiesa.	acceptability	mancini_etal_2018
+AC-01-R0982	10	6.6	0.699205899	0.221108319	Secondo te sono bastate le provviste?	acceptability	greco_etal_2020
+AC-01-R0983	17	5.588235294	1.622452755	0.393502593	La causa della rivolta sono le foto del muro.	acceptability	greco_etal_2020
+AC-01-R0984	10	5.8	1.229272594	0.388730126	Secondo te hanno gareggiato le ginnaste?	acceptability	greco_etal_2020
+AC-01-R0985	10	6.7	0.674948558	0.213437475	Secondo te gli alpinisti hanno sciato?	acceptability	greco_etal_2020
+AC-01-R0986	10	2.9	1.523883927	0.48189441	Secondo te hanno ricoperto i pannelli il tetto?	acceptability	greco_etal_2020
+AC-01-R0987	28	2.464285714	1.773929366	0.335241139	Siete voi pagliacci che voi domatori avete preceduto all'ingresso in sala.	acceptability	chesi_canal_2019
+AC-01-R0988	85	4.470588235	1.848990943	0.200551226	Quale articolo credi che il giornalista ha scritto in un pomeriggio?	acceptability	villata_etal_2015
+AC-01-R0989	11	6.363636364	1.501514387	0.452723622	Secondo te i tronchi hanno bloccato il sentiero?	acceptability	greco_etal_2020
+AC-01-R0990	14	5.928571429	1.268814451	0.339104926	I dipendenti scioperavano sempre se noi imponevamo turni di lavoro più lunghi.	acceptability	mancini_etal_2018
+AC-01-R0991	12	5.25	1.138180366	0.32856437	Se si verificava una perdita di acqua voi fermavate ogni volta il depuratore.	acceptability	mancini_etal_2018
+AC-01-R0992	85	1.705882353	0.997896948	0.108237121	Cosa ti chiedi chi ha costruito negli anni Sessanta?	acceptability	villata_etal_2015
+AC-01-R0993	16	6	1.591644852	0.397911213	Secondo te gli uccelli hanno cinguettato?	acceptability	greco_etal_2020
+AC-01-R0994	28	5.035714286	2.099067568	0.396686484	Sono i marinai che i passeggeri hanno avvertito prima del naufragio.	acceptability	chesi_canal_2019
+AC-01-R0995	11	4.181818182	1.250454463	0.377026206	Secondo te la conclusione dello sciopero sono le dichiarazioni dell'accordo?	acceptability	greco_etal_2020
+AC-01-R0996	14	1.785714286	1.368804724	0.365828451	Mentre il bambino dormiva lui pulivano la cucina.	acceptability	mancini_etal_2018
+AC-01-R0997	12	5.416666667	1.240112409	0.357989617	Quando il bambino non arrivava loro informavano i genitori.	acceptability	mancini_etal_2018
+AC-01-R0998	17	4.941176471	1.853057886	0.449432553	Secondo te le svendite della merce sono la salvezza dell'attività?	acceptability	greco_etal_2020
+AC-01-R0999	17	5.705882353	1.896203638	0.459896934	Secondo te le stesure della costituzione sono il fondamento dello stato?	acceptability	greco_etal_2020
+AC-01-R1000	14	1.928571429	1.491735474	0.398683075	Anche senza supporto popolare loro proseguiva la lotta alla mafia.	acceptability	mancini_etal_2018
+AC-01-R1001	85	2.270588235	1.591556855	0.172628579	Quale problema ti chiedi chi ha risolto in un'ora?	acceptability	villata_etal_2015
+AC-01-R1002	18	6	1.371988681	0.323380833	Qualcuno ha detto che lui scriveva una lettera a casa ogni sera.	acceptability	mancini_etal_2018
+AC-01-R1003	17	6.411764706	1.502448981	0.364397403	Sono ammuffite le patate.	acceptability	greco_etal_2020
+AC-01-R1004	18	2	1.84709629	0.435364771	Per produrre questi abiti noi impiegavo solo stoffe di prima qualità.	acceptability	mancini_etal_2018
+AC-01-R1005	16	5.625	1.5	0.375	Il limite del latifondo sono le fortificazioni del palazzo.	acceptability	greco_etal_2020
+AC-01-R1006	18	6.666666667	0.685994341	0.161690417	Mentre il bambino dormiva loro pulivano la cucina.	acceptability	mancini_etal_2018
+AC-01-R1007	17	6.294117647	1.046703509	0.25386289	Secondo te sono arrivati gli ospiti?	acceptability	greco_etal_2020
+AC-01-R1008	11	6.363636364	1.501514387	0.452723622	Secondo te i negozianti hanno protestato?	acceptability	greco_etal_2020
+AC-01-R1009	12	1.583333333	0.99620492	0.287579589	Lucia diceva che voi ingannavi il nostro datore di lavoro.	acceptability	mancini_etal_2018
+AC-01-R1010	14	1.785714286	1.368804724	0.365828451	Prima di chiudere la cucina del ristorante voi asciugavi tutti i piatti.	acceptability	mancini_etal_2018
+AC-01-R1011	16	3.5	1.316561177	0.329140294	Hanno svolto i computer il calcolo.	acceptability	greco_etal_2020
+AC-OC-02-R0540	13	2.615384615	1.120897077	0.310880914	Ci mostrarono il paziente che Maria voleva vederlo e il dottore visitarlo.	acceptability	Artif_Data:_chowdhury_zamparelli_2018
+AC-OC-02-R0541	12	3.25	1.912875038	0.552199459	Questo candidato, il professore ha detto che lo studente avrebbe dovuto descrivere questo problema.	acceptability	Artif_Data:_chowdhury_zamparelli_2018
+AC-OC-02-R0542	12	1.916666667	1.781640375	0.514315275	Chi è che lei dovrebbe descrivere questo problema?	acceptability	Artif_Data:_chowdhury_zamparelli_2018
+AC-OC-02-R0543	14	3.357142857	1.499083969	0.400647043	Sapevo che Maria aveva chiamato e Marco medicato .	acceptability	Artif_Data:_chowdhury_zamparelli_2018
+AC-OC-02-R0544	13	6.692307692	0.480384461	0.133234678	Quale problema lo studente dovrebbe descrivere?	acceptability	Artif_Data:_chowdhury_zamparelli_2018
+AC-OC-02-R0545	14	3.285714286	1.857565463	0.496455253	Carlo conosceva bene la persona con cui fare qualcosa divertiva sempre Sara.	acceptability	Artif_Data:_chowdhury_zamparelli_2018
+AC-OC-02-R0546	11	6	1.897366596	0.572077554	Maria sostiene di avere già finito questo esercizio in tempo utile.	acceptability	Artif_Data:_chowdhury_zamparelli_2018
+AC-OC-02-R0547	15	5.866666667	1.641718032	0.423889773	Ci mostrarono il paziente che Maria voleva vedere e Marco medicare.	acceptability	Artif_Data:_chowdhury_zamparelli_2018
+AC-OC-02-R0548	12	2.75	1.484771179	0.42861652	Che cos'è che lui ha detto che Carla avrebbe dovuto menzionare questo problema?	acceptability	Artif_Data:_chowdhury_zamparelli_2018
+AC-OC-02-R0549	13	6.615384615	0.650443636	0.180400606	Maria ha saputo dove Carlo incontrerà i dottori.	acceptability	Artif_Data:_chowdhury_zamparelli_2018
+AC-OC-02-R0550	12	1.916666667	1.240112409	0.357989617	Conoscevo il paziente che l'infermiera voleva vederlo e Marco testarlo.	acceptability	Artif_Data:_chowdhury_zamparelli_2018
+AC-OC-02-R0551	15	2.666666667	1.345185418	0.347325382	Chi è che lo studente dovrebbe considerare questo problema?	acceptability	Artif_Data:_chowdhury_zamparelli_2018
+AC-OC-02-R0552	14	6	0.960768923	0.256776296	Sapevo che l'infermiera voleva registrarlo e Marco visitarlo.	acceptability	Artif_Data:_chowdhury_zamparelli_2018
+AC-OC-02-R0553	15	4.666666667	2.058663459	0.53154462	Carla dovrebbe menzionare.	acceptability	Artif_Data:_chowdhury_zamparelli_2018
+AC-OC-02-R0554	15	3.066666667	1.830950833	0.472749472	Sapevo chi l'infermiera voleva registrarlo e Marco visitare.	acceptability	Artif_Data:_chowdhury_zamparelli_2018
+AC-OC-02-R0555	14	2.357142857	1.549547967	0.414134114	Ci dissero Chi l'infermiera aveva registrato un uomo e il dottore visitato l'anziano signore.	acceptability	Artif_Data:_chowdhury_zamparelli_2018
+AC-OC-02-R0556	15	4.733333333	2.016597795	0.520683312	Maria si aspetta che qualcuno possa aver finito alcunchè in così poco tempo?	acceptability	Artif_Data:_chowdhury_zamparelli_2018
+AC-OC-02-R0557	14	2.071428571	1.491735474	0.398683075	Chi è che il professore ha pensato che Carla avrebbe dovuto menzionare questo candidato?	acceptability	Artif_Data:_chowdhury_zamparelli_2018
+AC-OC-02-R0558	15	5.666666667	1.588650221	0.410187723	Nessuno studente si aspetta che un altro studente abbia mai finito questo esercizio in tempo utile?	acceptability	Artif_Data:_chowdhury_zamparelli_2018
+AC-OC-02-R0559	15	2.6	1.242118007	0.32071349	Ci mostrarono il paziente che Maria aveva visto un paziente e il dottore visitato un malato.	acceptability	Artif_Data:_chowdhury_zamparelli_2018
+AC-OC-02-R0560	13	5.076923077	1.934835844	0.536626911	Nessuno studente sospetta che qualcuno abbia mai finito questo esercizio in tempo utile?	acceptability	Artif_Data:_chowdhury_zamparelli_2018
+AC-OC-02-R0561	12	6.083333333	1.311372171	0.378560538	Sapevo che Maria voleva chiamarlo e Marco visitarlo.	acceptability	Artif_Data:_chowdhury_zamparelli_2018
+AC-OC-02-R0562	15	2.933333333	1.222799287	0.315725418	Quale candidato Susanna ha pensato che lo studente avrebbe dovuto considerarlo?	acceptability	Artif_Data:_chowdhury_zamparelli_2018
+AC-OC-02-R0563	14	3.357142857	1.499083969	0.400647043	Maria sostiene di avere mai finito questo esercizio in tempo utile .	acceptability	Artif_Data:_chowdhury_zamparelli_2018
+AC-OC-02-R0564	12	6.333333333	0.984731928	0.284267622	Quale candidato Carla dovrebbe considerare?	acceptability	Artif_Data:_chowdhury_zamparelli_2018
+AC-OC-02-R0565	14	5.357142857	1.645840578	0.439869397	Maria ti ha detto dove il ministro parlerà col diplomatico.	acceptability	Artif_Data:_chowdhury_zamparelli_2018
+AC-OC-02-R0566	14	6.428571429	0.755928946	0.202030509	Carlo conosceva bene la persona che Anna sperava sempre di incontrare .	acceptability	Artif_Data:_chowdhury_zamparelli_2018
+AC-OC-02-R0567	15	6.266666667	1.387014608	0.358125632	il professore ha detto che lo studente avrebbe dovuto descrivere questo problema.	acceptability	Artif_Data:_chowdhury_zamparelli_2018
+AC-OC-02-R0568	15	2.666666667	1.951800146	0.503952631	Chi dici che l'infermiera voglia chiamarlo e il dottore visitarlo?	acceptability	Artif_Data:_chowdhury_zamparelli_2018
+AC-OC-02-R0569	15	2.4	1.45405836	0.375436254	Ci dissero Chi Maria aveva chiamato un uomo e Marco visitato l'anziano signore.	acceptability	Artif_Data:_chowdhury_zamparelli_2018
+AC-OC-02-R0570	14	1.571428571	0.851630627	0.227607859	Quale candidato Carla dovrebbe considerare questo candidato?	acceptability	Artif_Data:_chowdhury_zamparelli_2018
+AC-OC-02-R0571	15	3.066666667	1.624221425	0.419372169	Quale problema il giornalista ha suggerito che Susanna aveva pensato che Carla avrebbe dovuto menzionarlo?	acceptability	Artif_Data:_chowdhury_zamparelli_2018
+AC-OC-02-R0572	15	6.466666667	0.915475416	0.236374736	Maria ti ha detto quando il ministro parlerà col diplomatico.	acceptability	Artif_Data:_chowdhury_zamparelli_2018
+AC-OC-02-R0573	15	3.866666667	1.457329587	0.376280881	Chi è che Susanna ha detto che lo studente avrebbe dovuto descrivere questo candidato?	acceptability	Artif_Data:_chowdhury_zamparelli_2018
+AC-OC-02-R0574	15	3.266666667	1.222799287	0.315725418	Ci mostrarono il paziente che Maria voleva registrare e Marco testarlo.	acceptability	Artif_Data:_chowdhury_zamparelli_2018
+AC-OC-02-R0575	13	2.384615385	1.043907845	0.289527943	Ci dissero quale paziente l'infermiera aveva chiamato un uomo e Marco medicato l'anziano signore.	acceptability	Artif_Data:_chowdhury_zamparelli_2018
+AC-OC-02-R0576	14	4.714285714	1.325987088	0.354384956	Uno studente si aspetta che Francesco possa aver già finito questo esercizio in tempo utile?	acceptability	Artif_Data:_chowdhury_zamparelli_2018
+AC-OC-02-R0577	13	5	1.732050808	0.480384461	Nessuno studente sostiene di avere già finito questo esercizio in tempo utile?	acceptability	Artif_Data:_chowdhury_zamparelli_2018
+AC-OC-02-R0578	13	4.615384615	1.850155919	0.513140926	Carlo conosceva bene il professore che evitare sarebbe piaciuto a Anna.	acceptability	Artif_Data:_chowdhury_zamparelli_2018
+AC-OC-02-R0579	12	2.083333333	2.108783938	0.608753487	Chi pensi che Maria voglia chiamarlo e Marco visitare?	acceptability	Artif_Data:_chowdhury_zamparelli_2018
+AC-OC-02-R0580	13	3.461538462	2.145358735	0.595015456	Questo problema, il giornalista ha suggerito che Susanna aveva pensato che Carla avrebbe dovuto menzionarlo.	acceptability	Artif_Data:_chowdhury_zamparelli_2018
+AC-OC-02-R0581	14	2.142857143	1.561909229	0.4174378	Chi è che Susanna ha detto che lo studente avrebbe dovuto descrivere questo problema?	acceptability	Artif_Data:_chowdhury_zamparelli_2018
+AC-OC-02-R0582	15	3	1.511857892	0.390360029	Quale problema lui ha scritto che lei aveva detto che costui avrebbe dovuto descrivere questo candidato?	acceptability	Artif_Data:_chowdhury_zamparelli_2018
+AC-OC-02-R0583	15	2.933333333	1.980860804	0.51145606	Ci dissero chi Maria voleva chiamarlo e Marco medicarlo .	acceptability	Artif_Data:_chowdhury_zamparelli_2018
+AC-OC-02-R0584	14	3	1.709700829	0.456936767	Uno studente si aspetta che Francesco possa aver finito alcunchè in così poco tempo.	acceptability	Artif_Data:_chowdhury_zamparelli_2018
+AC-OC-02-R0585	14	5.285714286	1.637473261	0.437633137	Chi pensi che Maria voglia chiamare e il dottore medicare?	acceptability	Artif_Data:_chowdhury_zamparelli_2018
+AC-OC-02-R0586	13	2.153846154	1.463224399	0.405825431	Sapevo chi Maria aveva chiamato un uomo e Marco visitato l'anziano signore.	acceptability	Artif_Data:_chowdhury_zamparelli_2018
+AC-OC-02-R0587	15	2.733333333	1.334523279	0.344572429	Sapevo chi Maria aveva chiamato e Marco visitato l'anziano signore .	acceptability	Artif_Data:_chowdhury_zamparelli_2018
+AC-OC-02-R0588	14	5.214285714	1.528124614	0.408408482	Che cos'è che lui ha detto che Carla avrebbe dovuto menzionare?	acceptability	Artif_Data:_chowdhury_zamparelli_2018
+AC-OC-02-R0589	14	2.928571429	1.940035119	0.518496195	Conoscevo il paziente che l'infermiera voleva vederlo e Marco testare .	acceptability	Artif_Data:_chowdhury_zamparelli_2018
+AC-OC-02-R0590	15	5.4	2.197401062	0.567366515	Questo, lei dovrebbe descrivere questo problema.	acceptability	Artif_Data:_chowdhury_zamparelli_2018
+AC-OC-02-R0591	14	4.071428571	2.017778127	0.539273888	Uno studente si aspetta che Francesco possa aver finito nessun esercizio in tempo utile .	acceptability	Artif_Data:_chowdhury_zamparelli_2018
+AC-OC-02-R0592	15	4.533333333	1.505545305	0.388730126	Nessuno studente si aspetta che un altro studente abbia finito alcunchè in così poco tempo .	acceptability	Artif_Data:_chowdhury_zamparelli_2018
+AC-OC-02-R0593	12	6.083333333	1.378954369	0.398069838	Uno studente potrebbe aver già finito questo esercizio in tempo utile.	acceptability	Artif_Data:_chowdhury_zamparelli_2018
+AC-OC-02-R0594	12	4.916666667	2.314316445	0.668085611	Chi è che il professore ha pensato che Carla avrebbe dovuto menzionare?	acceptability	Artif_Data:_chowdhury_zamparelli_2018
+AC-OC-02-R0595	13	2.230769231	1.58922655	0.440772139	Ho sentito quale provvedimento Maria ha saputo perché Carlo prenderà.	acceptability	Artif_Data:_chowdhury_zamparelli_2018
+AC-OC-02-R0596	15	2.466666667	1.597617273	0.412503006	Quale problema lo studente dovrebbe descriverlo?	acceptability	Artif_Data:_chowdhury_zamparelli_2018
+AC-OC-02-R0597	12	4	1.954016842	0.564076075	Questo candidato, lo studente dovrebbe descrivere.	acceptability	Artif_Data:_chowdhury_zamparelli_2018
+AC-OC-02-R0598	15	3.133333333	2.065591118	0.533333333	Quale problema lo studente dovrebbe descrivere questo candidato?	acceptability	Artif_Data:_chowdhury_zamparelli_2018
+AC-OC-02-R0599	12	2.5	1	0.288675135	Ci mostrarono il paziente che Maria voleva vedere e il dottore visitarlo.	acceptability	Artif_Data:_chowdhury_zamparelli_2018
+AC-OC-02-R0600	14	2.571428571	1.603567451	0.428571429	Questo problema, il giornalista ha suggerito che Susanna aveva pensato che Carla avrebbe dovuto menzionare questo candidato.	acceptability	Artif_Data:_chowdhury_zamparelli_2018
+AC-OC-02-R0601	15	3	1.362770288	0.351865775	Carlo conosceva bene il compagno di classe con cui fare qualcosa sarebbe piaciuto a Sara.	acceptability	Artif_Data:_chowdhury_zamparelli_2018
+AC-OC-02-R0602	15	4.133333333	1.457329587	0.376280881	Nessuno studente sostiene di avere finito nessun esercizio in tempo utile?	acceptability	Artif_Data:_chowdhury_zamparelli_2018
+AC-OC-02-R0603	13	3.769230769	2.047512562	0.56787781	Questo candidato, Giulio ha scritto che lei aveva detto che Carla avrebbe dovuto menzionare questo candidato.	acceptability	Artif_Data:_chowdhury_zamparelli_2018
+AC-OC-02-R0604	15	5.533333333	1.505545305	0.388730126	Ho sentito cos'è che Maria ti ha detto che Carlo farà.	acceptability	Artif_Data:_chowdhury_zamparelli_2018
+AC-OC-02-R0605	15	4.733333333	1.751190072	0.452155332	Che cos'è che il giornalista ha scritto che Susanna aveva detto che lo studente avrebbe dovuto considerare?	acceptability	Artif_Data:_chowdhury_zamparelli_2018
+AC-OC-02-R0606	12	4.166666667	1.696699113	0.489794845	Nessuno sostiene di avere finito nessun esercizio in tempo utile.	acceptability	Artif_Data:_chowdhury_zamparelli_2018
+AC-OC-02-R0607	14	4	2.183856856	0.583660296	Nessuno studente sospetta che qualcuno abbia finito nessun esercizio in tempo utile.	acceptability	Artif_Data:_chowdhury_zamparelli_2018
+AC-OC-02-R0608	15	5.866666667	1.726543478	0.445791609	quale paziente pensi che l'infermiera voglia registrare e Marco medicare?	acceptability	Artif_Data:_chowdhury_zamparelli_2018
+AC-OC-02-R0609	13	2.769230769	1.48064435	0.410656856	Ci mostrarono il paziente che l'infermiera voleva registrarlo e Marco medicare.	acceptability	Artif_Data:_chowdhury_zamparelli_2018
+AC-OC-02-R0610	15	4.066666667	2.051712409	0.529749866	Uno studente potrebbe aver finito nessun esercizio in tempo utile.	acceptability	Artif_Data:_chowdhury_zamparelli_2018
+AC-OC-02-R0611	15	2.6	1.298350602	0.335232684	Ci mostrarono il paziente che Maria voleva vederlo e Marco medicarlo .	acceptability	Artif_Data:_chowdhury_zamparelli_2018
+AC-OC-02-R0612	15	5.4	1.882247896	0.485994317	Ho sentito che Maria ha saputo dove il ministro darà il premio ai dottori .	acceptability	Artif_Data:_chowdhury_zamparelli_2018
+AC-OC-02-R0613	12	2.583333333	1.240112409	0.357989617	Chi pensi che Maria abbia chiamato un uomo e il dottore medicato?	acceptability	Artif_Data:_chowdhury_zamparelli_2018
+AC-OC-02-R0614	12	4.583333333	1.831955405	0.528839973	Questo candidato, Susanna ha detto che lei avrebbe dovuto descriverlo.	acceptability	Artif_Data:_chowdhury_zamparelli_2018
+AC-OC-02-R0615	15	2.733333333	1.486446706	0.383798889	quale paziente dici che l'infermiera abbia chiamato un uomo e Marco medicato l'anziano signore?	acceptability	Artif_Data:_chowdhury_zamparelli_2018
+AC-OC-02-R0616	14	6.5	0.940539943	0.251369873	Ci mostrarono il paziente che l'infermiera aveva registrato e Marco medicato .	acceptability	Artif_Data:_chowdhury_zamparelli_2018
+AC-OC-02-R0617	13	4	1.471960144	0.40824829	il giornalista ha scritto che Susanna aveva detto che lo studente avrebbe dovuto considerare.	acceptability	Artif_Data:_chowdhury_zamparelli_2018
+AC-OC-02-R0618	13	3.461538462	2.366973617	0.656480365	Questo, lui ha affermato che il professore aveva detto che lo studente avrebbe dovuto considerarlo.	acceptability	Artif_Data:_chowdhury_zamparelli_2018
+AC-OC-02-R0619	12	4.416666667	2.108783938	0.608753487	Ho sentito a chi è che Maria ha saputo che il ministro darà il premio.	acceptability	Artif_Data:_chowdhury_zamparelli_2018
+AC-OC-02-R0620	15	4.466666667	1.726543478	0.445791609	Nessuno sospetta che qualcuno abbia già finito questo esercizio in tempo utile?	acceptability	Artif_Data:_chowdhury_zamparelli_2018
+AC-OC-02-R0621	15	3	1.511857892	0.390360029	Ci dissero quale paziente l'infermiera aveva chiamato un uomo e Marco medicato l'anziano signore.	acceptability	Artif_Data:_chowdhury_zamparelli_2018
+AC-OC-02-R0622	14	2.714285714	1.489892687	0.39819057	Chi è che lui ha affermato che il professore aveva detto che lo studente avrebbe dovuto considerare?	acceptability	Artif_Data:_chowdhury_zamparelli_2018
+AC-OC-02-R0623	12	2.25	1.138180366	0.32856437	quale paziente dici che Maria voglia chiamarlo e il dottore visitarlo?	acceptability	Artif_Data:_chowdhury_zamparelli_2018
+AC-OC-02-R0624	14	2.071428571	1.206666464	0.322495178	Ci mostrarono il paziente che Maria aveva visto e il dottore visitato un malato.	acceptability	Artif_Data:_chowdhury_zamparelli_2018
+AC-OC-02-R0625	12	1.916666667	1.164500153	0.336162238	Ci mostrarono il paziente che Maria voleva registrarlo e Marco testarlo.	acceptability	Artif_Data:_chowdhury_zamparelli_2018
+AC-OC-02-R0626	15	3.533333333	1.726543478	0.445791609	Sapevo quale paziente l'infermiera voleva chiamare e il dottore visitarlo .	acceptability	Artif_Data:_chowdhury_zamparelli_2018
+AC-OC-02-R0627	14	4.642857143	1.86494557	0.498427669	Maria sostiene di avere finito alcunchè in così poco tempo.	acceptability	Artif_Data:_chowdhury_zamparelli_2018
+AC-OC-02-R0628	12	3	0.852802865	0.246182982	Ci mostrarono l'anziano signore che l'infermiera voleva vedere e il dottore medicarlo.	acceptability	Artif_Data:_chowdhury_zamparelli_2018
+AC-OC-02-R0629	12	1.666666667	1.07308674	0.309773459	Sapevo quale paziente l'infermiera aveva registrato un uomo e Marco visitato l'anziano signore.	acceptability	Artif_Data:_chowdhury_zamparelli_2018
+AC-OC-02-R0630	14	2.714285714	0.994490316	0.265788717	Sapevo quale paziente l'infermiera aveva registrato e Marco visitato l'anziano signore.	acceptability	Artif_Data:_chowdhury_zamparelli_2018
+AC-OC-02-R0631	15	4.733333333	2.086236073	0.538663838	Con chi è che Maria ti ha detto che il ministro parlerà?	acceptability	Artif_Data:_chowdhury_zamparelli_2018
+AC-OC-02-R0632	13	6.461538462	1.198289379	0.332345677	Ho sentito che Maria ti ha detto quando Carlo farà un sopralluogo.	acceptability	Artif_Data:_chowdhury_zamparelli_2018
+AC-OC-02-R0633	15	5.066666667	1.830950833	0.472749472	Sapevo chi Maria voleva chiamare e il dottore medicare.	acceptability	Artif_Data:_chowdhury_zamparelli_2018
+AC-OC-02-R0634	15	6.533333333	1.35576371	0.350056685	Carlo conosceva bene lo studente che Anna voleva sempre evitare.	acceptability	Artif_Data:_chowdhury_zamparelli_2018
+AC-OC-02-R0635	14	2.5	1.60527975	0.42902906	Ci mostrarono il paziente che l'infermiera voleva registrarlo e Marco medicarlo.	acceptability	Artif_Data:_chowdhury_zamparelli_2018
+AC-OC-02-R0636	15	4.466666667	1.767430203	0.456348516	il professore ha detto che lo studente avrebbe dovuto descrivere.	acceptability	Artif_Data:_chowdhury_zamparelli_2018
+AC-OC-02-R0637	14	1.928571429	0.997248963	0.266525996	Sapevo che Maria voleva chiamarlo e Marco visitare .	acceptability	Artif_Data:_chowdhury_zamparelli_2018
+AC-OC-02-R0638	15	5.466666667	1.684664726	0.434978562	Sapevo che Maria voleva chiamarlo e il dottore medicarlo.	acceptability	Artif_Data:_chowdhury_zamparelli_2018
+AC-OC-02-R0639	14	2	1.414213562	0.377964473	Conoscevo il paziente che Maria aveva visto un paziente e Marco visitato .	acceptability	Artif_Data:_chowdhury_zamparelli_2018
+AC-OC-02-R0640	12	5.833333333	1.696699113	0.489794845	Sapevo quale paziente l'infermiera voleva chiamare e il dottore visitare.	acceptability	Artif_Data:_chowdhury_zamparelli_2018
+AC-OC-02-R0641	12	5.916666667	1.378954369	0.398069838	Nessuno sospetta che qualcuno possa aver finito alcunchè in così poco tempo?	acceptability	Artif_Data:_chowdhury_zamparelli_2018
+AC-OC-02-R0642	13	6.538461538	0.776250026	0.215293021	Carlo conosceva bene la ragazza con cui Sara sperava sempre di discutere.	acceptability	Artif_Data:_chowdhury_zamparelli_2018
+AC-OC-02-R0643	14	2.5	1.454436185	0.388714421	Che cos'è che il professore ha pensato che lo studente avrebbe dovuto considerarlo?	acceptability	Artif_Data:_chowdhury_zamparelli_2018
+AC-OC-02-R0644	12	5.666666667	1.435481125	0.414387707	Nessuno si aspetta che qualcuno abbia finito alcunchè in così poco tempo.	acceptability	Artif_Data:_chowdhury_zamparelli_2018
+AC-OC-02-R0645	12	2.166666667	1.585922922	0.457816513	Quale candidato lui ha detto che lei avrebbe dovuto descrivere questo candidato?	acceptability	Artif_Data:_chowdhury_zamparelli_2018
+AC-OC-02-R0646	14	4.571428571	1.827747067	0.488485951	Quale candidato lui ha detto che lei avrebbe dovuto descrivere?	acceptability	Artif_Data:_chowdhury_zamparelli_2018
+AC-OC-02-R0647	15	5.533333333	1.684664726	0.434978562	Conoscevo il paziente che Maria aveva visto e Marco visitato.	acceptability	Artif_Data:_chowdhury_zamparelli_2018
+AC-OC-02-R0648	14	3	1.414213562	0.377964473	lui ha pensato che lo studente avrebbe dovuto considerare .	acceptability	Artif_Data:_chowdhury_zamparelli_2018
+AC-OC-02-R0649	15	4.2	1.567527626	0.404733893	Sapevo che Maria aveva chiamato un uomo e Marco medicato.	acceptability	Artif_Data:_chowdhury_zamparelli_2018
+AC-OC-02-R0650	14	2.714285714	1.266647388	0.338525754	Sapevo chi l'infermiera voleva registrare e Marco visitarlo.	acceptability	Artif_Data:_chowdhury_zamparelli_2018
+AC-OC-02-R0651	12	3.416666667	1.831955405	0.528839973	Che cos'è che Giulio ha scritto che lei aveva detto che lo studente avrebbe dovuto descriverlo?	acceptability	Artif_Data:_chowdhury_zamparelli_2018
+AC-OC-02-R0652	12	6.5	0.797724035	0.230283093	Ho sentito che Maria ha saputo che il ministro incontrerà i dottori.	acceptability	Artif_Data:_chowdhury_zamparelli_2018
+AC-OC-02-R0653	14	1.928571429	1.141138818	0.304982178	Chi è che lo studente dovrebbe considerarlo?	acceptability	Artif_Data:_chowdhury_zamparelli_2018
+AC-OC-02-R0654	14	6.5	0.650443636	0.173838374	Ho sentito che Maria ha saputo perché il ministro incontrerà i dottori.	acceptability	Artif_Data:_chowdhury_zamparelli_2018
+AC-OC-02-R0655	12	4.083333333	2.193309386	0.633153882	Uno studente ha finito nessun esercizio in tempo utile.	acceptability	Artif_Data:_chowdhury_zamparelli_2018
+AC-OC-02-R0656	15	3.133333333	1.505545305	0.388730126	Quale candidato Giulio ha scritto che lei aveva detto che Carla avrebbe dovuto menzionarlo?	acceptability	Artif_Data:_chowdhury_zamparelli_2018
+AC-OC-02-R0657	15	6.066666667	1.751190072	0.452155332	Maria potrebbe aver mai finito questo esercizio in tempo utile?	acceptability	Artif_Data:_chowdhury_zamparelli_2018
+AC-OC-02-R0658	13	4.692307692	1.493575988	0.414243447	Nessuno studente si aspetta che un altro studente abbia finito alcunchè in così poco tempo?	acceptability	Artif_Data:_chowdhury_zamparelli_2018
+AC-OC-02-R0659	13	5.076923077	1.441153384	0.399704033	Ho sentito quale provvedimento Maria ha saputo che Carlo prenderà.	acceptability	Artif_Data:_chowdhury_zamparelli_2018
+AC-OC-02-R0660	13	6.076923077	1.441153384	0.399704033	Chi pensi che Maria abbia chiamato e Marco visitato?	acceptability	Artif_Data:_chowdhury_zamparelli_2018
+AC-OC-02-R0661	15	4.8	2.177810171	0.562308168	Uno studente potrebbe aver finito alcunchè in così poco tempo?	acceptability	Artif_Data:_chowdhury_zamparelli_2018
+AC-OC-02-R0662	15	2.733333333	1.162919151	0.300264434	Conoscevo il paziente che l'infermiera aveva registrato un paziente e il dottore visitato.	acceptability	Artif_Data:_chowdhury_zamparelli_2018
+AC-OC-02-R0663	15	5.533333333	1.552264091	0.400792865	Susanna ha detto che Carla avrebbe dovuto menzionare questo candidato .	acceptability	Artif_Data:_chowdhury_zamparelli_2018
+AC-OC-02-R0664	14	2.214285714	1.188313053	0.317590022	Ci mostrarono il paziente che Maria aveva visto un paziente e Marco medicato .	acceptability	Artif_Data:_chowdhury_zamparelli_2018
+AC-OC-02-R0665	12	2.5	1.930614598	0.557320429	Conoscevo il paziente che Maria voleva vederlo e Marco visitare.	acceptability	Artif_Data:_chowdhury_zamparelli_2018
+AC-OC-02-R0666	15	5.4	1.723783215	0.445078912	Sapevo chi Maria aveva chiamato e il dottore medicato.	acceptability	Artif_Data:_chowdhury_zamparelli_2018
+AC-OC-02-R0667	13	5.615384615	1.804552647	0.500492854	Nessuno sospetta che qualcuno possa aver mai finito questo esercizio in tempo utile?	acceptability	Artif_Data:_chowdhury_zamparelli_2018
+AC-OC-02-R0668	12	6	1.758098146	0.507519219	Ci mostrarono il paziente che Maria aveva visto e il dottore visitato.	acceptability	Artif_Data:_chowdhury_zamparelli_2018
+AC-OC-02-R0669	13	2.153846154	1.625123269	0.450728098	Chi pensi che Maria voglia chiamarlo e il dottore medicarlo?	acceptability	Artif_Data:_chowdhury_zamparelli_2018
+AC-OC-02-R0670	15	3.066666667	1.334523279	0.344572429	Ci dissero chi l'infermiera voleva registrarlo e Marco medicare.	acceptability	Artif_Data:_chowdhury_zamparelli_2018
+AC-OC-02-R0671	15	2.733333333	1.533747356	0.396011865	Ci mostrarono l'anziano signore che Maria voleva registrarlo e Marco visitarlo .	acceptability	Artif_Data:_chowdhury_zamparelli_2018
+AC-OC-02-R0672	15	3	2.035400978	0.525538273	Carlo conosceva bene la ragazza con cui discutere sarebbe piaciuto a Sara .	acceptability	Artif_Data:_chowdhury_zamparelli_2018
